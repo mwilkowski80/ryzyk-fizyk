@@ -130,7 +130,7 @@ class _Handler(BaseHTTPRequestHandler):
     def do_POST(self) -> None:  # noqa: N802
         state: _AppState = self.server.state  # type: ignore[attr-defined]
 
-        if self.path == "/next":
+        if self.path.endswith("/next"):
             try:
                 if state.deck is not None:
                     state.current = state.deck.next_card()
@@ -151,13 +151,13 @@ class _Handler(BaseHTTPRequestHandler):
             self._redirect_home()
             return
 
-        if self.path == "/answer":
+        if self.path.endswith("/answer"):
             if state.current is not None:
                 state.answer_revealed = True
             self._redirect_home()
             return
 
-        if self.path == "/shutdown":
+        if self.path.endswith("/shutdown"):
             allow = os.environ.get("WEB_ALLOW_SHUTDOWN", "0").strip() == "1"
             if not allow:
                 self.send_error(HTTPStatus.FORBIDDEN)
@@ -174,7 +174,7 @@ class _Handler(BaseHTTPRequestHandler):
 
     def _redirect_home(self) -> None:
         self.send_response(HTTPStatus.SEE_OTHER)
-        self.send_header("Location", "/")
+        self.send_header("Location", ".")
         self.end_headers()
 
     def log_message(self, fmt: str, *args: object) -> None:
@@ -225,11 +225,11 @@ def _render_page(state: _AppState) -> str:
   {error_html}
 
   <div class='row'>
-    <form method='post' action='/next'>
+    <form method='post' action='next'>
       <button type='submit'>Następne pytanie</button>
     </form>
 
-    <form method='post' action='/answer'>
+    <form method='post' action='answer'>
       <button type='submit'>Pokaż odpowiedź</button>
     </form>
   </div>
