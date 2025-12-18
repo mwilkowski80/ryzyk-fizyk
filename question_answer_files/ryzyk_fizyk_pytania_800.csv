@@ -1,0 +1,801 @@
+id;question;answer;unit;category;answer_type
+1;Ile gramów waży typowy bochenek chleba kupowany w sklepie?;500.0;g;dom/jedzenie;typowo
+2;Ile gramów ma standardowa kostka masła?;200.0;g;dom/jedzenie;typowo
+3;Ile mililitrów ma standardowy karton mleka?;1000.0;ml;dom/jedzenie;typowo
+4;Ile mililitrów ma typowa puszka napoju?;330.0;ml;dom/jedzenie;typowo
+5;Ile litrów ma popularna duża butelka wody?;1.5;l;dom/jedzenie;typowo
+6;Ile mililitrów ma typowe espresso (porcja)?;30.0;ml;dom/jedzenie;typowo
+7;Ile mililitrów ma typowa porcja latte/cappuccino w kawiarni (około)?;250.0;ml;dom/jedzenie;około
+8;Ile mililitrów ma łyżeczka (teaspoon) w kuchni?;5.0;ml;dom/kuchnia;umownie
+9;Ile mililitrów ma łyżka stołowa (tablespoon) w kuchni?;15.0;ml;dom/kuchnia;umownie
+10;Ile mililitrów ma 'szklanka' w przepisach (metryczna)?;250.0;ml;dom/kuchnia;umownie
+11;Ile gramów waży typowa kostka cukru?;4.0;g;dom/jedzenie;typowo
+12;Ile gramów ma typowa tabliczka czekolady?;100.0;g;dom/jedzenie;typowo
+13;Ile gramów waży przeciętny banan (bez skórki, około)?;120.0;g;dom/jedzenie;około
+14;Ile gramów waży przeciętne jabłko (około)?;180.0;g;dom/jedzenie;około
+15;Ile gramów waży typowe jajko (rozmiar M, około)?;60.0;g;dom/jedzenie;około
+16;Ile minut gotuje się jajko na twardo (typowo)?;10.0;min;dom/kuchnia;typowo
+17;Ile minut gotuje się jajko na miękko (typowo)?;6.0;min;dom/kuchnia;typowo
+18;Ile gramów waży kromka chleba (typowo)?;35.0;g;dom/jedzenie;typowo
+19;Ile gramów waży plaster sera żółtego (typowo)?;20.0;g;dom/jedzenie;typowo
+20;Ile centymetrów ma typowa pizza 'duża' (średnica)?;30.0;cm;dom/jedzenie;typowo
+21;Na ile kawałków kroi się typową pizzę w pizzerii?;8.0;szt.;dom/jedzenie;typowo
+22;Ile gramów ma typowy kotlet/hamburger (porcja mięsa, około)?;150.0;g;dom/jedzenie;około
+23;Ile mililitrów ma standardowa butelka wina?;750.0;ml;dom/jedzenie;fakt/standard
+24;Ile mililitrów ma typowa butelka piwa w Europie?;500.0;ml;dom/jedzenie;typowo
+25;Ile mililitrów mieści przeciętny kubek do herbaty w domu (około)?;350.0;ml;dom/kuchnia;około
+26;Ile centymetrów ma typowy talerz obiadowy (średnica, około)?;27.0;cm;dom/kuchnia;około
+27;Jaki jest dłuższy bok kartki A4?;29.7;cm;dom/standardy;fakt
+28;Jaki jest krótszy bok kartki A4?;21.0;cm;dom/standardy;fakt
+29;Ile milimetrów ma szerokość typowej karty płatniczej (około)?;86.0;mm;dom/standardy;około
+30;Ile centymetrów ma typowa wysokość drzwi wewnętrznych?;200.0;cm;dom;typowo
+31;Ile centymetrów ma typowa szerokość drzwi wewnętrznych?;80.0;cm;dom;typowo
+32;Ile centymetrów ma typowa wysokość stołu?;75.0;cm;dom;typowo
+33;Ile centymetrów ma typowa wysokość siedziska krzesła?;45.0;cm;dom;typowo
+34;Ile centymetrów ma typowa wysokość sufitu w mieszkaniu (około)?;250.0;cm;dom;około
+35;Ile milimetrów ma typowa grubość smartfona (około)?;8.0;mm;dom/technologia;około
+36;Ile gramów waży typowy smartfon?;200.0;g;dom/technologia;typowo
+37;Ile cali ma typowy ekran smartfona (przekątna, około)?;6.5;cal;dom/technologia;około
+38;Ile kilogramów waży typowy laptop do pracy?;1.5;kg;dom/technologia;typowo
+39;Ile cali ma typowy ekran laptopa (przekątna)?;15.6;cal;dom/technologia;typowo
+40;Jaka temperatura w °C jest zwykle uznawana za komfortową w mieszkaniu?;21.0;°C;dom;typowo
+41;Jaka temperatura w °C jest typowa w lodówce?;4.0;°C;dom;typowo
+42;Jaka temperatura w °C jest typowa w zamrażarce?;-18.0;°C;dom;typowo
+43;W jakiej temperaturze (°C) wrze woda na poziomie morza?;100.0;°C;nauka/życie;fakt
+44;W jakiej temperaturze (°C) topnieje lód (przy 1 atm)?;0.0;°C;nauka/życie;fakt
+45;Ile minut trwa przeciętny prysznic (około)?;8.0;min;dom;około
+46;Ile litrów wody mieści typowa wanna (około)?;150.0;l;dom;około
+47;Ile litrów ma typowe spłukanie toalety (około)?;6.0;l;dom;około
+48;Ile litrów ma typowy czajnik elektryczny (pojemność, około)?;1.7;l;dom;około
+49;Ile watów ma typowa kuchenka mikrofalowa (moc, około)?;800.0;W;dom;około
+50;Ile watów ma typowa żarówka LED 'odpowiednik 60W' (około)?;9.0;W;dom;około
+51;Ile woltów ma typowa bateria AA?;1.5;V;dom/technologia;typowo
+52;Ile cali ma typowy telewizor w salonie (około)?;55.0;cal;dom/technologia;około
+53;Ile minut trwa typowy krótki program prania (około)?;60.0;min;dom;około
+54;Ile minut trwa typowy cykl zmywarki (około)?;120.0;min;dom;około
+55;Ile watów pobiera typowy odkurzacz (moc, około)?;700.0;W;dom;około
+56;Ile centymetrów ma typowa poduszka (szerokość, około)?;70.0;cm;dom;około
+57;Ile centymetrów ma standardowa długość łóżka?;200.0;cm;dom;typowo
+58;Ile centymetrów ma standardowa szerokość łóżka jednoosobowego?;90.0;cm;dom;typowo
+59;Ile centymetrów ma standardowa szerokość łóżka dwuosobowego (około)?;160.0;cm;dom;około
+60;Ile centymetrów ma typowa wysokość stopnia schodów (około)?;17.0;cm;dom;około
+61;Ile centymetrów ma typowa głębokość stopnia schodów (około)?;28.0;cm;dom;około
+62;Ile centymetrów ma typowy ołówek?;19.0;cm;dom;typowo
+63;Ile centymetrów ma typowy długopis?;14.0;cm;dom;typowo
+64;Ile watów ma typowa ładowarka do telefonu (szybkie ładowanie, około)?;20.0;W;dom/technologia;około
+65;Ile GB ma 'typowy' pendrive kupowany dziś (około)?;64.0;GB;dom/technologia;około
+66;Ile MB ma typowe zdjęcie z telefonu (JPEG, około)?;3.0;MB;dom/technologia;około
+67;Ile litrów ma typowy bak paliwa w samochodzie osobowym (około)?;50.0;l;transport;około
+68;Ile barów ma typowe ciśnienie w oponie auta osobowego (około)?;2.2;bar;transport;około
+69;Ile centymetrów ma typowa głębokość blatu kuchennego?;60.0;cm;dom;typowo
+70;Ile centymetrów ma typowa wysokość blatu kuchennego?;90.0;cm;dom;typowo
+71;Ile minut ma doba?;1440.0;min;czas;fakt
+72;Ile sekund ma godzina?;3600.0;s;czas;fakt
+73;Ile sekund ma doba?;86400.0;s;czas;fakt
+74;Ile dni ma tydzień?;7.0;dni;czas;fakt
+75;Ile miesięcy ma rok?;12.0;mies.;czas;fakt
+76;Ile dni ma rok nieprzestępny?;365.0;dni;czas;fakt
+77;Ile dni ma rok przestępny?;366.0;dni;czas;fakt
+78;Ile tygodni ma rok (w przybliżeniu)?;52.0;tyg.;czas;około
+79;Ile godzin trwa typowy dzień pracy (etat)?;8.0;h;życie;typowo
+80;Ile godzin ma typowy tydzień pracy (etat)?;40.0;h;życie;typowo
+81;Ile godzin snu na dobę zwykle zaleca się dorosłym?;8.0;h;zdrowie;typowo
+82;Ile minut zajmuje przeciętnie zaśnięcie po zgaszeniu światła (około)?;15.0;min;zdrowie;około
+83;Jaka jest przeciętna prędkość marszu człowieka?;5.0;km/h;transport;typowo
+84;Jaka jest przeciętna prędkość szybkiego marszu (około)?;6.0;km/h;transport;około
+85;Jaka jest przeciętna prędkość truchtu/joggingu (około)?;10.0;km/h;sport;około
+86;Jaka jest przeciętna prędkość jazdy rowerem po mieście (około)?;15.0;km/h;transport;około
+87;Jaka jest przeciętna prędkość jazdy rowerem na szosie (amatorsko, około)?;25.0;km/h;sport;około
+88;Ile metrów długości ma typowy autobus miejski?;12.0;m;transport;typowo
+89;Ile metrów wysokości ma typowy autobus piętrowy (około)?;4.4;m;transport;około
+90;Ile metrów długości ma typowy samochód osobowy (około)?;4.5;m;transport;około
+91;Ile metrów długości ma typowe miejsce parkingowe?;5.0;m;transport;typowo
+92;Ile metrów szerokości ma typowe miejsce parkingowe (około)?;2.5;m;transport;około
+93;Ile miejsc siedzących ma typowy autokar dalekobieżny (około)?;50.0;miejsc;transport;około
+94;Jaka jest typowa prędkość przelotowa samolotu pasażerskiego?;900.0;km/h;transport;typowo
+95;Na jakiej wysokości lata samolot pasażerski w locie przelotowym (około)?;11000.0;m;transport;około
+96;Jaka jest prędkość startowa samolotu pasażerskiego (około)?;260.0;km/h;transport;około
+97;Jaka jest typowa maksymalna prędkość pociągu dużych prędkości?;300.0;km/h;transport;typowo
+98;Jaka jest przeciętna prędkość metra w mieście (z postojami, około)?;35.0;km/h;transport;około
+99;Jaka jest typowa prędkość windy w budynku mieszkalnym?;1.0;m/s;transport;typowo
+100;Jaka jest typowa prędkość schodów ruchomych?;0.5;m/s;transport;typowo
+101;Ile kilometrów ma maraton?;42.195;km;sport;fakt
+102;Ile kilometrów ma półmaraton?;21.0975;km;sport;fakt
+103;Ile minut trwa mecz piłki nożnej (bez dogrywki)?;90.0;min;sport;fakt
+104;Ilu zawodników jest na boisku w jednej drużynie piłkarskiej?;11.0;osób;sport;fakt
+105;Ilu zawodników jest na boisku w jednej drużynie koszykówki?;5.0;osób;sport;fakt
+106;Ile metrów ma jedno okrążenie standardowej bieżni lekkoatletycznej?;400.0;m;sport;fakt
+107;Ile kilometrów ma jedna mila?;1.609;km;ciekawostki;fakt
+108;Ile kilometrów na godzinę ma 1 węzeł (knot)?;1.852;km/h;ciekawostki;fakt
+109;Ile minut trwa 'typowy' odcinek serialu komediowego bez reklam (około)?;22.0;min;rozrywka;około
+110;Ile minut trwa 'typowy' odcinek serialu dramatycznego (około)?;45.0;min;rozrywka;około
+111;Ile minut trwa typowa piosenka radiowa (około)?;3.5;min;rozrywka;około
+112;Ile sekund trwa typowe parzenie herbaty (około 3 minuty)?;180.0;s;dom/kuchnia;około
+113;Ile minut trwa typowe gotowanie makaronu (al dente, około)?;10.0;min;dom/kuchnia;około
+114;Ile minut trwa typowe pieczenie mrożonej pizzy (około)?;12.0;min;dom/kuchnia;około
+115;Ile minut trwa typowe rozgrzanie piekarnika do 200°C (około)?;10.0;min;dom/kuchnia;około
+116;Ile minut trwa typowe ładowanie telefonu od 0% do 100% (około)?;90.0;min;dom/technologia;około
+117;Ile sekund trwa 'zielone' na typowych światłach dla pieszych (około)?;20.0;s;miasto;około
+118;Ile minut przed odjazdem zwykle zamyka się bramkę na lotnisku (około)?;15.0;min;transport;około
+119;Jaka jest typowa temperatura ciała człowieka (około)?;36.6;°C;człowiek;około
+120;Ile zębów ma typowo dorosły człowiek (z ósemkami)?;32.0;szt.;człowiek;fakt
+121;Ile kości ma typowo dorosły człowiek?;206.0;szt.;człowiek;fakt
+122;Ile litrów krwi ma przeciętny dorosły człowiek (około)?;5.0;l;człowiek;około
+123;Ile procent masy ciała człowieka stanowi woda (około)?;60.0;%;człowiek;około
+124;Ile uderzeń serca na minutę ma typowo dorosły w spoczynku (około)?;70.0;bpm;człowiek;około
+125;Ile uderzeń serca to około w ciągu doby przy 70 bpm?;100800.0;uderzeń;człowiek;wyliczone
+126;Ile kroków dziennie ma popularny cel aktywności (tzw. '10k')?;10000.0;kroków;zdrowie;typowo
+127;O ile centymetrów rosną włosy miesięcznie (około)?;1.0;cm/mies.;człowiek;około
+128;O ile milimetrów rosną paznokcie miesięcznie (około)?;3.0;mm/mies.;człowiek;około
+129;Ile dni trwa ciąża u człowieka (typowo, około)?;280.0;dni;człowiek;około
+130;Ile dni trwa inkubacja jaja kury (od zniesienia do wyklucia)?;21.0;dni;zwierzęta;fakt
+131;Ile kilogramów waży przeciętny noworodek (około)?;3.3;kg;człowiek;około
+132;Ile litrów wynosi całkowita pojemność płuc dorosłego (około)?;6.0;l;człowiek;około
+133;Ile chromosomów ma człowiek?;46.0;szt.;człowiek;fakt
+134;Ile mięśni ma ciało człowieka (około)?;600.0;szt.;człowiek;około
+135;Ile nóg ma owad?;6.0;nóg;zwierzęta;fakt
+136;Ile nóg ma pająk?;8.0;nóg;zwierzęta;fakt
+137;Ile ramion ma ośmiornica?;8.0;ramion;zwierzęta;fakt
+138;Ile lat żyje typowo chomik domowy?;2.0;lat;zwierzęta;typowo
+139;Ile lat może żyć złota rybka w dobrych warunkach (około)?;10.0;lat;zwierzęta;około
+140;Ile kilogramów waży typowo kot domowy (około)?;4.0;kg;zwierzęta;około
+141;Ile kilogramów waży duży pies rodzinny (np. golden retriever, około)?;30.0;kg;zwierzęta;około
+142;Ile lat żyje typowo pies domowy?;12.0;lat;zwierzęta;typowo
+143;Ile lat żyje typowo kot domowy?;15.0;lat;zwierzęta;typowo
+144;Ile metrów ma wysokość żyrafy (około)?;5.5;m;zwierzęta;około
+145;Ile metrów długości ma płetwal błękitny (około)?;25.0;m;zwierzęta;około
+146;Ile kilogramów waży płetwal błękitny (około)?;150000.0;kg;zwierzęta;około
+147;Jaka jest maksymalna prędkość geparda (około)?;110.0;km/h;zwierzęta;około
+148;Jaka jest maksymalna prędkość konia w galopie (około)?;88.0;km/h;zwierzęta;około
+149;Jaka jest maksymalna prędkość kota domowego (około)?;48.0;km/h;zwierzęta;około
+150;Ile procent powierzchni Ziemi pokrywa woda (około)?;71.0;%;Ziemia;około
+151;Jakie jest ciśnienie atmosferyczne na poziomie morza (około)?;1013.0;hPa;Ziemia;około
+152;Jaka jest prędkość dźwięku w powietrzu w 20°C (około)?;343.0;m/s;nauka;około
+153;Jaka jest prędkość światła w próżni?;299792.0;km/s;nauka;fakt
+154;Jaka jest średnia odległość Ziemia–Słońce (około)?;149.6;mln km;kosmos;około
+155;Ile minut leci światło ze Słońca na Ziemię (około)?;8.3;min;kosmos;około
+156;Ile kilometrów wynosi średnica Ziemi (około)?;12742.0;km;Ziemia;około
+157;Ile kilometrów wynosi średnica Księżyca (około)?;3474.0;km;kosmos;około
+158;Ile kilometrów wynosi średnia odległość Ziemia–Księżyc (około)?;384400.0;km;kosmos;około
+159;Ile kart ma standardowa talia do gry bez jokerów?;52.0;kart;gry;fakt
+160;Ile kart ma talia do gry z dwoma jokerami?;54.0;kart;gry;fakt
+161;Ile pól ma standardowa szachownica?;64.0;pól;gry;fakt
+162;Ile bierek ma na starcie jeden gracz w szachach?;16.0;szt.;gry;fakt
+163;Ile pionków ma na starcie jeden gracz w szachach?;8.0;szt.;gry;fakt
+164;Ile pionków ma na starcie jeden gracz w warcabach?;12.0;szt.;gry;fakt
+165;Ile kamieni (płytek) ma zestaw domina 'double-six'?;28.0;szt.;gry;fakt
+166;Ile klocków ma klasyczna wieża Jenga?;54.0;szt.;gry;fakt
+167;Ile małych klocków (cubelets) tworzy klasyczna kostka Rubika 3×3 (widocznych elementów)?;26.0;szt.;gry;fakt
+168;Ile pól ma standardowa plansza Sudoku 9×9?;81.0;pól;gry;fakt
+169;Ile kręgli stoi na torze w bowlingu na początku rzutu?;10.0;szt.;sport/gry;fakt
+170;Ile rund (frame'ów) ma standardowa gra w bowling?;10.0;frame;sport/gry;fakt
+171;Ile dołków ma standardowe pole golfowe?;18.0;dołków;sport;fakt
+172;Ilu zawodników jest na boisku w jednej drużynie siatkówki?;6.0;osób;sport;fakt
+173;Ilu zawodników jest na boisku w jednej drużynie baseballu?;9.0;osób;sport;fakt
+174;Ilu zawodników jest na lodzie w jednej drużynie hokeja (z bramkarzem)?;6.0;osób;sport;fakt
+175;Ile strun ma standardowa gitara?;6.0;strun;muzyka;fakt
+176;Ile strun ma skrzypce?;4.0;strun;muzyka;fakt
+177;Ile strun ma typowy ukulele?;4.0;strun;muzyka;fakt
+178;Ile klawiszy ma standardowy fortepian (pełna klawiatura)?;88.0;klawiszy;muzyka;fakt
+179;Ile białych klawiszy ma fortepian 88-klawiszowy?;52.0;klawiszy;muzyka;fakt
+180;Ile czarnych klawiszy ma fortepian 88-klawiszowy?;36.0;klawiszy;muzyka;fakt
+181;Ile liter ma alfabet angielski?;26.0;liter;ciekawostki;fakt
+182;Ile bitów ma jeden bajt?;8.0;bitów;technologia;fakt
+183;Ile znaków ma standardowy SMS w kodowaniu GSM-7?;160.0;znaków;technologia;fakt
+184;Ile MB mieści standardowa płyta CD (około)?;700.0;MB;technologia;około
+185;Ile GB mieści jednowarstwowa płyta DVD (około)?;4.7;GB;technologia;około
+186;Ile GB mieści jednowarstwowy Blu-ray (około)?;25.0;GB;technologia;około
+187;Ile pikseli ma szerokość obrazu Full HD?;1920.0;px;technologia;fakt
+188;Ile pikseli ma wysokość obrazu Full HD?;1080.0;px;technologia;fakt
+189;Ile pikseli ma szerokość obrazu 4K UHD?;3840.0;px;technologia;fakt
+190;Ile pikseli ma wysokość obrazu 4K UHD?;2160.0;px;technologia;fakt
+191;W którym roku uruchomiono serwis YouTube?;2005.0;rok;historia/technologia;fakt
+192;W którym roku uruchomiono Wikipedię?;2001.0;rok;historia/technologia;fakt
+193;W którym roku pokazano pierwszego iPhone'a?;2007.0;rok;historia/technologia;fakt
+194;W którym roku miał premierę pierwszy film 'Star Wars' (Episode IV)?;1977.0;rok;kultura;fakt
+195;Ile książek liczy główna seria 'Harry Potter'?;7.0;książek;kultura;fakt
+196;Ile planet ma Układ Słoneczny?;8.0;planet;kosmos;fakt
+197;Ile kontynentów wyróżnia się w szkolnym podziale?;7.0;kont.;geografia;fakt
+198;Ile oceanów wyróżnia się we współczesnym podziale?;5.0;oceanów;geografia;fakt
+199;Ile kolorów tradycyjnie wymienia się w tęczy?;7.0;kolorów;ciekawostki;typowo
+200;Ile strun ma standardowa gitara basowa?;4.0;strun;muzyka;fakt
+201;Około ile monet 1 grosz waży mniej więcej tyle co jedna moneta 5 zł?;4.0;monety;ciekawostki/pieniądze;wyliczone(≈)
+202;Ile ton waży czołg T-34-85 (wariant z armatą 85 mm, jak „Rudy 102”)?;32.0;t;historia/wojsko;fakt
+203;Ile metrów ma jedno okrążenie standardowej bieżni lekkoatletycznej (tor 1)?;400.0;m;sport;fakt
+204;Ilu ludzi do tej pory chodziło po Księżycu?;12.0;osób;kosmos;fakt
+205;Ile milimetrów ma dłuższy bok kartki A4?;297.0;mm;normy/papier;fakt
+206;Ile krasnoludków jest w historii „Królewna Śnieżka”?;7.0;szt.;popkultura/bajki;fakt
+207;Ile jest łącznie „Wielkich Pierścieni” (Great Rings) w legendarium Tolkiena?;20.0;szt.;popkultura/fantasy;fakt
+208;Ile klawiszy ma standardowe pianino/fortepian?;88.0;szt.;muzyka;fakt
+209;Ile gwiazd ma flaga USA?;50.0;szt.;geografia/symbole;fakt
+210;Ile minut może maksymalnie trwać przerwa w meczu piłki nożnej (half-time)?;15.0;min;sport;fakt
+211;Ile arkuszy ma standardowa ryza papieru?;500.0;szt.;biuro;fakt
+212;Ile mililitrów ma pojedyncze espresso (tzw. single shot, w przybliżeniu)?;30.0;ml;kuchnia/napoje;typowo
+213;Jaka jest górna granica masy piłki tenisowej wg ITF?;59.4;g;sport;fakt
+214;Ile centymetrów ma dokładnie 1 cal?;2.54;cm;jednostki;fakt
+215;Ile minut trwa standardowy mecz piłki nożnej (bez dogrywki)?;90.0;min;sport;fakt
+216;Na jakiej wysokości (od podłoża) jest obręcz kosza do koszykówki w standardzie?;3.05;m;sport;fakt
+217;Jaka jest szerokość bramki piłkarskiej (od słupka do słupka)?;7.32;m;sport;fakt
+218;Ile filmów obejmuje „Saga Skywalkerów” (Epizody I–IX) w Star Wars?;9.0;szt.;popkultura/film;fakt
+219;Ile książek liczy główny cykl powieści „Harry Potter”?;7.0;szt.;popkultura/książki;fakt
+220;Jaka jest wysokość poprzeczki bramki piłkarskiej od ziemi?;2.44;m;sport;fakt
+221;Ile mililitrów ma łyżka stołowa (miara kuchenna)?;15.0;ml;kuchnia/miary;umownie
+222;Ile mililitrów ma łyżeczka (miara kuchenna)?;5.0;ml;kuchnia/miary;umownie
+223;Ile gramów ma łyżeczka cukru (w przybliżeniu)?;4.0;g;kuchnia/jedzenie;typowo
+224;Ile kilokalorii ma łyżeczka cukru (ok. 4 g)?;16.0;kcal;kuchnia/jedzenie;wyliczone(≈)
+225;Ile mililitrów ma typowy kieliszek „shot” (w przybliżeniu)?;50.0;ml;kuchnia/napoje;typowo
+226;Ile mililitrów ma standardowa butelka wina?;750.0;ml;kuchnia/napoje;fakt
+227;Ile mililitrów ma typowa puszka napoju energetycznego?;250.0;ml;kuchnia/napoje;typowo
+228;Ile gramów ma standardowa paczka makaronu?;500.0;g;kuchnia/jedzenie;typowo
+229;Ile gramów ma paczka ryżu w torebkach 4×100 g (typowo)?;400.0;g;kuchnia/jedzenie;typowo
+230;Ile torebek ryżu po 100 g jest w paczce 400 g?;4.0;szt.;kuchnia/jedzenie;wyliczone(≈)
+231;Ile gramów ma standardowa kostka masła?;200.0;g;kuchnia/jedzenie;typowo
+232;Ile gramów ma standardowy jogurt w kubku (typowo)?;150.0;g;kuchnia/jedzenie;typowo
+233;Ile mililitrów ma standardowa butelka napoju 0,5 l?;500.0;ml;kuchnia/napoje;fakt
+234;Ile gramów waży średnie jabłko (w przybliżeniu)?;180.0;g;kuchnia/jedzenie;typowo
+235;Ile gramów waży średni banan bez skórki (w przybliżeniu)?;120.0;g;kuchnia/jedzenie;typowo
+236;Ile minut gotuje się jajko na twardo (typowo)?;10.0;min;kuchnia/jedzenie;typowo
+237;Ile stopni Celsjusza ma wrząca woda na poziomie morza?;100.0;°C;nauka/temperatura;fakt
+238;Ile stopni Celsjusza ma topniejący lód?;0.0;°C;nauka/temperatura;fakt
+239;Jaka jest typowa temperatura w lodówce?;4.0;°C;dom/AGD;typowo
+240;Ile watów ma typowy czajnik elektryczny?;2000.0;W;dom/AGD;typowo
+241;Ile litrów wody ma pełne spłukanie w nowoczesnej toalecie (typowo)?;6.0;l;dom;typowo
+242;Ile mililitrów ma „szklanka” w przepisach (umownie)?;250.0;ml;kuchnia/miary;umownie
+243;Ile gramów ma szklanka cukru (w przybliżeniu)?;200.0;g;kuchnia/miary;typowo
+244;Ile gramów ma szklanka mąki pszennej (w przybliżeniu)?;160.0;g;kuchnia/miary;typowo
+245;Ile gramów ma standardowa puszka pomidorów krojonych (netto, typowo)?;400.0;g;kuchnia/jedzenie;typowo
+246;Ile gramów ma standardowa puszka fasoli (netto, typowo)?;400.0;g;kuchnia/jedzenie;typowo
+247;Ile gramów ma standardowa puszka tuńczyka (netto, typowo)?;170.0;g;kuchnia/jedzenie;typowo
+248;Ile gramów ma typowa paczka chipsów „duża” (w przybliżeniu)?;150.0;g;kuchnia/jedzenie;typowo
+249;Ile gramów ma typowa porcja suchego makaronu na osobę?;80.0;g;kuchnia/jedzenie;typowo
+250;Ile gramów ma typowa kromka chleba (w przybliżeniu)?;35.0;g;kuchnia/jedzenie;typowo
+251;Ile kromek (po ok. 35 g) wyjdzie z bochenka 500 g (w przybliżeniu)?;14.0;szt.;kuchnia/jedzenie;wyliczone(≈)
+252;Ile łyżeczek (po 5 ml) mieści się w 1 litrze?;200.0;szt.;kuchnia/miary;wyliczone(≈)
+253;Ile łyżek stołowych (po 15 ml) mieści się w 1 litrze (w przybliżeniu)?;66.7;szt.;kuchnia/miary;wyliczone(≈)
+254;Ile gramów ma kostka cukru (typowo)?;4.0;g;kuchnia/jedzenie;typowo
+255;Ile kostek cukru (po 4 g) potrzeba, żeby uzyskać 100 g cukru?;25.0;szt.;kuchnia/jedzenie;wyliczone(≈)
+256;Ile gramów ma typowa saszetka suchych drożdży?;7.0;g;kuchnia/jedzenie;typowo
+257;Ile gramów ma typowa kulka mozzarelli w zalewie?;125.0;g;kuchnia/jedzenie;typowo
+258;Ile centymetrów ma średnica typowej pizzy „dużej”?;32.0;cm;kuchnia/jedzenie;typowo
+259;Ile litrów ma typowy kubek termiczny?;0.4;l;kuchnia/napoje;typowo
+260;Ile mililitrów ma typowy kubek kawy na wynos (średni)?;300.0;ml;kuchnia/napoje;typowo
+261;Ile centymetrów ma typowy wzrost dorosłej osoby (w przybliżeniu)?;175.0;cm;człowiek/codzienne;typowo
+262;Ile gramów waży typowy smartfon?;180.0;g;technologia/codzienne;typowo
+263;Ile cali ma typowy ekran laptopa?;15.6;cal;technologia/codzienne;typowo
+264;Ile kilogramów waży typowa walizka kabinowa pusta?;3.0;kg;podróże/codzienne;typowo
+265;Ile litrów ma typowy plecak szkolny?;20.0;l;codzienne;typowo
+266;Ile kilogramów może udźwignąć typowa torba zakupowa wielorazowa?;15.0;kg;codzienne;typowo
+267;Ile centymetrów ma szerokość łóżka jednoosobowego (typowo)?;90.0;cm;dom;typowo
+268;Ile centymetrów ma szerokość łóżka dwuosobowego (typowo)?;160.0;cm;dom;typowo
+269;Ile centymetrów ma długość łóżka (typowo)?;200.0;cm;dom;typowo
+270;Ile metrów ma wysokość sufitu w mieszkaniu (typowo)?;2.5;m;dom;typowo
+271;Ile stopni Celsjusza ustawia się w domu jako komfortową temperaturę zimą (typowo)?;21.0;°C;dom;typowo
+272;Ile watów ma typowa żarówka LED zastępująca starą 60 W (w przybliżeniu)?;9.0;W;dom/elektryka;typowo
+273;Ile lumenów ma taka żarówka LED (w przybliżeniu)?;800.0;lm;dom/elektryka;typowo
+274;Ile centymetrów ma szerokość standardowej pralki?;60.0;cm;dom/AGD;typowo
+275;Ile centymetrów ma głębokość standardowej pralki?;60.0;cm;dom/AGD;typowo
+276;Ile litrów wody zużywa pralka na jeden cykl (w przybliżeniu)?;50.0;l;dom/AGD;typowo
+277;Ile litrów ma typowa wanna (w przybliżeniu)?;150.0;l;dom;typowo
+278;Ile litrów wody zużyje prysznic 5 minut przy przepływie 10 l/min?;50.0;l;dom;wyliczone(≈)
+279;Ile minut trwa typowy dojazd do pracy/szkoły w mieście?;30.0;min;transport/codzienne;typowo
+280;Ile kilometrów ma typowa trasa dojazdu do pracy/szkoły?;10.0;km;transport/codzienne;typowo
+281;Ile metrów ma długość samochodu osobowego (typowo)?;4.4;m;transport/codzienne;typowo
+282;Ile ton waży typowy samochód osobowy (w przybliżeniu)?;1.4;t;transport/codzienne;typowo
+283;Ile kilogramów waży typowy rower miejski?;15.0;kg;transport/codzienne;typowo
+284;Ile km/h jedzie rowerzysta w mieście w spokojnym tempie (typowo)?;18.0;km/h;transport/codzienne;typowo
+285;Ile km/h ma szybki marsz (typowo)?;6.0;km/h;człowiek/codzienne;typowo
+286;Ile metrów ma długość autobusu miejskiego standardowego?;12.0;m;transport;fakt
+287;Ile miejsc siedzących ma typowy autobus miejski 12 m (w przybliżeniu)?;30.0;szt.;transport;typowo
+288;Ile litrów paliwa ma typowy bak w aucie osobowym (w przybliżeniu)?;50.0;l;transport;typowo
+289;Ile kilometrów przejedziesz na 1 litrze paliwa przy spalaniu 5 l/100 km?;20.0;km;transport;wyliczone(≈)
+290;Ile sekund trwa przejechanie 1 km z prędkością 60 km/h?;60.0;s;transport;wyliczone(≈)
+291;Ile minut trwa przejechanie 10 km z prędkością 60 km/h?;10.0;min;transport;wyliczone(≈)
+292;Ile centymetrów ma szerokość miejsca parkingowego (typowo)?;250.0;cm;transport/miasto;typowo
+293;Ile centymetrów ma długość miejsca parkingowego (typowo)?;500.0;cm;transport/miasto;typowo
+294;Ile kroków ma 1 kilometr przy długości kroku 0.75 m (w przybliżeniu)?;1333.0;kroków;człowiek/codzienne;wyliczone(≈)
+295;Ile kilometrów ma spacer 10 000 kroków przy kroku 0.75 m (w przybliżeniu)?;7.5;km;człowiek/codzienne;wyliczone(≈)
+296;Ile sekund trwa typowy spot reklamowy w TV?;30.0;s;media/codzienne;typowo
+297;Ile osób jest w typowym samochodzie osobowym (liczba miejsc)?;5.0;osób;transport/codzienne;fakt
+298;Ile kilogramów udźwigu ma typowa winda 8-osobowa (w przybliżeniu)?;630.0;kg;dom;typowo
+299;Ile osób mieści typowa winda w bloku?;8.0;osób;dom;typowo
+300;Ile metrów ma wysokość jednego piętra w bloku (od podłogi do podłogi, typowo)?;2.8;m;dom;typowo
+301;Ile kilometrów ma dystans półmaratonu?;21.0975;km;sport;fakt
+302;Ile metrów ma długość basenu olimpijskiego?;50.0;m;sport;fakt
+303;Ile metrów ma długość basenu „krótkiego” na pływalniach?;25.0;m;sport;fakt
+304;Ile metrów ma długość kortu tenisowego?;23.77;m;sport;fakt
+305;Ile metrów ma szerokość kortu tenisowego w singlu?;8.23;m;sport;fakt
+306;Ile metrów ma szerokość kortu tenisowego w deblu?;10.97;m;sport;fakt
+307;Ile centymetrów ma maksymalna średnica piłki tenisowej?;6.86;cm;sport;fakt
+308;Ile metrów ma długość boiska do koszykówki (FIBA)?;28.0;m;sport;fakt
+309;Ile metrów ma szerokość boiska do koszykówki (FIBA)?;15.0;m;sport;fakt
+310;Ile metrów ma długość boiska do siatkówki?;18.0;m;sport;fakt
+311;Ile metrów ma szerokość boiska do siatkówki?;9.0;m;sport;fakt
+312;Na jakiej wysokości jest siatka w siatkówce mężczyzn?;2.43;m;sport;fakt
+313;Na jakiej wysokości jest siatka w siatkówce kobiet?;2.24;m;sport;fakt
+314;Do ilu punktów gra się set w siatkówce (standardowo)?;25.0;pkt;sport;fakt
+315;Ilu zawodników jest na boisku w drużynie piłkarskiej (na raz)?;11.0;osób;sport;fakt
+316;Ilu zawodników jest na boisku w koszykówce (jedna drużyna)?;5.0;osób;sport;fakt
+317;Ilu zawodników jest na boisku w siatkówce (jedna drużyna)?;6.0;osób;sport;fakt
+318;Ilu zawodników jest na boisku w piłce ręcznej (jedna drużyna)?;7.0;osób;sport;fakt
+319;Ile sekund trwa limit na rzut w koszykówce (shot clock)?;24.0;s;sport;fakt
+320;Ile kręgli stoi na torze w bowlingu?;10.0;szt.;sport;fakt
+321;Ile kart ma standardowa talia do gry bez jokerów?;52.0;szt.;gry;fakt
+322;Ile kart ma talia z dwoma jokerami?;54.0;szt.;gry;typowo
+323;Ile oczek ma suma wszystkich ścian na standardowej kostce do gry?;21.0;oczka;gry;fakt
+324;Ile pionków ma gracz w warcabach na początku?;12.0;szt.;gry;fakt
+325;Ile małych kostek (cubies) ma kostka Rubika 3x3 (bez elementu wewnętrznego)?;26.0;szt.;gry;fakt
+326;Ile rund (maksymalnie) ma walka bokserska o tytuł (typowo)?;12.0;rund;sport;typowo
+327;Ile sekund trwa jedna runda w boksie zawodowym?;180.0;s;sport;fakt
+328;Ile minut trwa mecz koszykówki FIBA (bez przerw)?;40.0;min;sport;fakt
+329;Ile minut trwa jedna kwarta w koszykówce FIBA?;10.0;min;sport;fakt
+330;Ile minut trwa dogrywka w piłce nożnej (łącznie)?;30.0;min;sport;fakt
+331;Ile pierścieni jest w symbolu olimpijskim?;5.0;szt.;ciekawostki;fakt
+332;Ile kolorów ma tęcza w popularnym podziale?;7.0;szt.;ciekawostki;umownie
+333;Ile kontynentów wyróżnia się zwykle na Ziemi?;7.0;szt.;geografia;umownie
+334;Ile oceanów wyróżnia się zwykle na Ziemi?;5.0;szt.;geografia;umownie
+335;Ile stref czasowych ma Ziemia (umownie)?;24.0;szt.;geografia/czas;umownie
+336;Ile liter ma alfabet łaciński?;26.0;szt.;język;fakt
+337;Ile stopni ma pełny obrót?;360.0;°;matematyka;fakt
+338;Ile stopni ma kąt prosty?;90.0;°;matematyka;fakt
+339;Ile stopni ma suma kątów w trójkącie?;180.0;°;matematyka;fakt
+340;Ile miesięcy ma rok?;12.0;szt.;czas;fakt
+341;Ile dni ma luty w roku przestępnym?;29.0;dni;czas;fakt
+342;Ile bajtów ma 1 kibibajt (KiB)?;1024.0;B;technologia;fakt
+343;Ile bitów ma 1 bajt?;8.0;bit;technologia;fakt
+344;Ile megabajtów (MB) ma 1 gigabajt (GB) w uproszczeniu dziesiętnym?;1000.0;MB;technologia;umownie
+345;Ile milimetrów ma średnica płyty CD?;120.0;mm;technologia;fakt
+346;Ile minut muzyki mieści się na płycie CD (klasycznie)?;74.0;min;technologia/media;typowo
+347;Ile klatek na sekundę ma klasyczny film kinowy?;24.0;fps;media;fakt
+348;Ile znaków ma standardowy SMS bez polskich znaków?;160.0;znaków;technologia;fakt
+349;Ile cyfr ma typowy kod PIN do karty?;4.0;cyfry;codzienne;typowo
+350;Ile stron ma typowy komiks zeszytowy (w przybliżeniu)?;32.0;str.;media;typowo
+351;Ile minut trwa typowy odcinek sitcomu bez reklam (w przybliżeniu)?;22.0;min;media;typowo
+352;Ile minut trwa typowy odcinek serialu „godzinnego” bez reklam (w przybliżeniu)?;45.0;min;media;typowo
+353;Ile klawiszy ma typowa klawiatura pełnowymiarowa (w przybliżeniu)?;104.0;szt.;technologia;typowo
+354;Ile filmów obejmuje oryginalna trylogia „Gwiezdne Wojny”?;3.0;szt.;popkultura;fakt
+355;Ile tomów ma klasycznie „Władca Pierścieni” (trylogia)?;3.0;szt.;popkultura;fakt
+356;Ile osób tworzy zespół The Beatles?;4.0;osób;popkultura/muzyka;fakt
+357;Ile strun ma standardowa gitara?;6.0;strun;muzyka;fakt
+358;Ile strun mają skrzypce?;4.0;strun;muzyka;fakt
+359;Ile minut trwa jedna strona płyty winylowej LP (w przybliżeniu)?;20.0;min;muzyka;typowo
+360;Ile graczy jest na boisku w baseballu (jedna drużyna)?;9.0;osób;sport;fakt
+361;Ile pól ma klasyczna plansza Monopoly (liczba pól dookoła)?;40.0;pól;gry;fakt
+362;Ile domków maksymalnie można postawić na jednym polu w Monopoly?;4.0;szt.;gry;fakt
+363;Ile hoteli można postawić na jednym polu w Monopoly?;1.0;szt.;gry;fakt
+364;Ile minut ma tydzień?;10080.0;min;czas;fakt
+365;Ile sekund trwa przeciętne mrugnięcie okiem (w przybliżeniu)?;0.3;s;człowiek;typowo
+366;Ile razy na minutę mruga człowiek (typowo)?;15.0;razy/min;człowiek;typowo
+367;Ile państw członkowskich ma ONZ?;193.0;szt.;świat;fakt
+368;Ile zębów ma dorosły człowiek (z ósemkami)?;32.0;szt.;człowiek;fakt
+369;Ile zębów mlecznych ma dziecko?;20.0;szt.;człowiek;fakt
+370;Ile minut trwa przeciętny cykl snu (w przybliżeniu)?;90.0;min;zdrowie;typowo
+371;Ile godzin śpi noworodek na dobę (typowo)?;16.0;h;zdrowie;typowo
+372;Ile litrów krwi ma dorosły człowiek (w przybliżeniu)?;5.0;l;człowiek;typowo
+373;Ile kilometrów na godzinę może biec gepard (w przybliżeniu)?;110.0;km/h;natura/zwierzęta;typowo
+374;Ile kilometrów na godzinę potrafi biec struś (w przybliżeniu)?;70.0;km/h;natura/zwierzęta;typowo
+375;Ile kilometrów na godzinę potrafi płynąć delfin (w przybliżeniu)?;35.0;km/h;natura/zwierzęta;typowo
+376;Ile kilogramów waży przeciętny kot domowy (w przybliżeniu)?;4.0;kg;natura/zwierzęta;typowo
+377;Ile kilogramów waży przeciętny labrador (w przybliżeniu)?;30.0;kg;natura/zwierzęta;typowo
+378;Ile metrów może mieć dorosła żyrafa (w przybliżeniu)?;5.5;m;natura/zwierzęta;typowo
+379;Ile metrów ma przeciętnie słoń afrykański w kłębie (w przybliżeniu)?;3.3;m;natura/zwierzęta;około
+380;Ile kilogramów może ważyć dorosły słoń (w przybliżeniu)?;6000.0;kg;natura/zwierzęta;około
+381;Ile metrów na sekundę ma prędkość dźwięku w powietrzu (w przybliżeniu)?;343.0;m/s;nauka;około
+382;Ile kilometrów na godzinę ma prędkość dźwięku w powietrzu (w przybliżeniu)?;1235.0;km/h;nauka;około
+383;Ile kilometrów na sekundę ma prędkość światła w próżni (w przybliżeniu)?;300000.0;km/s;nauka;około
+384;Ile kilometrów na godzinę ma prędkość światła (w przybliżeniu)?;1080000000.0;km/h;nauka;wyliczone(≈)
+385;Ile milimetrów ma grubość kartki papieru (w przybliżeniu)?;0.1;mm;codzienne;typowo
+386;Ile gramów waży jedna kartka A4 papieru 80 g/m² (w przybliżeniu)?;5.0;g;codzienne;wyliczone(≈)
+387;Jaki procent powierzchni Ziemi pokrywa woda (w przybliżeniu)?;71.0;%;geografia;około
+388;Ile godzin trwa doba na Marsie („sol”, w przybliżeniu)?;24.6;h;kosmos;około
+389;Ile dni trwa rok na Marsie (w przybliżeniu)?;687.0;dni;kosmos;około
+390;Ile lat żyje przeciętnie pies (w przybliżeniu)?;12.0;lat;natura/zwierzęta;typowo
+391;Ile lat żyje przeciętnie kot (w przybliżeniu)?;15.0;lat;natura/zwierzęta;typowo
+392;Ile litrów wody zaleca się pić dziennie (w przybliżeniu)?;2.0;l;zdrowie;typowo
+393;Ile milimetrów rośnie paznokieć u ręki w miesiącu (w przybliżeniu)?;3.0;mm;człowiek;typowo
+394;Ile centymetrów rosną włosy w miesiącu (w przybliżeniu)?;1.2;cm;człowiek;typowo
+395;Ile oddechów na minutę wykonuje dorosły w spoczynku (typowo)?;12.0;oddech/min;zdrowie;typowo
+396;Ile uderzeń na minutę ma spoczynkowe tętno dorosłego (typowo)?;70.0;ud/min;zdrowie;typowo
+397;Ile procent stanowi sól w wodzie morskiej (zasolenie, w przybliżeniu)?;3.5;%;natura;około
+398;Ile kilometrów na godzinę może biec koń w galopie (w przybliżeniu)?;60.0;km/h;natura/zwierzęta;około
+399;Ile kilometrów na godzinę może osiągnąć sprinter na 100 m (w przybliżeniu)?;45.0;km/h;sport;około
+400;Ile kilogramów waży typowy noworodek (w przybliżeniu)?;3.5;kg;człowiek;typowo
+401;Ile minut trwa pieczenie ciasta biszkoptowego (w przybliżeniu)?;35.0;min;kuchnia/jedzenie;typowo
+402;Ile kilometrów na godzinę leci samolot pasażerski w przelocie (w przybliżeniu)?;900.0;km/h;transport;około
+403;Ile megaherców ma pasmo Wi‑Fi 2,4 GHz (w przybliżeniu)?;2400.0;MHz;technologia/sieci;około
+404;Ile metrów ma typowy koc (dłuższy bok)?;2.0;m;dom;typowo
+405;Ile procent baterii zużywa typowo 1 godzina oglądania wideo na telefonie (w przybliżeniu)?;15.0;%;technologia/codzienne;około
+406;Do ilu punktów gra się set w tenisie stołowym (standardowo)?;11.0;pkt;sport;fakt
+407;Ile utworów mieści się typowo na albumie muzycznym?;12.0;utworów;muzyka;typowo
+408;Ile okrążeń ma wyścig Formuły 1 (w przybliżeniu)?;60.0;okrążeń;sport/motoryzacja;około
+409;Ile kilometrów ma dystans triathlonu olimpijskiego – rower?;40.0;km;sport;fakt
+410;Ile klawiszy funkcyjnych ma klawiatura (F1–F12)?;12.0;klawiszy;technologia;fakt
+411;Ile gramów ma typowa paczka płatków kukurydzianych?;500.0;g;kuchnia/jedzenie;typowo
+412;Ile metrów ma wysokość najwyższego budynku na świecie (w przybliżeniu, Burj Khalifa)?;828.0;m;geografia/budowle;około
+413;Ile pinów ma złącze RJ-45 (Ethernet)?;8.0;pinów;technologia/sieci;fakt
+414;Ile znaków ma kod QR (w przybliżeniu maks. w trybie numerycznym)?;7089.0;znaków;technologia;fakt
+415;Ile znaków może mieć pojedyncza etykieta domeny (np. 'example') maksymalnie?;63.0;znaków;technologia/internet;fakt
+416;Ile gramów waży typowa łyżeczka?;15.0;g;dom/kuchnia;typowo
+417;Ile gramów ma typowa paczka sera żółtego w plastrach?;150.0;g;kuchnia/jedzenie;typowo
+418;Ile kontynentów odwiedza Phileas Fogg w 'W 80 dni dookoła świata' (w przybliżeniu)?;4.0;kontynenty;popkultura/książki;około
+419;Ile sezonów ma serial animowany 'Simpsonowie' (w przybliżeniu, stan 2025)?;35.0;sezonów;popkultura/seriale;około
+420;Ile grup po 16 bitów ma zapis IPv6 (standardowo)?;8.0;grup;technologia/sieci;fakt
+421;Ile minut trwa smażenie naleśnika z jednej strony (w przybliżeniu)?;1.0;min;kuchnia/jedzenie;typowo
+422;Ile liter ma alfabet grecki?;24.0;liter;język;fakt
+423;Ile watogodzin (Wh) to 1 kilowatogodzina (kWh)?;1000.0;Wh;technologia/energia;fakt
+424;Ile metrów ma typowy przewód USB do ładowarki (w przybliżeniu)?;1.0;m;technologia/codzienne;typowo
+425;Ile minut trwa typowy odcinek programu informacyjnego w TV (w przybliżeniu)?;30.0;min;media;typowo
+426;Ile graczy jest w drużynie koszykówki na boisku (łącznie obie drużyny)?;10.0;osób;sport;fakt
+427;Ile milimetrów ma złącze jack 3,5 mm?;3.5;mm;technologia/audio;fakt
+428;Ile gramów ma standardowy słoik dżemu (w przybliżeniu)?;280.0;g;kuchnia/jedzenie;typowo
+429;Ile minut trwa gotowanie ryżu (w przybliżeniu)?;12.0;min;kuchnia/jedzenie;typowo
+430;Ile centymetrów ma średnica piłki do koszykówki (w przybliżeniu)?;24.0;cm;sport;około
+431;Ile bitów ma liczba zapisana jako 1 bajt?;8.0;bit;technologia;fakt
+432;Ile centymetrów ma długość łyżki stołowej (w przybliżeniu)?;20.0;cm;dom/kuchnia;typowo
+433;Ile gramów ma typowa paczka mrożonych warzyw?;450.0;g;kuchnia/jedzenie;typowo
+434;Ile gramów ma typowa paczka szynki w plastrach?;120.0;g;kuchnia/jedzenie;typowo
+435;Ile sztuk chusteczek jest w typowym pudełku?;100.0;szt.;dom;typowo
+436;Ile gramów ma typowa paczka drożdży świeżych?;100.0;g;kuchnia/jedzenie;typowo
+437;Ile metrów ma standardowa rolka papieru do pieczenia (w przybliżeniu)?;8.0;m;dom/kuchnia;typowo
+438;Ile megabitów na sekundę ma 1 gigabit na sekundę (w uproszczeniu dziesiętnym)?;1000.0;Mb/s;technologia;umownie
+439;Ile sekund trwa 9 minut?;540.0;s;czas;wyliczone(≈)
+440;Ile kół ma standardowy zestaw domino (podwójne‑sześć)?;28.0;kamieni;gry;fakt
+441;Ile stron ma typowy podręcznik szkolny (w przybliżeniu)?;200.0;str.;szkoła;około
+442;Ile bajtów ma standardowy sektor dysku (klasycznie)?;512.0;B;technologia;typowo
+443;Ile metrów ma szerokość boiska do badmintona (debel)?;6.1;m;sport;fakt
+444;Ile centymetrów ma długość karty płatniczej (w przybliżeniu)?;8.6;cm;codzienne/przedmioty;około
+445;Ile metrów ma szerokość boiska do badmintona (singiel)?;5.18;m;sport;fakt
+446;Ile sztuk herbaty w torebkach bywa w standardowym pudełku (w przybliżeniu)?;20.0;szt.;kuchnia/napoje;typowo
+447;Ile kilometrów na godzinę może biec struś (w przybliżeniu)?;70.0;km/h;natura/zwierzęta;około
+448;Ile gramów waży typowa książka w miękkiej okładce (w przybliżeniu)?;350.0;g;codzienne/książki;typowo
+449;Ile metrów ma typowa rolka ręcznika papierowego (w przybliżeniu)?;15.0;m;dom/kuchnia;typowo
+450;Ile gramów ma typowa porcja mięsa na obiad (w przybliżeniu)?;150.0;g;kuchnia/jedzenie;typowo
+451;Ile minut trwa typowa drzemka „power nap”?;20.0;min;zdrowie;typowo
+452;Ile metrów ma boisko do piłki ręcznej – długość?;40.0;m;sport;fakt
+453;Ile kilometrów może przelecieć pszczoła w ciągu dnia (w przybliżeniu)?;10.0;km;natura/zwierzęta;około
+454;Ile metrów długości może mieć płetwal błękitny (w przybliżeniu)?;30.0;m;natura/zwierzęta;około
+455;Ile domów jest w Hogwarcie?;4.0;domy;popkultura/książki;fakt
+456;Ile kilometrów ma dystans wyścigu Formuły 1 (minimum regulaminowe, w przybliżeniu)?;305.0;km;sport/motoryzacja;około
+457;Ile centymetrów ma przekątna ekranu smartfona 6,5 cala (w przybliżeniu)?;16.5;cm;technologia/codzienne;wyliczone(≈)
+458;Ile graczy (max) może mieć klasyczna gra 'Chińczyk'?;4.0;graczy;gry;typowo
+459;Ile gramów waży karta płatnicza (w przybliżeniu)?;5.0;g;codzienne/przedmioty;typowo
+460;Ile gramów ma typowy serek wiejski?;200.0;g;kuchnia/jedzenie;typowo
+461;Ile gramów ma typowa paczka lodów w pudełku (w przybliżeniu)?;500.0;g;kuchnia/jedzenie;typowo
+462;Ile metrów kwadratowych ma boisko piłkarskie 105×68 m (w przybliżeniu)?;7140.0;m²;sport;wyliczone(≈)
+463;Ile znaków ma kod heksadecymalny jednego bajtu?;2.0;znaki;technologia;fakt
+464;Ile gramów waży typowa szczoteczka do zębów?;20.0;g;dom/łazienka;typowo
+465;Ile mililitrów ma typowa butelka octu?;500.0;ml;kuchnia/jedzenie;typowo
+466;Ile kilometrów ma najdłuższa rzeka w Europie (Wołga, w przybliżeniu)?;3530.0;km;geografia;około
+467;Ile kilogramów waży typowy worek cementu?;25.0;kg;dom/DIY;typowo
+468;Ile zawodników jest na lodzie w hokeju (jedna drużyna, bez bramkarza)?;5.0;osób;sport;fakt
+469;Ile woltów ma bateria 9V (kostka)?;9.0;V;dom/elektryka;fakt
+470;Ile kilometrów ma najdłuższa rzeka w Polsce (Wisła, w przybliżeniu)?;1047.0;km;geografia;około
+471;Ile centymetrów ma standardowa wysokość kosza na śmieci w kuchni (w przybliżeniu)?;50.0;cm;dom;wyliczone(≈)
+472;Ile metrów ma boisko do piłki ręcznej – szerokość?;20.0;m;sport;fakt
+473;Ile uderzeń serca wykonuje człowiek w ciągu doby przy 70/min (w przybliżeniu)?;100800.0;uderzeń;człowiek/zdrowie;wyliczone(≈)
+474;Ile watów ma typowa ładowarka do telefonu (w przybliżeniu)?;20.0;W;technologia/codzienne;typowo
+475;Ile metrów ma długość boiska do badmintona (debel)?;13.4;m;sport;fakt
+476;Ile dni ma czerwiec?;30.0;dni;czas;fakt
+477;Ile litrów ma typowy pojemnik na kurz w odkurzaczu pionowym (w przybliżeniu)?;0.6;l;dom/AGD;typowo
+478;Ile dni ma maj?;31.0;dni;czas;fakt
+479;Ile kilometrów ma długość Wielkiego Muru Chińskiego (w przybliżeniu)?;21000.0;km;geografia/budowle;około
+480;Ile gramów waży typowy zeszyt szkolny (w przybliżeniu)?;150.0;g;szkoła;typowo
+481;Ile minut trwa typowy program „wieczorynka” (w przybliżeniu)?;10.0;min;media;typowo
+482;Ile minut trwa typowa aktualizacja systemu (w przybliżeniu)?;20.0;min;technologia/codzienne;około
+483;Ile centymetrów ma szerokość karty microSD (w przybliżeniu)?;1.1;cm;technologia;około
+484;Ile minut ma 1,5 godziny?;90.0;min;czas;wyliczone(≈)
+485;Ile dni ma grudzień?;31.0;dni;czas;fakt
+486;Ile mililitrów ma 2 litry?;2000.0;ml;jednostki;fakt
+487;Ile tomów ma cykl 'Opowieści z Narnii'?;7.0;tomów;popkultura/książki;fakt
+488;Ile megaherców ma pasmo Wi‑Fi 5 GHz (w przybliżeniu)?;5000.0;MHz;technologia/sieci;około
+489;Ile kilogramów waży typowy odkurzacz tradycyjny?;6.0;kg;dom/AGD;typowo
+490;Ile minut trwa typowy występ stand‑up (w przybliżeniu)?;60.0;min;media;typowo
+491;Ile gramów waży piłka do koszykówki (w przybliżeniu)?;600.0;g;sport;około
+492;Ile części ma klasyczna trylogia 'Władca Pierścieni' (filmy)?;3.0;filmy;popkultura/film;fakt
+493;Ile minut trwa pieczenie mrożonej pizzy (w przybliżeniu)?;12.0;min;kuchnia/jedzenie;typowo
+494;Ile metrów ma długość boiska do squasha (w przybliżeniu)?;9.75;m;sport;fakt
+495;Ile lat (typowo) ma jeden 'psie rok' w ludzkich latach w popularnym uproszczeniu?;7.0;lat;popkultura/codzienne;umownie
+496;Ile metrów ma typowy koc (krótszy bok)?;1.5;m;dom;typowo
+497;Ile sekund trwa minuta w systemie SI?;60.0;s;czas;fakt
+498;Ile znaków ma typowy adres e‑mail (w przybliżeniu)?;25.0;znaków;technologia/codzienne;około
+499;Ile mililitrów ma typowy kefir/maślanka w butelce?;500.0;ml;kuchnia/napoje;typowo
+500;Ile litrów ma typowy garnek domowy (w przybliżeniu)?;3.0;l;dom/kuchnia;typowo
+501;Ile litrów wody mieści butelka 750 ml?;0.75;l;kuchnia/napoje;fakt
+502;Ile sezonów ma serial 'Gra o tron'?;8.0;sezonów;popkultura/seriale;fakt
+503;Ile mililitrów ma typowa puszka piwa?;500.0;ml;kuchnia/napoje;typowo
+504;Ile metrów ma typowy zwój kabla w markecie (w przybliżeniu)?;25.0;m;dom/DIY;typowo
+505;Ile minut trwa typowy odcinek kreskówki dla dzieci?;11.0;min;popkultura/seriale;typowo
+506;Ile herców ma sieć energetyczna w Europie?;50.0;Hz;technologia/elektryka;fakt
+507;Ile jardów ma boisko do futbolu amerykańskiego (między liniami bramkowymi)?;100.0;jardów;sport;fakt
+508;Ile centymetrów ma wysokość typowego kubka?;9.5;cm;dom/kuchnia;typowo
+509;Ile gramów ma typowa paczka kaszy (np. gryczanej) ?;400.0;g;kuchnia/jedzenie;typowo
+510;Ile stron WWW (w przybliżeniu) otwierasz w typowym dniu pracy?;30.0;stron;technologia/codzienne;około
+511;Ile kilometrów ma średnica Ziemi (w przybliżeniu)?;12742.0;km;geografia;około
+512;Ile centymetrów ma długość miarki krawieckiej (typowo)?;150.0;cm;dom/DIY;typowo
+513;Ile klatek ma sekunda animacji w standardzie 24 fps?;24.0;klatek;media;fakt
+514;Ile sekund trwa 2 minuty?;120.0;s;czas;wyliczone(≈)
+515;Ile milimetrów ma złącze jack 6,35 mm?;6.35;mm;technologia/audio;fakt
+516;Ile gramów ma typowa paczka żółtego sera w kawałku (w przybliżeniu)?;300.0;g;kuchnia/jedzenie;typowo
+517;Ile gramów ma typowa paczka rodzynek?;200.0;g;kuchnia/jedzenie;typowo
+518;Ile sekund trwa typowy trailer kinowy (w przybliżeniu)?;150.0;s;media/film;wyliczone(≈)
+519;Ile kilometrów na godzinę może osiągnąć sokół w locie nurkowym (w przybliżeniu)?;320.0;km/h;natura/zwierzęta;około
+520;Ile listków ma typowa rolka papieru toaletowego (w przybliżeniu)?;200.0;szt.;dom/łazienka;około
+521;Ile gramów ma typowa tubka pasty do zębów?;75.0;g;dom/łazienka;typowo
+522;Ile gramów ma typowa paczka cukru?;1000.0;g;kuchnia/jedzenie;typowo
+523;Ile mililitrów ma typowa butelka szamponu?;400.0;ml;dom/łazienka;typowo
+524;Ile bitów ma adres IPv6?;128.0;bit;technologia/sieci;fakt
+525;Ile metrów ma dystans biegu na 800 metrów?;800.0;m;sport;fakt
+526;Ile części ma klasyczna trylogia 'Powrót do przyszłości'?;3.0;filmy;popkultura/film;fakt
+527;Ile sekund ma 2 godziny?;7200.0;s;czas;wyliczone(≈)
+528;Ile bajtów ma 1 gibibajt (GiB)?;1073741824.0;B;technologia;fakt
+529;Ile kilometrów ma dystans Ironman – pływanie (w przybliżeniu)?;3.8;km;sport;fakt
+530;Ile milimetrów ma szerokość karty SD (w przybliżeniu)?;24.0;mm;technologia;około
+531;Ile gramów ma typowy kotlet schabowy (w przybliżeniu)?;180.0;g;kuchnia/jedzenie;typowo
+532;Ile mililitrów ma typowa mała śmietanka do kawy (kubeczek)?;10.0;ml;kuchnia/napoje;typowo
+533;Ile kilometrów ma dystans Ironman – rower (w przybliżeniu)?;180.0;km;sport;fakt
+534;Ile centymetrów ma wysokość siatki w tenisie stołowym?;15.25;cm;sport;fakt
+535;Ile pionków ma jeden gracz w 'Chińczyku'?;4.0;pionki;gry;fakt
+536;Ile kilometrów ma długość okrążenia w Tour de France (łączny dystans, w przybliżeniu)?;3400.0;km;sport;około
+537;Ile sekund ma 1,5 minuty?;90.0;s;czas;wyliczone(≈)
+538;Ile liter ma alfabet rosyjski (współczesny)?;33.0;liter;język;fakt
+539;Ile setów gra się w meczu tenisa stołowego (typowo) ?;5.0;setów;sport;typowo
+540;Ile minut trwa przerwa w koszykówce między połowami (w przybliżeniu)?;15.0;min;sport;około
+541;Ile metrów ma wysokość Wielkiej Piramidy w Gizie (w przybliżeniu)?;139.0;m;geografia/budowle;około
+542;Ile godzin trwa 24-godzinny wyścig Le Mans?;24.0;h;sport/motoryzacja;fakt
+543;Ile lat świetlnych dzieli nas od Proxima Centauri (w przybliżeniu)?;4.24;ly;kosmos;około
+544;Ile gramów ma typowa paczka proszku do pieczenia?;16.0;g;kuchnia/jedzenie;typowo
+545;Ile gramów ma typowa paczka kawy ziarnistej?;1000.0;g;kuchnia/napoje;typowo
+546;Ile metrów ma typowa rolka papieru toaletowego (w przybliżeniu)?;20.0;m;dom/łazienka;typowo
+547;Ile gramów ma typowa porcja ryżu ugotowanego na osobę (w przybliżeniu)?;180.0;g;kuchnia/jedzenie;typowo
+548;Ile mililitrów ma typowy jogurt pitny?;330.0;ml;kuchnia/napoje;typowo
+549;Ile kilometrów ma typowy etap kolarski (w przybliżeniu)?;180.0;km;sport;około
+550;Ile mililitrów to 1 litr?;1000.0;ml;jednostki;fakt
+551;Ile kilobitów na sekundę ma 1 megabit na sekundę (w uproszczeniu dziesiętnym)?;1000.0;kb/s;technologia;umownie
+552;Ile litrów ma typowy zbiornik paliwa w motocyklu (w przybliżeniu)?;15.0;l;transport;typowo
+553;Ile minut ma 3 dni?;4320.0;min;czas;wyliczone(≈)
+554;Ile kilogramów waży typowy odkurzacz pionowy?;2.5;kg;dom/AGD;typowo
+555;Ile woltów ma bateria AA?;1.5;V;dom/elektryka;fakt
+556;Ile lat trwa jedno „milenium”?;1000.0;lat;czas;fakt
+557;Ile gramów waży typowy pilot do TV?;120.0;g;dom/technologia;typowo
+558;Ile sędziów liniowych jest w meczu tenisa (typowo, w przybliżeniu)?;6.0;osób;sport;typowo
+559;Ile metrów wynosi maksymalna długość przewodu Ethernet dla 1000BASE‑T (typowo)?;100.0;m;technologia/sieci;fakt
+560;Ile minut trwa typowa sesja w saunie?;10.0;min;zdrowie;typowo
+561;Ile cyfr ma kod jednorazowy 2FA (typowo)?;6.0;cyfr;technologia/codzienne;typowo
+562;Ile pól (w przybliżeniu) ma jedna okrężna trasa w 'Chińczyku'?;40.0;pól;gry;około
+563;Ile bajtów ma klucz AES‑256?;32.0;B;technologia/bezpieczeństwo;fakt
+564;"Ile cali ma monitor 27"" w centymetrach (w przybliżeniu)?";68.6;cm;technologia;wyliczone(≈)
+565;Ile gramów ma typowa paczka kiełków (w przybliżeniu)?;100.0;g;kuchnia/jedzenie;typowo
+566;Ile bajtów ma adres IPv4?;4.0;B;technologia/sieci;wyliczone(≈)
+567;Ile sekund ma 1 rok (365 dni) (w przybliżeniu)?;31536000.0;s;czas;wyliczone(≈)
+568;Ile banknotów po 1 gramie waży 1 kilogram?;1000.0;banknotów;pieniądze;wyliczone(≈)
+569;Ile pokoi ma typowy hotel (w przybliżeniu)?;100.0;pokoi;podróże;około
+570;Ile dni ma październik?;31.0;dni;czas;fakt
+571;Ile gramów ma typowa kostka lodu z foremki (w przybliżeniu)?;20.0;g;kuchnia;typowo
+572;Ile kartek ma zeszyt 60‑stronicowy?;30.0;kartek;szkoła;wyliczone(≈)
+573;Ile kalorii ma typowy pączek (w przybliżeniu)?;300.0;kcal;zdrowie/jedzenie;około
+574;Ile kilogramów piasku mieści 10-litrowe wiadro (w przybliżeniu)?;16.0;kg;dom/DIY;około
+575;Ile gramów ma typowa paczka żelków?;100.0;g;kuchnia/jedzenie;typowo
+576;Ile sekund trwa przeciętny impuls mikrofali do podgrzania czegoś (w przybliżeniu)?;60.0;s;dom/AGD;typowo
+577;Ile metrów ma dystans biegu na 100 metrów?;100.0;m;sport;fakt
+578;Ile przewodów ma typowy kabel HDMI (liczba pinów w złączu)?;19.0;pinów;technologia/audio-wideo;fakt
+579;Ile stopni Celsjusza ma typowa temperatura w saunie?;80.0;°C;zdrowie;typowo
+580;Ile milisekund ma jedna sekunda?;1000.0;ms;czas;fakt
+581;Ile części ma filmowa trylogia 'Hobbit'?;3.0;filmy;popkultura/film;fakt
+582;Ile kalorii ma typowy banan (w przybliżeniu)?;100.0;kcal;zdrowie/jedzenie;około
+583;Ile kilometrów ma obwód Ziemi (w przybliżeniu)?;40075.0;km;geografia;około
+584;Ile stopni ma temperatura ciała człowieka (umownie)?;36.6;°C;człowiek/zdrowie;umownie
+585;Ile gramów ma typowa porcja makaronu ugotowanego na osobę (w przybliżeniu)?;200.0;g;kuchnia/jedzenie;typowo
+586;Ile dni ma wrzesień?;30.0;dni;czas;fakt
+587;Ile gramów ma typowa paczka soczewicy?;400.0;g;kuchnia/jedzenie;typowo
+588;Ile sezonów ma serial 'The Office' (US)?;9.0;sezonów;popkultura/seriale;fakt
+589;Ile pikseli ma rozdzielczość Full HD (1920×1080)?;2073600.0;px;technologia;wyliczone(≈)
+590;Ile centymetrów ma typowa wysokość stołu (blat)?;75.0;cm;dom;typowo
+591;Ile minut trwa typowa rozmowa telefoniczna (w przybliżeniu)?;3.0;min;codzienne;około
+592;Ile gramów ma typowa paczka płatków owsianych?;500.0;g;kuchnia/jedzenie;typowo
+593;Ile centów jest w 1 euro?;100.0;centów;pieniądze;fakt
+594;Ile metrów ma tor kolarski (welodrom) – jedno okrążenie (typowo)?;250.0;m;sport;typowo
+595;Ile naleśników wyjdzie z 1 litra mleka (w przybliżeniu)?;12.0;szt.;kuchnia/jedzenie;około
+596;Ile metrów ma standardowa wysokość kosza na śmieci w kuchni (w przybliżeniu)?;0.5;m;dom;około
+597;Ile milimetrów ma 2 centymetry?;20.0;mm;jednostki;fakt
+598;Ile minut ma 2,5 godziny?;150.0;min;czas;wyliczone(≈)
+599;Ile centymetrów ma typowa grubość ściany z cegły (w przybliżeniu)?;25.0;cm;dom/DIY;około
+600;Ile kilometrów ma promień Ziemi (w przybliżeniu)?;6371.0;km;geografia;około
+601;Ile centymetrów ma długość łyżeczki (w przybliżeniu)?;14.0;cm;dom/kuchnia;typowo
+602;Ile gramów mąki jest w 1 szklance mąki (w przybliżeniu)?;160.0;g;kuchnia/miary;typowo
+603;Ile minut trwa set w tenisie stołowym (w przybliżeniu)?;8.0;min;sport;około
+604;Ile dni trwa rok na Ziemi (średnio, w przybliżeniu)?;365.25;dni;czas;około
+605;Ile kilometrów na godzinę może wiać huragan (w przybliżeniu)?;250.0;km/h;natura;około
+606;Ile gramów ma typowa paczka mozzarelli tartej?;150.0;g;kuchnia/jedzenie;typowo
+607;Ile centymetrów ma typowa szerokość drzwi wejściowych?;90.0;cm;dom;typowo
+608;"Ile centymetrów ma standardowa przekątna monitora 24"" (w przybliżeniu)?";61.0;cm;technologia;wyliczone(≈)
+609;Ile znaków ma najdłuższa domena internetowa (maks. długość FQDN, w przybliżeniu)?;253.0;znaków;technologia/internet;fakt
+610;Ile mikrosekund ma jedna sekunda?;1000000.0;µs;czas;fakt
+611;Ile milimetrów ma grubość karty płatniczej (w przybliżeniu)?;0.8;mm;codzienne/przedmioty;około
+612;Ile metrów ma dystans biegu na 1500 metrów?;1500.0;m;sport;fakt
+613;Ile metrów ma wysokość kosza do koszykówki od obręczy do tablicy (w przybliżeniu)?;0.3;m;sport;około
+614;Ile metrów ma odległość rzutu karnego w piłce nożnej?;11.0;m;sport;fakt
+615;Ile lat trwa jedno „stulecie”?;100.0;lat;czas;fakt
+616;Ile procent dwutlenku węgla jest w powietrzu (w przybliżeniu, obecnie)?;0.04;%;nauka;około
+617;Ile metrów ma standardowa rolka folii spożywczej (w przybliżeniu)?;30.0;m;dom/kuchnia;typowo
+618;Ile centymetrów ma średnica patelni „małej” (w przybliżeniu)?;20.0;cm;dom/kuchnia;typowo
+619;Ile kilometrów ma popularny bieg „dycha” (10K)?;10.0;km;sport;fakt
+620;Ile stron ma typowy scenariusz filmu 2‑godzinnego (1 strona ≈ 1 minuta)?;120.0;str.;media/film;wyliczone(≈)
+621;Ile metrów ma 1 mila lądowa?;1609.0;m;jednostki;fakt
+622;Ile centymetrów ma szerokość karty płatniczej (w przybliżeniu)?;5.4;cm;codzienne/przedmioty;około
+623;Ile kilometrów ma dystans Ironman – bieg (maraton)?;42.195;km;sport;fakt
+624;Ile metrów ma wysokość Statuy Wolności (od ziemi do czubka pochodni, w przybliżeniu)?;93.0;m;geografia/budowle;około
+625;Ile pensów jest w 1 funcie?;100.0;pensów;pieniądze;fakt
+626;Ile bitów ma klucz AES‑128?;128.0;bit;technologia/bezpieczeństwo;fakt
+627;Ile gramów ma typowa paczka kiełbasy parówek?;250.0;g;kuchnia/jedzenie;typowo
+628;Ile gramów ma typowa tabliczka czekolady „duża”?;100.0;g;kuchnia/jedzenie;typowo
+629;Ile gramów ma typowa paczka chusteczek higienicznych (w przybliżeniu)?;200.0;g;dom;około
+630;Ile centymetrów ma 1 metr?;100.0;cm;jednostki;fakt
+631;Ile dni trwa doba na Księżycu (w przybliżeniu)?;29.5;dni;kosmos;około
+632;Ile centymetrów ma długość typowego noża kuchennego (w przybliżeniu)?;30.0;cm;dom/kuchnia;typowo
+633;Ile gramów ma typowa paczka batoników (zwykła, w przybliżeniu)?;200.0;g;kuchnia/jedzenie;typowo
+634;Ile procent tlenu jest w powietrzu (w przybliżeniu)?;21.0;%;nauka;około
+635;Ile kilometrów na godzinę wieje umiarkowany wiatr (w przybliżeniu)?;20.0;km/h;natura;około
+636;Ile sezonów ma serial 'Friends'?;10.0;sezonów;popkultura/seriale;fakt
+637;Ile kilometrów na godzinę płynie duży statek wycieczkowy (w przybliżeniu)?;40.0;km/h;transport;około
+638;Ile punktów gra się w tie-breaku w siatkówce (standardowo)?;15.0;pkt;sport;fakt
+639;Ile metrów ma najgłębsze miejsce oceanu (Rów Mariański, w przybliżeniu)?;11000.0;m;geografia;około
+640;Ile metrów ma wysokość Kilimandżaro (w przybliżeniu)?;5895.0;m;geografia;około
+641;Ile gramów waży typowy kubek ceramiczny (w przybliżeniu)?;300.0;g;dom/kuchnia;typowo
+642;Ile mililitrów ma typowy bidon sportowy?;750.0;ml;sport;typowo
+643;Ile kart dostaje każdy gracz na start w UNO?;7.0;kart;gry;fakt
+644;Ile minut trwa typowa reklama na YouTube przed filmem (w przybliżeniu)?;0.5;min;media;około
+645;Ile gramów ma typowa paczka soli kuchennej?;1000.0;g;kuchnia/jedzenie;typowo
+646;Ile sekund trwa typowe zagotowanie czajnika z 1 litrem wody (w przybliżeniu)?;180.0;s;dom/AGD;około
+647;Ile minut trwa mecz hokeja na lodzie (3 tercje po 20 min, bez przerw)?;60.0;min;sport;fakt
+648;Ilu hobbitów wchodzi w skład Drużyny Pierścienia?;4.0;osób;popkultura/film;fakt
+649;Ile kilometrów na godzinę ma prędkość obrotowa Ziemi na równiku (w przybliżeniu)?;1670.0;km/h;geografia/kosmos;około
+650;Ile watów ma szybka ładowarka do telefonu (w przybliżeniu)?;65.0;W;technologia/codzienne;typowo
+651;Ile mililitrów ma 1/3 litra (w przybliżeniu)?;333.0;ml;jednostki;wyliczone(≈)
+652;Ile metrów ma wysokość kosza w NBA/NCAA (standard)?;3.05;m;sport;fakt
+653;Ile kilometrów wynosi 1 rok świetlny (w przybliżeniu)?;9460000000000.0;km;kosmos;około
+654;Ile gramów cukru jest w 1 szklance cukru (w przybliżeniu)?;200.0;g;kuchnia/miary;typowo
+655;Ile woltów ma port USB (standardowo)?;5.0;V;technologia/elektronika;fakt
+656;Ile centymetrów ma typowa wysokość krzesła (od podłogi do siedziska)?;45.0;cm;dom;typowo
+657;Ile minut trwa doba na Merkurym (w przybliżeniu)?;84240.0;min;kosmos;około
+658;Ile stopni Celsjusza ma typowa temperatura pieczenia pizzy w piekarniku domowym?;220.0;°C;kuchnia;typowo
+659;Ile litrów ma typowy kubek miarowy?;1.0;l;dom/kuchnia;typowo
+660;Ile centymetrów ma średnica kubka (w przybliżeniu)?;8.0;cm;dom/kuchnia;typowo
+661;Ile odcinków (w przybliżeniu) ma jeden sezon serialu sitcomowego?;24.0;odcinków;popkultura/seriale;typowo
+662;Ile centymetrów ma długość standardowej linijki szkolnej?;30.0;cm;szkoła;fakt
+663;Ile gramów waży typowy list w kopercie (bez załączników)?;20.0;g;codzienne;typowo
+664;Ile dni ma kwiecień?;30.0;dni;czas;fakt
+665;Ile minut trwa typowy koncert (w przybliżeniu)?;90.0;min;muzyka;typowo
+666;Ile gramów ma typowa paczka rukoli/miksu sałat?;100.0;g;kuchnia/jedzenie;typowo
+667;Ile sekund ma 2,5 godziny?;9000.0;s;czas;wyliczone(≈)
+668;Ile metrów ma dystans biegu na 10 000 metrów?;10000.0;m;sport;fakt
+669;Ile gramów ma typowa paczka popcornu do mikrofalówki?;100.0;g;kuchnia/jedzenie;typowo
+670;Ile metrów ma dystans biegu na 5000 metrów?;5000.0;m;sport;fakt
+671;Ile metrów ma szerokość boiska do squasha (w przybliżeniu)?;6.4;m;sport;fakt
+672;Ile kilometrów na sekundę wynosi prędkość obiegu Ziemi wokół Słońca (w przybliżeniu)?;29.8;km/s;kosmos;około
+673;Ile dni ma lipiec?;31.0;dni;czas;fakt
+674;Ile gramów ma typowa paczka orzechów (w przybliżeniu)?;200.0;g;kuchnia/jedzenie;typowo
+675;Ile osób (w przybliżeniu) pracuje przy dużym filmie (ekipa)?;200.0;osób;media/film;około
+676;Ile rund ma turniej golfowy (standardowo)?;4.0;rundy;sport;fakt
+677;Ile gramów ma typowa paczka kawy mielonej?;250.0;g;kuchnia/napoje;typowo
+678;Ile znaków ma standardowy zestaw kart UNO (w przybliżeniu)?;108.0;kart;gry;fakt
+679;Ile osób liczy „Czterej Jeźdźcy Apokalipsy”?;4.0;osób;popkultura/religia;fakt
+680;Ile centymetrów ma średnica talerza obiadowego (w przybliżeniu)?;27.0;cm;dom/kuchnia;typowo
+681;Ile bajtów ma 1 mebibajt (MiB)?;1048576.0;B;technologia;fakt
+682;Ile minut trwa typowa przerwa szkolna?;10.0;min;szkoła;typowo
+683;Ile centymetrów ma długość ostrza noża kuchennego (w przybliżeniu)?;20.0;cm;dom/kuchnia;typowo
+684;Ile sekund trwa, zanim światło doleci z Ziemi na Księżyc (w przybliżeniu)?;1.3;s;kosmos;około
+685;Ile metrów ma wysokość kosza w koszykówce dziecięcej (typowo, mini-basket)?;2.6;m;sport;typowo
+686;Ile gramów ma typowa paczka kabanosów (w przybliżeniu)?;120.0;g;kuchnia/jedzenie;typowo
+687;Ile sylab ma słowo „superkalifradalistyczny” (w przybliżeniu)?;8.0;sylab;język;około
+688;Ile centymetrów ma typowa szczoteczka do zębów?;19.0;cm;dom/łazienka;typowo
+689;Ile klatek ma minuta filmu w 24 fps?;1440.0;klatek;media;wyliczone(≈)
+690;Ile kilometrów może mieć zasięg samolotu pasażerskiego dalekiego zasięgu (w przybliżeniu)?;14000.0;km;transport;około
+691;Ile gramów ma typowa paczka herbaty liściastej lub ekspresowej?;100.0;g;kuchnia/napoje;typowo
+692;Ile kilogramów to 1 tona?;1000.0;kg;jednostki;fakt
+693;Ile kilogramów waży typowy worek cebuli (w przybliżeniu)?;1.0;kg;zakupy;typowo
+694;Ile bajtów ma adres IPv6?;16.0;B;technologia/sieci;wyliczone(≈)
+695;Ile banknotów po 1 gramie waży 100 gramów?;100.0;banknotów;pieniądze;wyliczone(≈)
+696;Ile kostek lodu (po 20 g) waży 1 kilogram (w przybliżeniu)?;50.0;kostek;kuchnia;wyliczone(≈)
+697;Ile mililitrów ma 1/4 szklanki (umownie 250 ml)?;62.5;ml;kuchnia/miary;wyliczone(≈)
+698;Ile centymetrów ma wysokość typowego bidonu sportowego?;24.0;cm;sport;typowo
+699;Ile sekund trwa 0,5 minuty?;30.0;s;czas;wyliczone(≈)
+700;Ile centymetrów ma długość zapałki (w przybliżeniu)?;4.5;cm;codzienne/przedmioty;typowo
+701;Ile gramów ma typowa paczka mrożonych frytek?;750.0;g;kuchnia/jedzenie;typowo
+702;Ile żyć ma typowo gracz w klasycznych grach arcade (w przybliżeniu)?;3.0;żyć;gry;typowo
+703;Ile kilometrów ma dystans triathlonu olimpijskiego – bieg?;10.0;km;sport;fakt
+704;Ile liter ma alfabet hebrajski?;22.0;liter;język;fakt
+705;Ile sezonów ma serial 'Breaking Bad'?;5.0;sezonów;popkultura/seriale;fakt
+706;Ile znaków ma standardowy adres MAC z dwukropkami (np. AA:BB:...)?;17.0;znaków;technologia/sieci;fakt
+707;Ile pikseli ma rozdzielczość 4K UHD (3840×2160)?;8294400.0;px;technologia;wyliczone(≈)
+708;Ile gramów ma typowa paczka mąki?;1000.0;g;kuchnia/jedzenie;typowo
+709;Ile kilometrów na godzinę może płynąć rekin (w przybliżeniu)?;50.0;km/h;natura/zwierzęta;około
+710;Ile centymetrów ma typowa średnica monety (w przybliżeniu)?;2.3;cm;pieniądze;około
+711;Ile gramów waży typowa moneta obiegowa (w przybliżeniu)?;6.0;g;pieniądze;około
+712;Ile litrów ma typowy dzbanek filtrujący do wody?;2.4;l;dom/kuchnia;typowo
+713;Ile centymetrów ma długość długopisu (w przybliżeniu)?;14.0;cm;codzienne/przedmioty;typowo
+714;Ile sztuk tortilli bywa w typowej paczce?;6.0;szt.;kuchnia/jedzenie;typowo
+715;Ile mililitrów ma typowa śmietanka 30% w kartoniku?;200.0;ml;kuchnia/jedzenie;typowo
+716;Ile minut trwa typowy trailer kinowy (w przybliżeniu)?;2.5;min;media/film;typowo
+717;Ile liter ma słowo „konstantynopolitańczykowianeczka”?;32.0;liter;język;fakt
+718;Ile litrów ma typowy kosz na śmieci kuchenny?;30.0;l;dom;typowo
+719;Ile centymetrów ma średnica patelni „dużej” (w przybliżeniu)?;28.0;cm;dom/kuchnia;typowo
+720;Ile dni ma sierpień?;31.0;dni;czas;fakt
+721;Ile dżuli ma 1 watogodzina (Wh) (w przybliżeniu)?;3600.0;J;technologia/energia;fakt
+722;Ile metrów ma wysokość najwyższego szczytu Europy (Elbrus, w przybliżeniu)?;5642.0;m;geografia;około
+723;Ile bitów ma klucz AES‑256?;256.0;bit;technologia/bezpieczeństwo;fakt
+724;Ile metrów ma wysokość Mont Blanc (w przybliżeniu)?;4808.0;m;geografia;około
+725;Ilu zawodników jest na lodzie w hokeju (jedna drużyna, łącznie z bramkarzem)?;6.0;osób;sport;fakt
+726;Ile postaci jest w tytule 'Trzej Muszkieterowie'?;3.0;osób;popkultura/książki;fakt
+727;Ile centymetrów ma długość łyżki do zupy (w przybliżeniu)?;17.0;cm;dom/kuchnia;typowo
+728;Ile metrów ma dystans triathlonu olimpijskiego – pływanie?;1500.0;m;sport;fakt
+729;Ile metrów ma typowa wysokość człowieka w przeliczeniu na milimetry (175 cm)?;1750.0;mm;jednostki;wyliczone(≈)
+730;Ile stopni Celsjusza ma typowa temperatura pieczenia ciasta?;180.0;°C;kuchnia;typowo
+731;Ile mililitrów ma typowy żel pod prysznic?;400.0;ml;dom/łazienka;typowo
+732;Ile życzeń spełnia dżin w klasycznej bajce (typowo)?;3.0;życzenia;popkultura/bajki;umownie
+733;Ile kilometrów ma 1 mila lądowa (w przybliżeniu)?;1.609;km;jednostki;fakt
+734;Ile herców ma sieć energetyczna w USA?;60.0;Hz;technologia/elektryka;fakt
+735;Ile klatek ma 10 sekund filmu w 24 fps?;240.0;klatek;media;wyliczone(≈)
+736;Ile sekund ma 0,25 godziny?;900.0;s;czas;wyliczone(≈)
+737;Ile metrów ma standardowa wysokość kosza do koszykówki (3,05 m) w centymetrach?;305.0;cm;sport;wyliczone(≈)
+738;Ile metrów ma wysokość wieży Eiffla (w przybliżeniu, z anteną)?;330.0;m;geografia/budowle;około
+739;Ile kilogramów waży typowy worek gipsu (w przybliżeniu)?;20.0;kg;dom/DIY;typowo
+740;Ile mililitrów ma typowa butelka oleju spożywczego?;1000.0;ml;kuchnia/jedzenie;typowo
+741;Ile metrów ma długość stołu do tenisa stołowego?;2.74;m;sport;fakt
+742;Ile dżuli ma 1 kilowatogodzina (kWh)?;3600000.0;J;technologia/energia;fakt
+743;Ile rund ma typowy wyścig kolarski (Tour de France) (w przybliżeniu)?;21.0;etapów;sport;około
+744;Ile milimetrów ma 1 metr?;1000.0;mm;jednostki;fakt
+745;Ile mililitrów ma standardowa miarka do leków (łyżeczka miarowa)?;5.0;ml;zdrowie;typowo
+746;Ile gramów ma typowa paczka ciecierzycy suchej?;400.0;g;kuchnia/jedzenie;typowo
+747;Ile krążków (pucków) jest na rozpoczęciu meczu hokeja (na lodzie)?;1.0;szt.;sport;fakt
+748;Ile wiadomości SMS wysyła przeciętna osoba dziennie (w przybliżeniu)?;10.0;SMS;codzienne;około
+749;Ile kilometrów wynosi średnia odległość Ziemi od Księżyca (w przybliżeniu)?;384400.0;km;kosmos;około
+750;Ile litrów ma typowy dzbanek do herbaty (w przybliżeniu)?;1.0;l;dom/kuchnia;typowo
+751;Ile metrów ma szerokość stołu do tenisa stołowego?;1.525;m;sport;fakt
+752;Ile minut trwa gotowanie ziemniaków (w przybliżeniu)?;20.0;min;kuchnia/jedzenie;typowo
+753;Ile tomów ma klasyczna trylogia 'Millennium' Stiega Larssona?;3.0;tomów;popkultura/książki;fakt
+754;Ile centymetrów ma 2 metry?;200.0;cm;jednostki;fakt
+755;Ile kalorii ma typowe jabłko (w przybliżeniu)?;95.0;kcal;zdrowie/jedzenie;około
+756;Ile punktów potrzeba, by wygrać w UNO (standardowa zasada)?;500.0;pkt;gry;fakt
+757;Ile gramów waży typowa łyżka stołowa?;30.0;g;dom/kuchnia;typowo
+758;Ile gramów to 1 kilogram?;1000.0;g;jednostki;fakt
+759;Ile dni w roku jest słonecznych w typowym śródziemnomorskim kurorcie (w przybliżeniu)?;300.0;dni;podróże;około
+760;Ile gramów ma typowa paczka pieprzu mielonego?;20.0;g;kuchnia/przyprawy;typowo
+761;Ile kilometrów na litrze przejedzie motocykl przy spalaniu 4 l/100 km?;25.0;km;transport;wyliczone(≈)
+762;Ile metrów ma standardowa rolka folii aluminiowej (w przybliżeniu)?;20.0;m;dom/kuchnia;typowo
+763;Ile litrów ma typowa patelnia/wok (pojemność, w przybliżeniu)?;2.0;l;dom/kuchnia;około
+764;Ile centymetrów ma wysokość siatki w tenisie (przy słupkach)?;107.0;cm;sport;fakt
+765;Ile minut trwa gotowanie makaronu al dente (w przybliżeniu)?;9.0;min;kuchnia/jedzenie;typowo
+766;Ile kilogramów waży typowy worek zaprawy klejowej (w przybliżeniu)?;25.0;kg;dom/DIY;typowo
+767;Ile megabajtów na sekundę to 1 gigabit/s (w przybliżeniu)?;125.0;MB/s;technologia;wyliczone(≈)
+768;Ile dBi ma typowa antena routera domowego (w przybliżeniu)?;5.0;dBi;technologia/sieci;typowo
+769;Ile centymetrów ma średnica talerza deserowego (w przybliżeniu)?;20.0;cm;dom/kuchnia;typowo
+770;Ile par ma standardowa skrętka Ethernet?;4.0;par;technologia/sieci;fakt
+771;Ile metrów ma długość boiska do futbolu amerykańskiego (w przybliżeniu, bez pól punktowych)?;91.4;m;sport;około
+772;Ile jest kamieni nieskończoności (Infinity Stones) w uniwersum Marvela?;6.0;szt.;popkultura/film;fakt
+773;Ile mililitrów ma 1/2 szklanki (umownie 250 ml)?;125.0;ml;kuchnia/miary;wyliczone(≈)
+774;Ile gramów ma typowa porcja warzyw do obiadu (w przybliżeniu)?;200.0;g;kuchnia/jedzenie;typowo
+775;Ile gramów ma typowa paczka płatków do panierki (bułka tarta)?;500.0;g;kuchnia/jedzenie;typowo
+776;Ile kilometrów ma długość autostradowego odcinka 100 km w metrach?;100000.0;m;jednostki;wyliczone(≈)
+777;Ile centymetrów ma średnica typowego naleśnika?;22.0;cm;kuchnia/jedzenie;typowo
+778;Ile metrów ma średnica obręczy koszykarskiej (w przybliżeniu)?;0.45;m;sport;około
+779;Ile minut trwa typowe zagotowanie czajnika z 1 litrem wody (w przybliżeniu)?;3.0;min;dom/AGD;około
+780;Ile procent azotu jest w powietrzu (w przybliżeniu)?;78.0;%;nauka;około
+781;Ile gramów ma typowa paczka tortilli (w przybliżeniu)?;370.0;g;kuchnia/jedzenie;typowo
+782;Ile gramów ma typowa paczka przyprawy jednoskładnikowej (np. papryka)?;20.0;g;kuchnia/przyprawy;typowo
+783;Ile minut trwa długa przerwa szkolna (w przybliżeniu)?;20.0;min;szkoła;typowo
+784;Ile baterii AA mieści się w typowym pilocie do TV?;2.0;szt.;dom/technologia;typowo
+785;Ile kilometrów ma najdłuższa rzeka świata (w przybliżeniu)?;6650.0;km;geografia;około
+786;Ile żył ma skrętka Ethernet (pełna, 4 pary)?;8.0;żył;technologia/sieci;fakt
+787;Ile litrów powietrza ma wdech dorosłego w spoczynku (w przybliżeniu)?;0.5;l;człowiek/zdrowie;około
+788;Ile kilometrów na godzinę jedzie pociąg dużych prędkości (w przybliżeniu)?;300.0;km/h;transport;około
+789;Ile gramów waży piłka nożna (w przybliżeniu)?;430.0;g;sport;około
+790;Ile sekund trwa minuta ciszy?;60.0;s;ciekawostki;fakt
+791;Ile gramów ma typowa paczka wafli ryżowych?;130.0;g;kuchnia/jedzenie;typowo
+792;Ile bajtów ma 1 terabajt (TB) w uproszczeniu dziesiętnym?;1000000000000.0;B;technologia;umownie
+793;Ile gramów waży typowa pocztówka?;5.0;g;codzienne/przedmioty;typowo
+794;Ile misiów wchodzi w skład 'Trzech misiów'?;3.0;misie;popkultura/bajki;fakt
+795;Ile książek ma 'Trylogia' Igrzysk Śmierci?;3.0;książki;popkultura/książki;fakt
+796;Ile sekund ma 5 minut?;300.0;s;czas;wyliczone(≈)
+797;Ile gramów ma typowy twaróg w kostce?;250.0;g;kuchnia/jedzenie;typowo
+798;Ile centymetrów ma wysokość siatki w tenisie (na środku)?;91.4;cm;sport;fakt
+799;Ile centymetrów ma długość przeciętnej pszczoły (w przybliżeniu)?;1.5;cm;natura/zwierzęta;około
+800;Ile portów ma zakres portów TCP/UDP (0–65535)?;65536.0;portów;technologia/sieci;fakt

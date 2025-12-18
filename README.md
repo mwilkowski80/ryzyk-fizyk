@@ -1,4 +1,4 @@
-# Generator pytań liczbowych (LLM) — CLI + Web
+# Generator pytań liczbowych — CLI + Web
 
 Ta aplikacja generuje „karty” do gry w stylu *najbliżej, ale nie przekraczaj*. Każda karta zawiera:
 
@@ -11,7 +11,10 @@ Aplikacja działa w dwóch trybach:
 - **CLI**: interaktywnie w terminalu (`next` → pytanie, `answer` → odpowiedź+wyjaśnienie)
 - **Web**: prosta strona z przyciskami „Następne pytanie” i „Pokaż odpowiedź”
 
-W tle aplikacja wywołuje endpoint OpenAI-compatible `POST /v1/chat/completions`.
+Źródło pytań jest wybierane przez `QUESTION_SOURCE`:
+
+- `llm` — generowanie przez LLM (OpenAI-compatible `POST /v1/chat/completions`)
+- `csv` — serwowanie pytań z plików CSV z folderu
 
 ---
 
@@ -33,6 +36,12 @@ cp .env.example .env
 
 2. Uzupełnij wartości w `.env`:
 
+- `QUESTION_SOURCE` — **WYMAGANE**, `llm` albo `csv`
+
+### Tryb `llm`
+
+Wymagane:
+
 - `LLM_BASE_URL` — bazowy URL serwera LLM, np. `http://localhost:4001`
 - `LLM_MODEL` — nazwa modelu dostępna na serwerze
 - `LLM_API_KEY` — klucz Bearer (jeśli wymagany)
@@ -40,6 +49,20 @@ cp .env.example .env
   - `LLM_RESPONSE_FORMAT` — domyślnie `none` (kompatybilność). Ustaw `json_object`, jeśli Twój serwer wspiera `response_format` i chcesz wymusić poprawny JSON.
 
 > Aplikacja ładuje `.env` przez `python-dotenv` **tylko w entrypoincie**.
+
+### Tryb `csv`
+
+Wymagane:
+
+- `CSV_QUESTIONS_DIR` — folder z plikami `*.csv` (bez rekurencji)
+- `CSV_DELIMITER` — separator (np. `;`)
+
+CSV może mieć wiele kolumn, ale aplikacja używa tylko:
+
+- `question`
+- `answer`
+
+Wiersze z nienumerycznym `answer` są pomijane.
 
 ### Wskazanie innego pliku niż `.env`
 

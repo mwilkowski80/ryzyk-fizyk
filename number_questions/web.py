@@ -10,6 +10,7 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from typing import NoReturn
 
 from .config import LlmConfig
+from .csv_source import CsvDeck, load_cards_from_csv_dir
 from .generator import InvalidCard, QuestionGenerator
 from .llm_client import LlmHttpError, OpenAICompatibleClient
 from .pool import CardPool, read_pool_config_from_env
@@ -71,6 +72,20 @@ def _read_llm_config() -> LlmConfig:
     )
 
 
+def _read_question_source() -> str:
+    value = _get_required_env("QUESTION_SOURCE").lower()
+    if value not in {"llm", "csv"}:
+        raise ValueError("QUESTION_SOURCE must be either 'llm' or 'csv'")
+    return value
+
+
+def _read_csv_deck() -> CsvDeck:
+    csv_dir = _get_required_env("CSV_QUESTIONS_DIR")
+    delimiter = _get_required_env("CSV_DELIMITER")
+    cards = load_cards_from_csv_dir(csv_dir=csv_dir, delimiter=delimiter)
+    return CsvDeck(cards)
+
+
 def _die(message: str) -> NoReturn:
     print(message, file=sys.stderr)
     raise SystemExit(2)
@@ -83,9 +98,14 @@ def _read_web_bind() -> tuple[str, int]:
 
 
 class _AppState:
-    def __init__(self, *, generator: QuestionGenerator, pool: CardPool) -> None:
-        self.generator = generator
+    def __init__(
+        self,
+        *,
+        pool: CardPool | None,
+        deck: CsvDeck | None,
+    ) -> None:
         self.pool = pool
+        self.deck = deck
         self.current = None
         self.answer_revealed = False
         self.last_error: str | None = None
@@ -112,13 +132,17 @@ class _Handler(BaseHTTPRequestHandler):
 
         if self.path == "/next":
             try:
-                try:
-                    timeout = 1.0 if state.pool.size() == 0 else 0.2
-                    state.current = state.pool.get_sync(timeout_seconds=timeout)
-                except queue.Empty:
-                    state.last_error = "Pula pytań się uzupełnia w tle — spróbuj ponownie za chwilę."
-                    self._redirect_home()
-                    return
+                if state.deck is not None:
+                    state.current = state.deck.next_card()
+                else:
+                    assert state.pool is not None
+                    try:
+                        timeout = 1.0 if state.pool.size() == 0 else 0.2
+                        state.current = state.pool.get_sync(timeout_seconds=timeout)
+                    except queue.Empty:
+                        state.last_error = "Pula pytań się uzupełnia w tle — spróbuj ponownie za chwilę."
+                        self._redirect_home()
+                        return
                 state.answer_revealed = False
                 state.last_error = None
             except (InvalidCard, LlmHttpError) as e:
@@ -138,7 +162,8 @@ class _Handler(BaseHTTPRequestHandler):
             if not allow:
                 self.send_error(HTTPStatus.FORBIDDEN)
                 return
-            state.pool.stop()
+            if state.pool is not None:
+                state.pool.stop()
             self.send_response(HTTPStatus.OK)
             self.end_headers()
             self.wfile.write(b"shutting down")
@@ -224,21 +249,35 @@ def main() -> None:
     except RuntimeError as e:
         _die(str(e))
 
+    host, port = _read_web_bind()
+
     try:
-        llm_config = _read_llm_config()
+        source = _read_question_source()
     except ValueError as e:
         _die(str(e))
 
-    host, port = _read_web_bind()
+    pool: CardPool | None = None
+    deck: CsvDeck | None = None
 
-    client = OpenAICompatibleClient(llm_config)
-    generator = QuestionGenerator(client=client)
+    if source == "csv":
+        try:
+            deck = _read_csv_deck()
+        except ValueError as e:
+            _die(str(e))
+    else:
+        try:
+            llm_config = _read_llm_config()
+        except ValueError as e:
+            _die(str(e))
 
-    pool = CardPool(generator=generator, config=read_pool_config_from_env())
-    pool.start_background()
+        client = OpenAICompatibleClient(llm_config)
+        generator = QuestionGenerator(client=client)
+
+        pool = CardPool(generator=generator, config=read_pool_config_from_env())
+        pool.start_background()
 
     server = ThreadingHTTPServer((host, port), _Handler)
-    server.state = _AppState(generator=generator, pool=pool)  # type: ignore[attr-defined]
+    server.state = _AppState(pool=pool, deck=deck)  # type: ignore[attr-defined]
 
     logging.getLogger(__name__).info("Starting server on http://%s:%d", host, port)
     server.serve_forever()

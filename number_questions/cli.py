@@ -7,6 +7,7 @@ import sys
 from typing import NoReturn
 
 from .config import LlmConfig
+from .csv_source import CsvDeck, load_cards_from_csv_dir
 from .generator import InvalidCard, QuestionGenerator
 from .llm_client import LlmHttpError, OpenAICompatibleClient
 from .pool import CardPool, read_pool_config_from_env
@@ -68,6 +69,20 @@ def _read_config() -> LlmConfig:
     )
 
 
+def _read_question_source() -> str:
+    value = _get_required_env("QUESTION_SOURCE").lower()
+    if value not in {"llm", "csv"}:
+        raise ValueError("QUESTION_SOURCE must be either 'llm' or 'csv'")
+    return value
+
+
+def _read_csv_deck() -> CsvDeck:
+    csv_dir = _get_required_env("CSV_QUESTIONS_DIR")
+    delimiter = _get_required_env("CSV_DELIMITER")
+    cards = load_cards_from_csv_dir(csv_dir=csv_dir, delimiter=delimiter)
+    return CsvDeck(cards)
+
+
 def _print_help() -> None:
     print("Komendy:")
     print("  n / next     - nowe pytanie")
@@ -91,15 +106,29 @@ def main() -> None:
         _die(str(e))
 
     try:
-        config = _read_config()
+        source = _read_question_source()
     except ValueError as e:
         _die(str(e))
 
-    client = OpenAICompatibleClient(config)
-    generator = QuestionGenerator(client=client)
+    pool: CardPool | None = None
+    deck: CsvDeck | None = None
 
-    pool = CardPool(generator=generator, config=read_pool_config_from_env())
-    pool.start_background()
+    if source == "csv":
+        try:
+            deck = _read_csv_deck()
+        except ValueError as e:
+            _die(str(e))
+    else:
+        try:
+            config = _read_config()
+        except ValueError as e:
+            _die(str(e))
+
+        client = OpenAICompatibleClient(config)
+        generator = QuestionGenerator(client=client)
+
+        pool = CardPool(generator=generator, config=read_pool_config_from_env())
+        pool.start_background()
 
     current = None
     answer_revealed = False
@@ -111,11 +140,13 @@ def main() -> None:
             cmd = input("> ").strip().lower()
         except EOFError:
             print()
-            pool.stop()
+            if pool is not None:
+                pool.stop()
             return
 
         if cmd in {"q", "quit", "exit"}:
-            pool.stop()
+            if pool is not None:
+                pool.stop()
             return
 
         if cmd in {"h", "help", "?", ""}:
@@ -124,12 +155,16 @@ def main() -> None:
 
         if cmd in {"n", "next"}:
             try:
-                try:
-                    timeout = 3.0 if pool.size() == 0 else 0.2
-                    current = pool.get_sync(timeout_seconds=timeout)
-                except queue.Empty:
-                    print("Pula pytań się uzupełnia w tle — spróbuj ponownie za chwilę.")
-                    continue
+                if deck is not None:
+                    current = deck.next_card()
+                else:
+                    assert pool is not None
+                    try:
+                        timeout = 3.0 if pool.size() == 0 else 0.2
+                        current = pool.get_sync(timeout_seconds=timeout)
+                    except queue.Empty:
+                        print("Pula pytań się uzupełnia w tle — spróbuj ponownie za chwilę.")
+                        continue
                 answer_revealed = False
                 print()
                 print("Pytanie:")
