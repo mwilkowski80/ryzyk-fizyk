@@ -1,0 +1,2001 @@
+id;question;answer;unit;category;answer_type
+1;Ile gramów waży typowy bochenek chleba kupowany w sklepie?;500.0;g;dom/jedzenie;typowo
+2;Ile gramów ma standardowa kostka masła?;200.0;g;dom/jedzenie;typowo
+3;Ile mililitrów ma standardowy karton mleka?;1000.0;ml;dom/jedzenie;typowo
+4;Ile mililitrów ma typowa puszka napoju?;330.0;ml;dom/jedzenie;typowo
+5;Ile litrów ma popularna duża butelka wody?;1.5;l;dom/jedzenie;typowo
+6;Ile mililitrów ma typowe espresso (porcja)?;30.0;ml;dom/jedzenie;typowo
+7;Ile mililitrów ma typowa porcja latte/cappuccino w kawiarni (około)?;250.0;ml;dom/jedzenie;około
+8;Ile mililitrów ma łyżeczka (teaspoon) w kuchni?;5.0;ml;dom/kuchnia;umownie
+9;Ile mililitrów ma łyżka stołowa (tablespoon) w kuchni?;15.0;ml;dom/kuchnia;umownie
+10;Ile mililitrów ma 'szklanka' w przepisach (metryczna)?;250.0;ml;dom/kuchnia;umownie
+11;Ile gramów waży typowa kostka cukru?;4.0;g;dom/jedzenie;typowo
+12;Ile gramów ma typowa tabliczka czekolady?;100.0;g;dom/jedzenie;typowo
+13;Ile gramów waży przeciętny banan (bez skórki, około)?;120.0;g;dom/jedzenie;około
+14;Ile gramów waży przeciętne jabłko (około)?;180.0;g;dom/jedzenie;około
+15;Ile gramów waży typowe jajko (rozmiar M, około)?;60.0;g;dom/jedzenie;około
+16;Ile minut gotuje się jajko na twardo (typowo)?;10.0;min;dom/kuchnia;typowo
+17;Ile minut gotuje się jajko na miękko (typowo)?;6.0;min;dom/kuchnia;typowo
+18;Ile gramów waży kromka chleba (typowo)?;35.0;g;dom/jedzenie;typowo
+19;Ile gramów waży plaster sera żółtego (typowo)?;20.0;g;dom/jedzenie;typowo
+20;Ile centymetrów ma typowa pizza 'duża' (średnica)?;30.0;cm;dom/jedzenie;typowo
+21;Na ile kawałków kroi się typową pizzę w pizzerii?;8.0;szt.;dom/jedzenie;typowo
+22;Ile gramów ma typowy kotlet/hamburger (porcja mięsa, około)?;150.0;g;dom/jedzenie;około
+23;Ile mililitrów ma standardowa butelka wina?;750.0;ml;dom/jedzenie;fakt/standard
+24;Ile mililitrów ma typowa butelka piwa w Europie?;500.0;ml;dom/jedzenie;typowo
+25;Ile mililitrów mieści przeciętny kubek do herbaty w domu (około)?;350.0;ml;dom/kuchnia;około
+26;Ile centymetrów ma typowy talerz obiadowy (średnica, około)?;27.0;cm;dom/kuchnia;około
+27;Jaki jest dłuższy bok kartki A4?;29.7;cm;dom/standardy;fakt
+28;Jaki jest krótszy bok kartki A4?;21.0;cm;dom/standardy;fakt
+29;Ile milimetrów ma szerokość typowej karty płatniczej (około)?;86.0;mm;dom/standardy;około
+30;Ile centymetrów ma typowa wysokość drzwi wewnętrznych?;200.0;cm;dom;typowo
+31;Ile centymetrów ma typowa szerokość drzwi wewnętrznych?;80.0;cm;dom;typowo
+32;Ile centymetrów ma typowa wysokość stołu?;75.0;cm;dom;typowo
+33;Ile centymetrów ma typowa wysokość siedziska krzesła?;45.0;cm;dom;typowo
+34;Ile centymetrów ma typowa wysokość sufitu w mieszkaniu (około)?;250.0;cm;dom;około
+35;Ile milimetrów ma typowa grubość smartfona (około)?;8.0;mm;dom/technologia;około
+36;Ile gramów waży typowy smartfon?;200.0;g;dom/technologia;typowo
+37;Ile cali ma typowy ekran smartfona (przekątna, około)?;6.5;cal;dom/technologia;około
+38;Ile kilogramów waży typowy laptop do pracy?;1.5;kg;dom/technologia;typowo
+39;Ile cali ma typowy ekran laptopa (przekątna)?;15.6;cal;dom/technologia;typowo
+40;Jaka temperatura w °C jest zwykle uznawana za komfortową w mieszkaniu?;21.0;°C;dom;typowo
+41;Jaka temperatura w °C jest typowa w lodówce?;4.0;°C;dom;typowo
+42;Jaka temperatura w °C jest typowa w zamrażarce?;-18.0;°C;dom;typowo
+43;W jakiej temperaturze (°C) wrze woda na poziomie morza?;100.0;°C;nauka/życie;fakt
+44;W jakiej temperaturze (°C) topnieje lód (przy 1 atm)?;0.0;°C;nauka/życie;fakt
+45;Ile minut trwa przeciętny prysznic (około)?;8.0;min;dom;około
+46;Ile litrów wody mieści typowa wanna (około)?;150.0;l;dom;około
+47;Ile litrów ma typowe spłukanie toalety (około)?;6.0;l;dom;około
+48;Ile litrów ma typowy czajnik elektryczny (pojemność, około)?;1.7;l;dom;około
+49;Ile watów ma typowa kuchenka mikrofalowa (moc, około)?;800.0;W;dom;około
+50;Ile watów ma typowa żarówka LED 'odpowiednik 60W' (około)?;9.0;W;dom;około
+51;Ile woltów ma typowa bateria AA?;1.5;V;dom/technologia;typowo
+52;Ile cali ma typowy telewizor w salonie (około)?;55.0;cal;dom/technologia;około
+53;Ile minut trwa typowy krótki program prania (około)?;60.0;min;dom;około
+54;Ile minut trwa typowy cykl zmywarki (około)?;120.0;min;dom;około
+55;Ile watów pobiera typowy odkurzacz (moc, około)?;700.0;W;dom;około
+56;Ile centymetrów ma typowa poduszka (szerokość, około)?;70.0;cm;dom;około
+57;Ile centymetrów ma standardowa długość łóżka?;200.0;cm;dom;typowo
+58;Ile centymetrów ma standardowa szerokość łóżka jednoosobowego?;90.0;cm;dom;typowo
+59;Ile centymetrów ma standardowa szerokość łóżka dwuosobowego (około)?;160.0;cm;dom;około
+60;Ile centymetrów ma typowa wysokość stopnia schodów (około)?;17.0;cm;dom;około
+61;Ile centymetrów ma typowa głębokość stopnia schodów (około)?;28.0;cm;dom;około
+62;Ile centymetrów ma typowy ołówek?;19.0;cm;dom;typowo
+63;Ile centymetrów ma typowy długopis?;14.0;cm;dom;typowo
+64;Ile watów ma typowa ładowarka do telefonu (szybkie ładowanie, około)?;20.0;W;dom/technologia;około
+65;Ile GB ma 'typowy' pendrive kupowany dziś (około)?;64.0;GB;dom/technologia;około
+66;Ile MB ma typowe zdjęcie z telefonu (JPEG, około)?;3.0;MB;dom/technologia;około
+67;Ile litrów ma typowy bak paliwa w samochodzie osobowym (około)?;50.0;l;transport;około
+68;Ile barów ma typowe ciśnienie w oponie auta osobowego (około)?;2.2;bar;transport;około
+69;Ile centymetrów ma typowa głębokość blatu kuchennego?;60.0;cm;dom;typowo
+70;Ile centymetrów ma typowa wysokość blatu kuchennego?;90.0;cm;dom;typowo
+71;Ile minut ma doba?;1440.0;min;czas;fakt
+72;Ile sekund ma godzina?;3600.0;s;czas;fakt
+73;Ile sekund ma doba?;86400.0;s;czas;fakt
+74;Ile dni ma tydzień?;7.0;dni;czas;fakt
+75;Ile miesięcy ma rok?;12.0;mies.;czas;fakt
+76;Ile dni ma rok nieprzestępny?;365.0;dni;czas;fakt
+77;Ile dni ma rok przestępny?;366.0;dni;czas;fakt
+78;Ile tygodni ma rok (w przybliżeniu)?;52.0;tyg.;czas;około
+79;Ile godzin trwa typowy dzień pracy (etat)?;8.0;h;życie;typowo
+80;Ile godzin ma typowy tydzień pracy (etat)?;40.0;h;życie;typowo
+81;Ile godzin snu na dobę zwykle zaleca się dorosłym?;8.0;h;zdrowie;typowo
+82;Ile minut zajmuje przeciętnie zaśnięcie po zgaszeniu światła (około)?;15.0;min;zdrowie;około
+83;Jaka jest przeciętna prędkość marszu człowieka?;5.0;km/h;transport;typowo
+84;Jaka jest przeciętna prędkość szybkiego marszu (około)?;6.0;km/h;transport;około
+85;Jaka jest przeciętna prędkość truchtu/joggingu (około)?;10.0;km/h;sport;około
+86;Jaka jest przeciętna prędkość jazdy rowerem po mieście (około)?;15.0;km/h;transport;około
+87;Jaka jest przeciętna prędkość jazdy rowerem na szosie (amatorsko, około)?;25.0;km/h;sport;około
+88;Ile metrów długości ma typowy autobus miejski?;12.0;m;transport;typowo
+89;Ile metrów wysokości ma typowy autobus piętrowy (około)?;4.4;m;transport;około
+90;Ile metrów długości ma typowy samochód osobowy (około)?;4.5;m;transport;około
+91;Ile metrów długości ma typowe miejsce parkingowe?;5.0;m;transport;typowo
+92;Ile metrów szerokości ma typowe miejsce parkingowe (około)?;2.5;m;transport;około
+93;Ile miejsc siedzących ma typowy autokar dalekobieżny (około)?;50.0;miejsc;transport;około
+94;Jaka jest typowa prędkość przelotowa samolotu pasażerskiego?;900.0;km/h;transport;typowo
+95;Na jakiej wysokości lata samolot pasażerski w locie przelotowym (około)?;11000.0;m;transport;około
+96;Jaka jest prędkość startowa samolotu pasażerskiego (około)?;260.0;km/h;transport;około
+97;Jaka jest typowa maksymalna prędkość pociągu dużych prędkości?;300.0;km/h;transport;typowo
+98;Jaka jest przeciętna prędkość metra w mieście (z postojami, około)?;35.0;km/h;transport;około
+99;Jaka jest typowa prędkość windy w budynku mieszkalnym?;1.0;m/s;transport;typowo
+100;Jaka jest typowa prędkość schodów ruchomych?;0.5;m/s;transport;typowo
+101;Ile kilometrów ma maraton?;42.195;km;sport;fakt
+102;Ile kilometrów ma półmaraton?;21.0975;km;sport;fakt
+103;Ile minut trwa mecz piłki nożnej (bez dogrywki)?;90.0;min;sport;fakt
+104;Ilu zawodników jest na boisku w jednej drużynie piłkarskiej?;11.0;osób;sport;fakt
+105;Ilu zawodników jest na boisku w jednej drużynie koszykówki?;5.0;osób;sport;fakt
+106;Ile metrów ma jedno okrążenie standardowej bieżni lekkoatletycznej?;400.0;m;sport;fakt
+107;Ile kilometrów ma jedna mila?;1.609;km;ciekawostki;fakt
+108;Ile kilometrów na godzinę ma 1 węzeł (knot)?;1.852;km/h;ciekawostki;fakt
+109;Ile minut trwa 'typowy' odcinek serialu komediowego bez reklam (około)?;22.0;min;rozrywka;około
+110;Ile minut trwa 'typowy' odcinek serialu dramatycznego (około)?;45.0;min;rozrywka;około
+111;Ile minut trwa typowa piosenka radiowa (około)?;3.5;min;rozrywka;około
+112;Ile sekund trwa typowe parzenie herbaty (około 3 minuty)?;180.0;s;dom/kuchnia;około
+113;Ile minut trwa typowe gotowanie makaronu (al dente, około)?;10.0;min;dom/kuchnia;około
+114;Ile minut trwa typowe pieczenie mrożonej pizzy (około)?;12.0;min;dom/kuchnia;około
+115;Ile minut trwa typowe rozgrzanie piekarnika do 200°C (około)?;10.0;min;dom/kuchnia;około
+116;Ile minut trwa typowe ładowanie telefonu od 0% do 100% (około)?;90.0;min;dom/technologia;około
+117;Ile sekund trwa 'zielone' na typowych światłach dla pieszych (około)?;20.0;s;miasto;około
+118;Ile minut przed odjazdem zwykle zamyka się bramkę na lotnisku (około)?;15.0;min;transport;około
+119;Jaka jest typowa temperatura ciała człowieka (około)?;36.6;°C;człowiek;około
+120;Ile zębów ma typowo dorosły człowiek (z ósemkami)?;32.0;szt.;człowiek;fakt
+121;Ile kości ma typowo dorosły człowiek?;206.0;szt.;człowiek;fakt
+122;Ile litrów krwi ma przeciętny dorosły człowiek (około)?;5.0;l;człowiek;około
+123;Ile procent masy ciała człowieka stanowi woda (około)?;60.0;%;człowiek;około
+124;Ile uderzeń serca na minutę ma typowo dorosły w spoczynku (około)?;70.0;bpm;człowiek;około
+125;Ile uderzeń serca to około w ciągu doby przy 70 bpm?;100800.0;uderzeń;człowiek;wyliczone
+126;Ile kroków dziennie ma popularny cel aktywności (tzw. '10k')?;10000.0;kroków;zdrowie;typowo
+127;O ile centymetrów rosną włosy miesięcznie (około)?;1.0;cm/mies.;człowiek;około
+128;O ile milimetrów rosną paznokcie miesięcznie (około)?;3.0;mm/mies.;człowiek;około
+129;Ile dni trwa ciąża u człowieka (typowo, około)?;280.0;dni;człowiek;około
+130;Ile dni trwa inkubacja jaja kury (od zniesienia do wyklucia)?;21.0;dni;zwierzęta;fakt
+131;Ile kilogramów waży przeciętny noworodek (około)?;3.3;kg;człowiek;około
+132;Ile litrów wynosi całkowita pojemność płuc dorosłego (około)?;6.0;l;człowiek;około
+133;Ile chromosomów ma człowiek?;46.0;szt.;człowiek;fakt
+134;Ile mięśni ma ciało człowieka (około)?;600.0;szt.;człowiek;około
+135;Ile nóg ma owad?;6.0;nóg;zwierzęta;fakt
+136;Ile nóg ma pająk?;8.0;nóg;zwierzęta;fakt
+137;Ile ramion ma ośmiornica?;8.0;ramion;zwierzęta;fakt
+138;Ile lat żyje typowo chomik domowy?;2.0;lat;zwierzęta;typowo
+139;Ile lat może żyć złota rybka w dobrych warunkach (około)?;10.0;lat;zwierzęta;około
+140;Ile kilogramów waży typowo kot domowy (około)?;4.0;kg;zwierzęta;około
+141;Ile kilogramów waży duży pies rodzinny (np. golden retriever, około)?;30.0;kg;zwierzęta;około
+142;Ile lat żyje typowo pies domowy?;12.0;lat;zwierzęta;typowo
+143;Ile lat żyje typowo kot domowy?;15.0;lat;zwierzęta;typowo
+144;Ile metrów ma wysokość żyrafy (około)?;5.5;m;zwierzęta;około
+145;Ile metrów długości ma płetwal błękitny (około)?;25.0;m;zwierzęta;około
+146;Ile kilogramów waży płetwal błękitny (około)?;150000.0;kg;zwierzęta;około
+147;Jaka jest maksymalna prędkość geparda (około)?;110.0;km/h;zwierzęta;około
+148;Jaka jest maksymalna prędkość konia w galopie (około)?;88.0;km/h;zwierzęta;około
+149;Jaka jest maksymalna prędkość kota domowego (około)?;48.0;km/h;zwierzęta;około
+150;Ile procent powierzchni Ziemi pokrywa woda (około)?;71.0;%;Ziemia;około
+151;Jakie jest ciśnienie atmosferyczne na poziomie morza (około)?;1013.0;hPa;Ziemia;około
+152;Jaka jest prędkość dźwięku w powietrzu w 20°C (około)?;343.0;m/s;nauka;około
+153;Jaka jest prędkość światła w próżni?;299792.0;km/s;nauka;fakt
+154;Jaka jest średnia odległość Ziemia–Słońce (około)?;149.6;mln km;kosmos;około
+155;Ile minut leci światło ze Słońca na Ziemię (około)?;8.3;min;kosmos;około
+156;Ile kilometrów wynosi średnica Ziemi (około)?;12742.0;km;Ziemia;około
+157;Ile kilometrów wynosi średnica Księżyca (około)?;3474.0;km;kosmos;około
+158;Ile kilometrów wynosi średnia odległość Ziemia–Księżyc (około)?;384400.0;km;kosmos;około
+159;Ile kart ma standardowa talia do gry bez jokerów?;52.0;kart;gry;fakt
+160;Ile kart ma talia do gry z dwoma jokerami?;54.0;kart;gry;fakt
+161;Ile pól ma standardowa szachownica?;64.0;pól;gry;fakt
+162;Ile bierek ma na starcie jeden gracz w szachach?;16.0;szt.;gry;fakt
+163;Ile pionków ma na starcie jeden gracz w szachach?;8.0;szt.;gry;fakt
+164;Ile pionków ma na starcie jeden gracz w warcabach?;12.0;szt.;gry;fakt
+165;Ile kamieni (płytek) ma zestaw domina 'double-six'?;28.0;szt.;gry;fakt
+166;Ile klocków ma klasyczna wieża Jenga?;54.0;szt.;gry;fakt
+167;Ile małych klocków (cubelets) tworzy klasyczna kostka Rubika 3×3 (widocznych elementów)?;26.0;szt.;gry;fakt
+168;Ile pól ma standardowa plansza Sudoku 9×9?;81.0;pól;gry;fakt
+169;Ile kręgli stoi na torze w bowlingu na początku rzutu?;10.0;szt.;sport/gry;fakt
+170;Ile rund (frame'ów) ma standardowa gra w bowling?;10.0;frame;sport/gry;fakt
+171;Ile dołków ma standardowe pole golfowe?;18.0;dołków;sport;fakt
+172;Ilu zawodników jest na boisku w jednej drużynie siatkówki?;6.0;osób;sport;fakt
+173;Ilu zawodników jest na boisku w jednej drużynie baseballu?;9.0;osób;sport;fakt
+174;Ilu zawodników jest na lodzie w jednej drużynie hokeja (z bramkarzem)?;6.0;osób;sport;fakt
+175;Ile strun ma standardowa gitara?;6.0;strun;muzyka;fakt
+176;Ile strun ma skrzypce?;4.0;strun;muzyka;fakt
+177;Ile strun ma typowy ukulele?;4.0;strun;muzyka;fakt
+178;Ile klawiszy ma standardowy fortepian (pełna klawiatura)?;88.0;klawiszy;muzyka;fakt
+179;Ile białych klawiszy ma fortepian 88-klawiszowy?;52.0;klawiszy;muzyka;fakt
+180;Ile czarnych klawiszy ma fortepian 88-klawiszowy?;36.0;klawiszy;muzyka;fakt
+181;Ile liter ma alfabet angielski?;26.0;liter;ciekawostki;fakt
+182;Ile bitów ma jeden bajt?;8.0;bitów;technologia;fakt
+183;Ile znaków ma standardowy SMS w kodowaniu GSM-7?;160.0;znaków;technologia;fakt
+184;Ile MB mieści standardowa płyta CD (około)?;700.0;MB;technologia;około
+185;Ile GB mieści jednowarstwowa płyta DVD (około)?;4.7;GB;technologia;około
+186;Ile GB mieści jednowarstwowy Blu-ray (około)?;25.0;GB;technologia;około
+187;Ile pikseli ma szerokość obrazu Full HD?;1920.0;px;technologia;fakt
+188;Ile pikseli ma wysokość obrazu Full HD?;1080.0;px;technologia;fakt
+189;Ile pikseli ma szerokość obrazu 4K UHD?;3840.0;px;technologia;fakt
+190;Ile pikseli ma wysokość obrazu 4K UHD?;2160.0;px;technologia;fakt
+191;W którym roku uruchomiono serwis YouTube?;2005.0;rok;historia/technologia;fakt
+192;W którym roku uruchomiono Wikipedię?;2001.0;rok;historia/technologia;fakt
+193;W którym roku pokazano pierwszego iPhone'a?;2007.0;rok;historia/technologia;fakt
+194;W którym roku miał premierę pierwszy film 'Star Wars' (Episode IV)?;1977.0;rok;kultura;fakt
+195;Ile książek liczy główna seria 'Harry Potter'?;7.0;książek;kultura;fakt
+196;Ile planet ma Układ Słoneczny?;8.0;planet;kosmos;fakt
+197;Ile kontynentów wyróżnia się w szkolnym podziale?;7.0;kont.;geografia;fakt
+198;Ile oceanów wyróżnia się we współczesnym podziale?;5.0;oceanów;geografia;fakt
+199;Ile kolorów tradycyjnie wymienia się w tęczy?;7.0;kolorów;ciekawostki;typowo
+200;Ile strun ma standardowa gitara basowa?;4.0;strun;muzyka;fakt
+201;Około ile monet 1 grosz waży mniej więcej tyle co jedna moneta 5 zł?;4.0;monety;ciekawostki/pieniądze;wyliczone(≈)
+202;Ile ton waży czołg T-34-85 (wariant z armatą 85 mm, jak „Rudy 102”)?;32.0;t;historia/wojsko;fakt
+203;Ile metrów ma jedno okrążenie standardowej bieżni lekkoatletycznej (tor 1)?;400.0;m;sport;fakt
+204;Ilu ludzi do tej pory chodziło po Księżycu?;12.0;osób;kosmos;fakt
+205;Ile milimetrów ma dłuższy bok kartki A4?;297.0;mm;normy/papier;fakt
+206;Ile krasnoludków jest w historii „Królewna Śnieżka”?;7.0;szt.;popkultura/bajki;fakt
+207;Ile jest łącznie „Wielkich Pierścieni” (Great Rings) w legendarium Tolkiena?;20.0;szt.;popkultura/fantasy;fakt
+208;Ile klawiszy ma standardowe pianino/fortepian?;88.0;szt.;muzyka;fakt
+209;Ile gwiazd ma flaga USA?;50.0;szt.;geografia/symbole;fakt
+210;Ile minut może maksymalnie trwać przerwa w meczu piłki nożnej (half-time)?;15.0;min;sport;fakt
+211;Ile arkuszy ma standardowa ryza papieru?;500.0;szt.;biuro;fakt
+212;Ile mililitrów ma pojedyncze espresso (tzw. single shot, w przybliżeniu)?;30.0;ml;kuchnia/napoje;typowo
+213;Jaka jest górna granica masy piłki tenisowej wg ITF?;59.4;g;sport;fakt
+214;Ile centymetrów ma dokładnie 1 cal?;2.54;cm;jednostki;fakt
+215;Ile minut trwa standardowy mecz piłki nożnej (bez dogrywki)?;90.0;min;sport;fakt
+216;Na jakiej wysokości (od podłoża) jest obręcz kosza do koszykówki w standardzie?;3.05;m;sport;fakt
+217;Jaka jest szerokość bramki piłkarskiej (od słupka do słupka)?;7.32;m;sport;fakt
+218;Ile filmów obejmuje „Saga Skywalkerów” (Epizody I–IX) w Star Wars?;9.0;szt.;popkultura/film;fakt
+219;Ile książek liczy główny cykl powieści „Harry Potter”?;7.0;szt.;popkultura/książki;fakt
+220;Jaka jest wysokość poprzeczki bramki piłkarskiej od ziemi?;2.44;m;sport;fakt
+221;Ile mililitrów ma łyżka stołowa (miara kuchenna)?;15.0;ml;kuchnia/miary;umownie
+222;Ile mililitrów ma łyżeczka (miara kuchenna)?;5.0;ml;kuchnia/miary;umownie
+223;Ile gramów ma łyżeczka cukru (w przybliżeniu)?;4.0;g;kuchnia/jedzenie;typowo
+224;Ile kilokalorii ma łyżeczka cukru (ok. 4 g)?;16.0;kcal;kuchnia/jedzenie;wyliczone(≈)
+225;Ile mililitrów ma typowy kieliszek „shot” (w przybliżeniu)?;50.0;ml;kuchnia/napoje;typowo
+226;Ile mililitrów ma standardowa butelka wina?;750.0;ml;kuchnia/napoje;fakt
+227;Ile mililitrów ma typowa puszka napoju energetycznego?;250.0;ml;kuchnia/napoje;typowo
+228;Ile gramów ma standardowa paczka makaronu?;500.0;g;kuchnia/jedzenie;typowo
+229;Ile gramów ma paczka ryżu w torebkach 4×100 g (typowo)?;400.0;g;kuchnia/jedzenie;typowo
+230;Ile torebek ryżu po 100 g jest w paczce 400 g?;4.0;szt.;kuchnia/jedzenie;wyliczone(≈)
+231;Ile gramów ma standardowa kostka masła?;200.0;g;kuchnia/jedzenie;typowo
+232;Ile gramów ma standardowy jogurt w kubku (typowo)?;150.0;g;kuchnia/jedzenie;typowo
+233;Ile mililitrów ma standardowa butelka napoju 0,5 l?;500.0;ml;kuchnia/napoje;fakt
+234;Ile gramów waży średnie jabłko (w przybliżeniu)?;180.0;g;kuchnia/jedzenie;typowo
+235;Ile gramów waży średni banan bez skórki (w przybliżeniu)?;120.0;g;kuchnia/jedzenie;typowo
+236;Ile minut gotuje się jajko na twardo (typowo)?;10.0;min;kuchnia/jedzenie;typowo
+237;Ile stopni Celsjusza ma wrząca woda na poziomie morza?;100.0;°C;nauka/temperatura;fakt
+238;Ile stopni Celsjusza ma topniejący lód?;0.0;°C;nauka/temperatura;fakt
+239;Jaka jest typowa temperatura w lodówce?;4.0;°C;dom/AGD;typowo
+240;Ile watów ma typowy czajnik elektryczny?;2000.0;W;dom/AGD;typowo
+241;Ile litrów wody ma pełne spłukanie w nowoczesnej toalecie (typowo)?;6.0;l;dom;typowo
+242;Ile mililitrów ma „szklanka” w przepisach (umownie)?;250.0;ml;kuchnia/miary;umownie
+243;Ile gramów ma szklanka cukru (w przybliżeniu)?;200.0;g;kuchnia/miary;typowo
+244;Ile gramów ma szklanka mąki pszennej (w przybliżeniu)?;160.0;g;kuchnia/miary;typowo
+245;Ile gramów ma standardowa puszka pomidorów krojonych (netto, typowo)?;400.0;g;kuchnia/jedzenie;typowo
+246;Ile gramów ma standardowa puszka fasoli (netto, typowo)?;400.0;g;kuchnia/jedzenie;typowo
+247;Ile gramów ma standardowa puszka tuńczyka (netto, typowo)?;170.0;g;kuchnia/jedzenie;typowo
+248;Ile gramów ma typowa paczka chipsów „duża” (w przybliżeniu)?;150.0;g;kuchnia/jedzenie;typowo
+249;Ile gramów ma typowa porcja suchego makaronu na osobę?;80.0;g;kuchnia/jedzenie;typowo
+250;Ile gramów ma typowa kromka chleba (w przybliżeniu)?;35.0;g;kuchnia/jedzenie;typowo
+251;Ile kromek (po ok. 35 g) wyjdzie z bochenka 500 g (w przybliżeniu)?;14.0;szt.;kuchnia/jedzenie;wyliczone(≈)
+252;Ile łyżeczek (po 5 ml) mieści się w 1 litrze?;200.0;szt.;kuchnia/miary;wyliczone(≈)
+253;Ile łyżek stołowych (po 15 ml) mieści się w 1 litrze (w przybliżeniu)?;66.7;szt.;kuchnia/miary;wyliczone(≈)
+254;Ile gramów ma kostka cukru (typowo)?;4.0;g;kuchnia/jedzenie;typowo
+255;Ile kostek cukru (po 4 g) potrzeba, żeby uzyskać 100 g cukru?;25.0;szt.;kuchnia/jedzenie;wyliczone(≈)
+256;Ile gramów ma typowa saszetka suchych drożdży?;7.0;g;kuchnia/jedzenie;typowo
+257;Ile gramów ma typowa kulka mozzarelli w zalewie?;125.0;g;kuchnia/jedzenie;typowo
+258;Ile centymetrów ma średnica typowej pizzy „dużej”?;32.0;cm;kuchnia/jedzenie;typowo
+259;Ile litrów ma typowy kubek termiczny?;0.4;l;kuchnia/napoje;typowo
+260;Ile mililitrów ma typowy kubek kawy na wynos (średni)?;300.0;ml;kuchnia/napoje;typowo
+261;Ile centymetrów ma typowy wzrost dorosłej osoby (w przybliżeniu)?;175.0;cm;człowiek/codzienne;typowo
+262;Ile gramów waży typowy smartfon?;180.0;g;technologia/codzienne;typowo
+263;Ile cali ma typowy ekran laptopa?;15.6;cal;technologia/codzienne;typowo
+264;Ile kilogramów waży typowa walizka kabinowa pusta?;3.0;kg;podróże/codzienne;typowo
+265;Ile litrów ma typowy plecak szkolny?;20.0;l;codzienne;typowo
+266;Ile kilogramów może udźwignąć typowa torba zakupowa wielorazowa?;15.0;kg;codzienne;typowo
+267;Ile centymetrów ma szerokość łóżka jednoosobowego (typowo)?;90.0;cm;dom;typowo
+268;Ile centymetrów ma szerokość łóżka dwuosobowego (typowo)?;160.0;cm;dom;typowo
+269;Ile centymetrów ma długość łóżka (typowo)?;200.0;cm;dom;typowo
+270;Ile metrów ma wysokość sufitu w mieszkaniu (typowo)?;2.5;m;dom;typowo
+271;Ile stopni Celsjusza ustawia się w domu jako komfortową temperaturę zimą (typowo)?;21.0;°C;dom;typowo
+272;Ile watów ma typowa żarówka LED zastępująca starą 60 W (w przybliżeniu)?;9.0;W;dom/elektryka;typowo
+273;Ile lumenów ma taka żarówka LED (w przybliżeniu)?;800.0;lm;dom/elektryka;typowo
+274;Ile centymetrów ma szerokość standardowej pralki?;60.0;cm;dom/AGD;typowo
+275;Ile centymetrów ma głębokość standardowej pralki?;60.0;cm;dom/AGD;typowo
+276;Ile litrów wody zużywa pralka na jeden cykl (w przybliżeniu)?;50.0;l;dom/AGD;typowo
+277;Ile litrów ma typowa wanna (w przybliżeniu)?;150.0;l;dom;typowo
+278;Ile litrów wody zużyje prysznic 5 minut przy przepływie 10 l/min?;50.0;l;dom;wyliczone(≈)
+279;Ile minut trwa typowy dojazd do pracy/szkoły w mieście?;30.0;min;transport/codzienne;typowo
+280;Ile kilometrów ma typowa trasa dojazdu do pracy/szkoły?;10.0;km;transport/codzienne;typowo
+281;Ile metrów ma długość samochodu osobowego (typowo)?;4.4;m;transport/codzienne;typowo
+282;Ile ton waży typowy samochód osobowy (w przybliżeniu)?;1.4;t;transport/codzienne;typowo
+283;Ile kilogramów waży typowy rower miejski?;15.0;kg;transport/codzienne;typowo
+284;Ile km/h jedzie rowerzysta w mieście w spokojnym tempie (typowo)?;18.0;km/h;transport/codzienne;typowo
+285;Ile km/h ma szybki marsz (typowo)?;6.0;km/h;człowiek/codzienne;typowo
+286;Ile metrów ma długość autobusu miejskiego standardowego?;12.0;m;transport;fakt
+287;Ile miejsc siedzących ma typowy autobus miejski 12 m (w przybliżeniu)?;30.0;szt.;transport;typowo
+288;Ile litrów paliwa ma typowy bak w aucie osobowym (w przybliżeniu)?;50.0;l;transport;typowo
+289;Ile kilometrów przejedziesz na 1 litrze paliwa przy spalaniu 5 l/100 km?;20.0;km;transport;wyliczone(≈)
+290;Ile sekund trwa przejechanie 1 km z prędkością 60 km/h?;60.0;s;transport;wyliczone(≈)
+291;Ile minut trwa przejechanie 10 km z prędkością 60 km/h?;10.0;min;transport;wyliczone(≈)
+292;Ile centymetrów ma szerokość miejsca parkingowego (typowo)?;250.0;cm;transport/miasto;typowo
+293;Ile centymetrów ma długość miejsca parkingowego (typowo)?;500.0;cm;transport/miasto;typowo
+294;Ile kroków ma 1 kilometr przy długości kroku 0.75 m (w przybliżeniu)?;1333.0;kroków;człowiek/codzienne;wyliczone(≈)
+295;Ile kilometrów ma spacer 10 000 kroków przy kroku 0.75 m (w przybliżeniu)?;7.5;km;człowiek/codzienne;wyliczone(≈)
+296;Ile sekund trwa typowy spot reklamowy w TV?;30.0;s;media/codzienne;typowo
+297;Ile osób jest w typowym samochodzie osobowym (liczba miejsc)?;5.0;osób;transport/codzienne;fakt
+298;Ile kilogramów udźwigu ma typowa winda 8-osobowa (w przybliżeniu)?;630.0;kg;dom;typowo
+299;Ile osób mieści typowa winda w bloku?;8.0;osób;dom;typowo
+300;Ile metrów ma wysokość jednego piętra w bloku (od podłogi do podłogi, typowo)?;2.8;m;dom;typowo
+301;Ile kilometrów ma dystans półmaratonu?;21.0975;km;sport;fakt
+302;Ile metrów ma długość basenu olimpijskiego?;50.0;m;sport;fakt
+303;Ile metrów ma długość basenu „krótkiego” na pływalniach?;25.0;m;sport;fakt
+304;Ile metrów ma długość kortu tenisowego?;23.77;m;sport;fakt
+305;Ile metrów ma szerokość kortu tenisowego w singlu?;8.23;m;sport;fakt
+306;Ile metrów ma szerokość kortu tenisowego w deblu?;10.97;m;sport;fakt
+307;Ile centymetrów ma maksymalna średnica piłki tenisowej?;6.86;cm;sport;fakt
+308;Ile metrów ma długość boiska do koszykówki (FIBA)?;28.0;m;sport;fakt
+309;Ile metrów ma szerokość boiska do koszykówki (FIBA)?;15.0;m;sport;fakt
+310;Ile metrów ma długość boiska do siatkówki?;18.0;m;sport;fakt
+311;Ile metrów ma szerokość boiska do siatkówki?;9.0;m;sport;fakt
+312;Na jakiej wysokości jest siatka w siatkówce mężczyzn?;2.43;m;sport;fakt
+313;Na jakiej wysokości jest siatka w siatkówce kobiet?;2.24;m;sport;fakt
+314;Do ilu punktów gra się set w siatkówce (standardowo)?;25.0;pkt;sport;fakt
+315;Ilu zawodników jest na boisku w drużynie piłkarskiej (na raz)?;11.0;osób;sport;fakt
+316;Ilu zawodników jest na boisku w koszykówce (jedna drużyna)?;5.0;osób;sport;fakt
+317;Ilu zawodników jest na boisku w siatkówce (jedna drużyna)?;6.0;osób;sport;fakt
+318;Ilu zawodników jest na boisku w piłce ręcznej (jedna drużyna)?;7.0;osób;sport;fakt
+319;Ile sekund trwa limit na rzut w koszykówce (shot clock)?;24.0;s;sport;fakt
+320;Ile kręgli stoi na torze w bowlingu?;10.0;szt.;sport;fakt
+321;Ile kart ma standardowa talia do gry bez jokerów?;52.0;szt.;gry;fakt
+322;Ile kart ma talia z dwoma jokerami?;54.0;szt.;gry;typowo
+323;Ile oczek ma suma wszystkich ścian na standardowej kostce do gry?;21.0;oczka;gry;fakt
+324;Ile pionków ma gracz w warcabach na początku?;12.0;szt.;gry;fakt
+325;Ile małych kostek (cubies) ma kostka Rubika 3x3 (bez elementu wewnętrznego)?;26.0;szt.;gry;fakt
+326;Ile rund (maksymalnie) ma walka bokserska o tytuł (typowo)?;12.0;rund;sport;typowo
+327;Ile sekund trwa jedna runda w boksie zawodowym?;180.0;s;sport;fakt
+328;Ile minut trwa mecz koszykówki FIBA (bez przerw)?;40.0;min;sport;fakt
+329;Ile minut trwa jedna kwarta w koszykówce FIBA?;10.0;min;sport;fakt
+330;Ile minut trwa dogrywka w piłce nożnej (łącznie)?;30.0;min;sport;fakt
+331;Ile pierścieni jest w symbolu olimpijskim?;5.0;szt.;ciekawostki;fakt
+332;Ile kolorów ma tęcza w popularnym podziale?;7.0;szt.;ciekawostki;umownie
+333;Ile kontynentów wyróżnia się zwykle na Ziemi?;7.0;szt.;geografia;umownie
+334;Ile oceanów wyróżnia się zwykle na Ziemi?;5.0;szt.;geografia;umownie
+335;Ile stref czasowych ma Ziemia (umownie)?;24.0;szt.;geografia/czas;umownie
+336;Ile liter ma alfabet łaciński?;26.0;szt.;język;fakt
+337;Ile stopni ma pełny obrót?;360.0;°;matematyka;fakt
+338;Ile stopni ma kąt prosty?;90.0;°;matematyka;fakt
+339;Ile stopni ma suma kątów w trójkącie?;180.0;°;matematyka;fakt
+340;Ile miesięcy ma rok?;12.0;szt.;czas;fakt
+341;Ile dni ma luty w roku przestępnym?;29.0;dni;czas;fakt
+342;Ile bajtów ma 1 kibibajt (KiB)?;1024.0;B;technologia;fakt
+343;Ile bitów ma 1 bajt?;8.0;bit;technologia;fakt
+344;Ile megabajtów (MB) ma 1 gigabajt (GB) w uproszczeniu dziesiętnym?;1000.0;MB;technologia;umownie
+345;Ile milimetrów ma średnica płyty CD?;120.0;mm;technologia;fakt
+346;Ile minut muzyki mieści się na płycie CD (klasycznie)?;74.0;min;technologia/media;typowo
+347;Ile klatek na sekundę ma klasyczny film kinowy?;24.0;fps;media;fakt
+348;Ile znaków ma standardowy SMS bez polskich znaków?;160.0;znaków;technologia;fakt
+349;Ile cyfr ma typowy kod PIN do karty?;4.0;cyfry;codzienne;typowo
+350;Ile stron ma typowy komiks zeszytowy (w przybliżeniu)?;32.0;str.;media;typowo
+351;Ile minut trwa typowy odcinek sitcomu bez reklam (w przybliżeniu)?;22.0;min;media;typowo
+352;Ile minut trwa typowy odcinek serialu „godzinnego” bez reklam (w przybliżeniu)?;45.0;min;media;typowo
+353;Ile klawiszy ma typowa klawiatura pełnowymiarowa (w przybliżeniu)?;104.0;szt.;technologia;typowo
+354;Ile filmów obejmuje oryginalna trylogia „Gwiezdne Wojny”?;3.0;szt.;popkultura;fakt
+355;Ile tomów ma klasycznie „Władca Pierścieni” (trylogia)?;3.0;szt.;popkultura;fakt
+356;Ile osób tworzy zespół The Beatles?;4.0;osób;popkultura/muzyka;fakt
+357;Ile strun ma standardowa gitara?;6.0;strun;muzyka;fakt
+358;Ile strun mają skrzypce?;4.0;strun;muzyka;fakt
+359;Ile minut trwa jedna strona płyty winylowej LP (w przybliżeniu)?;20.0;min;muzyka;typowo
+360;Ile graczy jest na boisku w baseballu (jedna drużyna)?;9.0;osób;sport;fakt
+361;Ile pól ma klasyczna plansza Monopoly (liczba pól dookoła)?;40.0;pól;gry;fakt
+362;Ile domków maksymalnie można postawić na jednym polu w Monopoly?;4.0;szt.;gry;fakt
+363;Ile hoteli można postawić na jednym polu w Monopoly?;1.0;szt.;gry;fakt
+364;Ile minut ma tydzień?;10080.0;min;czas;fakt
+365;Ile sekund trwa przeciętne mrugnięcie okiem (w przybliżeniu)?;0.3;s;człowiek;typowo
+366;Ile razy na minutę mruga człowiek (typowo)?;15.0;razy/min;człowiek;typowo
+367;Ile państw członkowskich ma ONZ?;193.0;szt.;świat;fakt
+368;Ile zębów ma dorosły człowiek (z ósemkami)?;32.0;szt.;człowiek;fakt
+369;Ile zębów mlecznych ma dziecko?;20.0;szt.;człowiek;fakt
+370;Ile minut trwa przeciętny cykl snu (w przybliżeniu)?;90.0;min;zdrowie;typowo
+371;Ile godzin śpi noworodek na dobę (typowo)?;16.0;h;zdrowie;typowo
+372;Ile litrów krwi ma dorosły człowiek (w przybliżeniu)?;5.0;l;człowiek;typowo
+373;Ile kilometrów na godzinę może biec gepard (w przybliżeniu)?;110.0;km/h;natura/zwierzęta;typowo
+374;Ile kilometrów na godzinę potrafi biec struś (w przybliżeniu)?;70.0;km/h;natura/zwierzęta;typowo
+375;Ile kilometrów na godzinę potrafi płynąć delfin (w przybliżeniu)?;35.0;km/h;natura/zwierzęta;typowo
+376;Ile kilogramów waży przeciętny kot domowy (w przybliżeniu)?;4.0;kg;natura/zwierzęta;typowo
+377;Ile kilogramów waży przeciętny labrador (w przybliżeniu)?;30.0;kg;natura/zwierzęta;typowo
+378;Ile metrów może mieć dorosła żyrafa (w przybliżeniu)?;5.5;m;natura/zwierzęta;typowo
+379;Ile metrów ma przeciętnie słoń afrykański w kłębie (w przybliżeniu)?;3.3;m;natura/zwierzęta;około
+380;Ile kilogramów może ważyć dorosły słoń (w przybliżeniu)?;6000.0;kg;natura/zwierzęta;około
+381;Ile metrów na sekundę ma prędkość dźwięku w powietrzu (w przybliżeniu)?;343.0;m/s;nauka;około
+382;Ile kilometrów na godzinę ma prędkość dźwięku w powietrzu (w przybliżeniu)?;1235.0;km/h;nauka;około
+383;Ile kilometrów na sekundę ma prędkość światła w próżni (w przybliżeniu)?;300000.0;km/s;nauka;około
+384;Ile kilometrów na godzinę ma prędkość światła (w przybliżeniu)?;1080000000.0;km/h;nauka;wyliczone(≈)
+385;Ile milimetrów ma grubość kartki papieru (w przybliżeniu)?;0.1;mm;codzienne;typowo
+386;Ile gramów waży jedna kartka A4 papieru 80 g/m² (w przybliżeniu)?;5.0;g;codzienne;wyliczone(≈)
+387;Jaki procent powierzchni Ziemi pokrywa woda (w przybliżeniu)?;71.0;%;geografia;około
+388;Ile godzin trwa doba na Marsie („sol”, w przybliżeniu)?;24.6;h;kosmos;około
+389;Ile dni trwa rok na Marsie (w przybliżeniu)?;687.0;dni;kosmos;około
+390;Ile lat żyje przeciętnie pies (w przybliżeniu)?;12.0;lat;natura/zwierzęta;typowo
+391;Ile lat żyje przeciętnie kot (w przybliżeniu)?;15.0;lat;natura/zwierzęta;typowo
+392;Ile litrów wody zaleca się pić dziennie (w przybliżeniu)?;2.0;l;zdrowie;typowo
+393;Ile milimetrów rośnie paznokieć u ręki w miesiącu (w przybliżeniu)?;3.0;mm;człowiek;typowo
+394;Ile centymetrów rosną włosy w miesiącu (w przybliżeniu)?;1.2;cm;człowiek;typowo
+395;Ile oddechów na minutę wykonuje dorosły w spoczynku (typowo)?;12.0;oddech/min;zdrowie;typowo
+396;Ile uderzeń na minutę ma spoczynkowe tętno dorosłego (typowo)?;70.0;ud/min;zdrowie;typowo
+397;Ile procent stanowi sól w wodzie morskiej (zasolenie, w przybliżeniu)?;3.5;%;natura;około
+398;Ile kilometrów na godzinę może biec koń w galopie (w przybliżeniu)?;60.0;km/h;natura/zwierzęta;około
+399;Ile kilometrów na godzinę może osiągnąć sprinter na 100 m (w przybliżeniu)?;45.0;km/h;sport;około
+400;Ile kilogramów waży typowy noworodek (w przybliżeniu)?;3.5;kg;człowiek;typowo
+401;Ile minut trwa pieczenie ciasta biszkoptowego (w przybliżeniu)?;35.0;min;kuchnia/jedzenie;typowo
+402;Ile kilometrów na godzinę leci samolot pasażerski w przelocie (w przybliżeniu)?;900.0;km/h;transport;około
+403;Ile megaherców ma pasmo Wi‑Fi 2,4 GHz (w przybliżeniu)?;2400.0;MHz;technologia/sieci;około
+404;Ile metrów ma typowy koc (dłuższy bok)?;2.0;m;dom;typowo
+405;Ile procent baterii zużywa typowo 1 godzina oglądania wideo na telefonie (w przybliżeniu)?;15.0;%;technologia/codzienne;około
+406;Do ilu punktów gra się set w tenisie stołowym (standardowo)?;11.0;pkt;sport;fakt
+407;Ile utworów mieści się typowo na albumie muzycznym?;12.0;utworów;muzyka;typowo
+408;Ile okrążeń ma wyścig Formuły 1 (w przybliżeniu)?;60.0;okrążeń;sport/motoryzacja;około
+409;Ile kilometrów ma dystans triathlonu olimpijskiego – rower?;40.0;km;sport;fakt
+410;Ile klawiszy funkcyjnych ma klawiatura (F1–F12)?;12.0;klawiszy;technologia;fakt
+411;Ile gramów ma typowa paczka płatków kukurydzianych?;500.0;g;kuchnia/jedzenie;typowo
+412;Ile metrów ma wysokość najwyższego budynku na świecie (w przybliżeniu, Burj Khalifa)?;828.0;m;geografia/budowle;około
+413;Ile pinów ma złącze RJ-45 (Ethernet)?;8.0;pinów;technologia/sieci;fakt
+414;Ile znaków ma kod QR (w przybliżeniu maks. w trybie numerycznym)?;7089.0;znaków;technologia;fakt
+415;Ile znaków może mieć pojedyncza etykieta domeny (np. 'example') maksymalnie?;63.0;znaków;technologia/internet;fakt
+416;Ile gramów waży typowa łyżeczka?;15.0;g;dom/kuchnia;typowo
+417;Ile gramów ma typowa paczka sera żółtego w plastrach?;150.0;g;kuchnia/jedzenie;typowo
+418;Ile kontynentów odwiedza Phileas Fogg w 'W 80 dni dookoła świata' (w przybliżeniu)?;4.0;kontynenty;popkultura/książki;około
+419;Ile sezonów ma serial animowany 'Simpsonowie' (w przybliżeniu, stan 2025)?;35.0;sezonów;popkultura/seriale;około
+420;Ile grup po 16 bitów ma zapis IPv6 (standardowo)?;8.0;grup;technologia/sieci;fakt
+421;Ile minut trwa smażenie naleśnika z jednej strony (w przybliżeniu)?;1.0;min;kuchnia/jedzenie;typowo
+422;Ile liter ma alfabet grecki?;24.0;liter;język;fakt
+423;Ile watogodzin (Wh) to 1 kilowatogodzina (kWh)?;1000.0;Wh;technologia/energia;fakt
+424;Ile metrów ma typowy przewód USB do ładowarki (w przybliżeniu)?;1.0;m;technologia/codzienne;typowo
+425;Ile minut trwa typowy odcinek programu informacyjnego w TV (w przybliżeniu)?;30.0;min;media;typowo
+426;Ile graczy jest w drużynie koszykówki na boisku (łącznie obie drużyny)?;10.0;osób;sport;fakt
+427;Ile milimetrów ma złącze jack 3,5 mm?;3.5;mm;technologia/audio;fakt
+428;Ile gramów ma standardowy słoik dżemu (w przybliżeniu)?;280.0;g;kuchnia/jedzenie;typowo
+429;Ile minut trwa gotowanie ryżu (w przybliżeniu)?;12.0;min;kuchnia/jedzenie;typowo
+430;Ile centymetrów ma średnica piłki do koszykówki (w przybliżeniu)?;24.0;cm;sport;około
+431;Ile bitów ma liczba zapisana jako 1 bajt?;8.0;bit;technologia;fakt
+432;Ile centymetrów ma długość łyżki stołowej (w przybliżeniu)?;20.0;cm;dom/kuchnia;typowo
+433;Ile gramów ma typowa paczka mrożonych warzyw?;450.0;g;kuchnia/jedzenie;typowo
+434;Ile gramów ma typowa paczka szynki w plastrach?;120.0;g;kuchnia/jedzenie;typowo
+435;Ile sztuk chusteczek jest w typowym pudełku?;100.0;szt.;dom;typowo
+436;Ile gramów ma typowa paczka drożdży świeżych?;100.0;g;kuchnia/jedzenie;typowo
+437;Ile metrów ma standardowa rolka papieru do pieczenia (w przybliżeniu)?;8.0;m;dom/kuchnia;typowo
+438;Ile megabitów na sekundę ma 1 gigabit na sekundę (w uproszczeniu dziesiętnym)?;1000.0;Mb/s;technologia;umownie
+439;Ile sekund trwa 9 minut?;540.0;s;czas;wyliczone(≈)
+440;Ile kół ma standardowy zestaw domino (podwójne‑sześć)?;28.0;kamieni;gry;fakt
+441;Ile stron ma typowy podręcznik szkolny (w przybliżeniu)?;200.0;str.;szkoła;około
+442;Ile bajtów ma standardowy sektor dysku (klasycznie)?;512.0;B;technologia;typowo
+443;Ile metrów ma szerokość boiska do badmintona (debel)?;6.1;m;sport;fakt
+444;Ile centymetrów ma długość karty płatniczej (w przybliżeniu)?;8.6;cm;codzienne/przedmioty;około
+445;Ile metrów ma szerokość boiska do badmintona (singiel)?;5.18;m;sport;fakt
+446;Ile sztuk herbaty w torebkach bywa w standardowym pudełku (w przybliżeniu)?;20.0;szt.;kuchnia/napoje;typowo
+447;Ile kilometrów na godzinę może biec struś (w przybliżeniu)?;70.0;km/h;natura/zwierzęta;około
+448;Ile gramów waży typowa książka w miękkiej okładce (w przybliżeniu)?;350.0;g;codzienne/książki;typowo
+449;Ile metrów ma typowa rolka ręcznika papierowego (w przybliżeniu)?;15.0;m;dom/kuchnia;typowo
+450;Ile gramów ma typowa porcja mięsa na obiad (w przybliżeniu)?;150.0;g;kuchnia/jedzenie;typowo
+451;Ile minut trwa typowa drzemka „power nap”?;20.0;min;zdrowie;typowo
+452;Ile metrów ma boisko do piłki ręcznej – długość?;40.0;m;sport;fakt
+453;Ile kilometrów może przelecieć pszczoła w ciągu dnia (w przybliżeniu)?;10.0;km;natura/zwierzęta;około
+454;Ile metrów długości może mieć płetwal błękitny (w przybliżeniu)?;30.0;m;natura/zwierzęta;około
+455;Ile domów jest w Hogwarcie?;4.0;domy;popkultura/książki;fakt
+456;Ile kilometrów ma dystans wyścigu Formuły 1 (minimum regulaminowe, w przybliżeniu)?;305.0;km;sport/motoryzacja;około
+457;Ile centymetrów ma przekątna ekranu smartfona 6,5 cala (w przybliżeniu)?;16.5;cm;technologia/codzienne;wyliczone(≈)
+458;Ile graczy (max) może mieć klasyczna gra 'Chińczyk'?;4.0;graczy;gry;typowo
+459;Ile gramów waży karta płatnicza (w przybliżeniu)?;5.0;g;codzienne/przedmioty;typowo
+460;Ile gramów ma typowy serek wiejski?;200.0;g;kuchnia/jedzenie;typowo
+461;Ile gramów ma typowa paczka lodów w pudełku (w przybliżeniu)?;500.0;g;kuchnia/jedzenie;typowo
+462;Ile metrów kwadratowych ma boisko piłkarskie 105×68 m (w przybliżeniu)?;7140.0;m²;sport;wyliczone(≈)
+463;Ile znaków ma kod heksadecymalny jednego bajtu?;2.0;znaki;technologia;fakt
+464;Ile gramów waży typowa szczoteczka do zębów?;20.0;g;dom/łazienka;typowo
+465;Ile mililitrów ma typowa butelka octu?;500.0;ml;kuchnia/jedzenie;typowo
+466;Ile kilometrów ma najdłuższa rzeka w Europie (Wołga, w przybliżeniu)?;3530.0;km;geografia;około
+467;Ile kilogramów waży typowy worek cementu?;25.0;kg;dom/DIY;typowo
+468;Ile zawodników jest na lodzie w hokeju (jedna drużyna, bez bramkarza)?;5.0;osób;sport;fakt
+469;Ile woltów ma bateria 9V (kostka)?;9.0;V;dom/elektryka;fakt
+470;Ile kilometrów ma najdłuższa rzeka w Polsce (Wisła, w przybliżeniu)?;1047.0;km;geografia;około
+471;Ile centymetrów ma standardowa wysokość kosza na śmieci w kuchni (w przybliżeniu)?;50.0;cm;dom;wyliczone(≈)
+472;Ile metrów ma boisko do piłki ręcznej – szerokość?;20.0;m;sport;fakt
+473;Ile uderzeń serca wykonuje człowiek w ciągu doby przy 70/min (w przybliżeniu)?;100800.0;uderzeń;człowiek/zdrowie;wyliczone(≈)
+474;Ile watów ma typowa ładowarka do telefonu (w przybliżeniu)?;20.0;W;technologia/codzienne;typowo
+475;Ile metrów ma długość boiska do badmintona (debel)?;13.4;m;sport;fakt
+476;Ile dni ma czerwiec?;30.0;dni;czas;fakt
+477;Ile litrów ma typowy pojemnik na kurz w odkurzaczu pionowym (w przybliżeniu)?;0.6;l;dom/AGD;typowo
+478;Ile dni ma maj?;31.0;dni;czas;fakt
+479;Ile kilometrów ma długość Wielkiego Muru Chińskiego (w przybliżeniu)?;21000.0;km;geografia/budowle;około
+480;Ile gramów waży typowy zeszyt szkolny (w przybliżeniu)?;150.0;g;szkoła;typowo
+481;Ile minut trwa typowy program „wieczorynka” (w przybliżeniu)?;10.0;min;media;typowo
+482;Ile minut trwa typowa aktualizacja systemu (w przybliżeniu)?;20.0;min;technologia/codzienne;około
+483;Ile centymetrów ma szerokość karty microSD (w przybliżeniu)?;1.1;cm;technologia;około
+484;Ile minut ma 1,5 godziny?;90.0;min;czas;wyliczone(≈)
+485;Ile dni ma grudzień?;31.0;dni;czas;fakt
+486;Ile mililitrów ma 2 litry?;2000.0;ml;jednostki;fakt
+487;Ile tomów ma cykl 'Opowieści z Narnii'?;7.0;tomów;popkultura/książki;fakt
+488;Ile megaherców ma pasmo Wi‑Fi 5 GHz (w przybliżeniu)?;5000.0;MHz;technologia/sieci;około
+489;Ile kilogramów waży typowy odkurzacz tradycyjny?;6.0;kg;dom/AGD;typowo
+490;Ile minut trwa typowy występ stand‑up (w przybliżeniu)?;60.0;min;media;typowo
+491;Ile gramów waży piłka do koszykówki (w przybliżeniu)?;600.0;g;sport;około
+492;Ile części ma klasyczna trylogia 'Władca Pierścieni' (filmy)?;3.0;filmy;popkultura/film;fakt
+493;Ile minut trwa pieczenie mrożonej pizzy (w przybliżeniu)?;12.0;min;kuchnia/jedzenie;typowo
+494;Ile metrów ma długość boiska do squasha (w przybliżeniu)?;9.75;m;sport;fakt
+495;Ile lat (typowo) ma jeden 'psie rok' w ludzkich latach w popularnym uproszczeniu?;7.0;lat;popkultura/codzienne;umownie
+496;Ile metrów ma typowy koc (krótszy bok)?;1.5;m;dom;typowo
+497;Ile sekund trwa minuta w systemie SI?;60.0;s;czas;fakt
+498;Ile znaków ma typowy adres e‑mail (w przybliżeniu)?;25.0;znaków;technologia/codzienne;około
+499;Ile mililitrów ma typowy kefir/maślanka w butelce?;500.0;ml;kuchnia/napoje;typowo
+500;Ile litrów ma typowy garnek domowy (w przybliżeniu)?;3.0;l;dom/kuchnia;typowo
+501;Ile litrów wody mieści butelka 750 ml?;0.75;l;kuchnia/napoje;fakt
+502;Ile sezonów ma serial 'Gra o tron'?;8.0;sezonów;popkultura/seriale;fakt
+503;Ile mililitrów ma typowa puszka piwa?;500.0;ml;kuchnia/napoje;typowo
+504;Ile metrów ma typowy zwój kabla w markecie (w przybliżeniu)?;25.0;m;dom/DIY;typowo
+505;Ile minut trwa typowy odcinek kreskówki dla dzieci?;11.0;min;popkultura/seriale;typowo
+506;Ile herców ma sieć energetyczna w Europie?;50.0;Hz;technologia/elektryka;fakt
+507;Ile jardów ma boisko do futbolu amerykańskiego (między liniami bramkowymi)?;100.0;jardów;sport;fakt
+508;Ile centymetrów ma wysokość typowego kubka?;9.5;cm;dom/kuchnia;typowo
+509;Ile gramów ma typowa paczka kaszy (np. gryczanej) ?;400.0;g;kuchnia/jedzenie;typowo
+510;Ile stron WWW (w przybliżeniu) otwierasz w typowym dniu pracy?;30.0;stron;technologia/codzienne;około
+511;Ile kilometrów ma średnica Ziemi (w przybliżeniu)?;12742.0;km;geografia;około
+512;Ile centymetrów ma długość miarki krawieckiej (typowo)?;150.0;cm;dom/DIY;typowo
+513;Ile klatek ma sekunda animacji w standardzie 24 fps?;24.0;klatek;media;fakt
+514;Ile sekund trwa 2 minuty?;120.0;s;czas;wyliczone(≈)
+515;Ile milimetrów ma złącze jack 6,35 mm?;6.35;mm;technologia/audio;fakt
+516;Ile gramów ma typowa paczka żółtego sera w kawałku (w przybliżeniu)?;300.0;g;kuchnia/jedzenie;typowo
+517;Ile gramów ma typowa paczka rodzynek?;200.0;g;kuchnia/jedzenie;typowo
+518;Ile sekund trwa typowy trailer kinowy (w przybliżeniu)?;150.0;s;media/film;wyliczone(≈)
+519;Ile kilometrów na godzinę może osiągnąć sokół w locie nurkowym (w przybliżeniu)?;320.0;km/h;natura/zwierzęta;około
+520;Ile listków ma typowa rolka papieru toaletowego (w przybliżeniu)?;200.0;szt.;dom/łazienka;około
+521;Ile gramów ma typowa tubka pasty do zębów?;75.0;g;dom/łazienka;typowo
+522;Ile gramów ma typowa paczka cukru?;1000.0;g;kuchnia/jedzenie;typowo
+523;Ile mililitrów ma typowa butelka szamponu?;400.0;ml;dom/łazienka;typowo
+524;Ile bitów ma adres IPv6?;128.0;bit;technologia/sieci;fakt
+525;Ile metrów ma dystans biegu na 800 metrów?;800.0;m;sport;fakt
+526;Ile części ma klasyczna trylogia 'Powrót do przyszłości'?;3.0;filmy;popkultura/film;fakt
+527;Ile sekund ma 2 godziny?;7200.0;s;czas;wyliczone(≈)
+528;Ile bajtów ma 1 gibibajt (GiB)?;1073741824.0;B;technologia;fakt
+529;Ile kilometrów ma dystans Ironman – pływanie (w przybliżeniu)?;3.8;km;sport;fakt
+530;Ile milimetrów ma szerokość karty SD (w przybliżeniu)?;24.0;mm;technologia;około
+531;Ile gramów ma typowy kotlet schabowy (w przybliżeniu)?;180.0;g;kuchnia/jedzenie;typowo
+532;Ile mililitrów ma typowa mała śmietanka do kawy (kubeczek)?;10.0;ml;kuchnia/napoje;typowo
+533;Ile kilometrów ma dystans Ironman – rower (w przybliżeniu)?;180.0;km;sport;fakt
+534;Ile centymetrów ma wysokość siatki w tenisie stołowym?;15.25;cm;sport;fakt
+535;Ile pionków ma jeden gracz w 'Chińczyku'?;4.0;pionki;gry;fakt
+536;Ile kilometrów ma długość okrążenia w Tour de France (łączny dystans, w przybliżeniu)?;3400.0;km;sport;około
+537;Ile sekund ma 1,5 minuty?;90.0;s;czas;wyliczone(≈)
+538;Ile liter ma alfabet rosyjski (współczesny)?;33.0;liter;język;fakt
+539;Ile setów gra się w meczu tenisa stołowego (typowo) ?;5.0;setów;sport;typowo
+540;Ile minut trwa przerwa w koszykówce między połowami (w przybliżeniu)?;15.0;min;sport;około
+541;Ile metrów ma wysokość Wielkiej Piramidy w Gizie (w przybliżeniu)?;139.0;m;geografia/budowle;około
+542;Ile godzin trwa 24-godzinny wyścig Le Mans?;24.0;h;sport/motoryzacja;fakt
+543;Ile lat świetlnych dzieli nas od Proxima Centauri (w przybliżeniu)?;4.24;ly;kosmos;około
+544;Ile gramów ma typowa paczka proszku do pieczenia?;16.0;g;kuchnia/jedzenie;typowo
+545;Ile gramów ma typowa paczka kawy ziarnistej?;1000.0;g;kuchnia/napoje;typowo
+546;Ile metrów ma typowa rolka papieru toaletowego (w przybliżeniu)?;20.0;m;dom/łazienka;typowo
+547;Ile gramów ma typowa porcja ryżu ugotowanego na osobę (w przybliżeniu)?;180.0;g;kuchnia/jedzenie;typowo
+548;Ile mililitrów ma typowy jogurt pitny?;330.0;ml;kuchnia/napoje;typowo
+549;Ile kilometrów ma typowy etap kolarski (w przybliżeniu)?;180.0;km;sport;około
+550;Ile mililitrów to 1 litr?;1000.0;ml;jednostki;fakt
+551;Ile kilobitów na sekundę ma 1 megabit na sekundę (w uproszczeniu dziesiętnym)?;1000.0;kb/s;technologia;umownie
+552;Ile litrów ma typowy zbiornik paliwa w motocyklu (w przybliżeniu)?;15.0;l;transport;typowo
+553;Ile minut ma 3 dni?;4320.0;min;czas;wyliczone(≈)
+554;Ile kilogramów waży typowy odkurzacz pionowy?;2.5;kg;dom/AGD;typowo
+555;Ile woltów ma bateria AA?;1.5;V;dom/elektryka;fakt
+556;Ile lat trwa jedno „milenium”?;1000.0;lat;czas;fakt
+557;Ile gramów waży typowy pilot do TV?;120.0;g;dom/technologia;typowo
+558;Ile sędziów liniowych jest w meczu tenisa (typowo, w przybliżeniu)?;6.0;osób;sport;typowo
+559;Ile metrów wynosi maksymalna długość przewodu Ethernet dla 1000BASE‑T (typowo)?;100.0;m;technologia/sieci;fakt
+560;Ile minut trwa typowa sesja w saunie?;10.0;min;zdrowie;typowo
+561;Ile cyfr ma kod jednorazowy 2FA (typowo)?;6.0;cyfr;technologia/codzienne;typowo
+562;Ile pól (w przybliżeniu) ma jedna okrężna trasa w 'Chińczyku'?;40.0;pól;gry;około
+563;Ile bajtów ma klucz AES‑256?;32.0;B;technologia/bezpieczeństwo;fakt
+564;"Ile cali ma monitor 27"" w centymetrach (w przybliżeniu)?";68.6;cm;technologia;wyliczone(≈)
+565;Ile gramów ma typowa paczka kiełków (w przybliżeniu)?;100.0;g;kuchnia/jedzenie;typowo
+566;Ile bajtów ma adres IPv4?;4.0;B;technologia/sieci;wyliczone(≈)
+567;Ile sekund ma 1 rok (365 dni) (w przybliżeniu)?;31536000.0;s;czas;wyliczone(≈)
+568;Ile banknotów po 1 gramie waży 1 kilogram?;1000.0;banknotów;pieniądze;wyliczone(≈)
+569;Ile pokoi ma typowy hotel (w przybliżeniu)?;100.0;pokoi;podróże;około
+570;Ile dni ma październik?;31.0;dni;czas;fakt
+571;Ile gramów ma typowa kostka lodu z foremki (w przybliżeniu)?;20.0;g;kuchnia;typowo
+572;Ile kartek ma zeszyt 60‑stronicowy?;30.0;kartek;szkoła;wyliczone(≈)
+573;Ile kalorii ma typowy pączek (w przybliżeniu)?;300.0;kcal;zdrowie/jedzenie;około
+574;Ile kilogramów piasku mieści 10-litrowe wiadro (w przybliżeniu)?;16.0;kg;dom/DIY;około
+575;Ile gramów ma typowa paczka żelków?;100.0;g;kuchnia/jedzenie;typowo
+576;Ile sekund trwa przeciętny impuls mikrofali do podgrzania czegoś (w przybliżeniu)?;60.0;s;dom/AGD;typowo
+577;Ile metrów ma dystans biegu na 100 metrów?;100.0;m;sport;fakt
+578;Ile przewodów ma typowy kabel HDMI (liczba pinów w złączu)?;19.0;pinów;technologia/audio-wideo;fakt
+579;Ile stopni Celsjusza ma typowa temperatura w saunie?;80.0;°C;zdrowie;typowo
+580;Ile milisekund ma jedna sekunda?;1000.0;ms;czas;fakt
+581;Ile części ma filmowa trylogia 'Hobbit'?;3.0;filmy;popkultura/film;fakt
+582;Ile kalorii ma typowy banan (w przybliżeniu)?;100.0;kcal;zdrowie/jedzenie;około
+583;Ile kilometrów ma obwód Ziemi (w przybliżeniu)?;40075.0;km;geografia;około
+584;Ile stopni ma temperatura ciała człowieka (umownie)?;36.6;°C;człowiek/zdrowie;umownie
+585;Ile gramów ma typowa porcja makaronu ugotowanego na osobę (w przybliżeniu)?;200.0;g;kuchnia/jedzenie;typowo
+586;Ile dni ma wrzesień?;30.0;dni;czas;fakt
+587;Ile gramów ma typowa paczka soczewicy?;400.0;g;kuchnia/jedzenie;typowo
+588;Ile sezonów ma serial 'The Office' (US)?;9.0;sezonów;popkultura/seriale;fakt
+589;Ile pikseli ma rozdzielczość Full HD (1920×1080)?;2073600.0;px;technologia;wyliczone(≈)
+590;Ile centymetrów ma typowa wysokość stołu (blat)?;75.0;cm;dom;typowo
+591;Ile minut trwa typowa rozmowa telefoniczna (w przybliżeniu)?;3.0;min;codzienne;około
+592;Ile gramów ma typowa paczka płatków owsianych?;500.0;g;kuchnia/jedzenie;typowo
+593;Ile centów jest w 1 euro?;100.0;centów;pieniądze;fakt
+594;Ile metrów ma tor kolarski (welodrom) – jedno okrążenie (typowo)?;250.0;m;sport;typowo
+595;Ile naleśników wyjdzie z 1 litra mleka (w przybliżeniu)?;12.0;szt.;kuchnia/jedzenie;około
+596;Ile metrów ma standardowa wysokość kosza na śmieci w kuchni (w przybliżeniu)?;0.5;m;dom;około
+597;Ile milimetrów ma 2 centymetry?;20.0;mm;jednostki;fakt
+598;Ile minut ma 2,5 godziny?;150.0;min;czas;wyliczone(≈)
+599;Ile centymetrów ma typowa grubość ściany z cegły (w przybliżeniu)?;25.0;cm;dom/DIY;około
+600;Ile kilometrów ma promień Ziemi (w przybliżeniu)?;6371.0;km;geografia;około
+601;Ile centymetrów ma długość łyżeczki (w przybliżeniu)?;14.0;cm;dom/kuchnia;typowo
+602;Ile gramów mąki jest w 1 szklance mąki (w przybliżeniu)?;160.0;g;kuchnia/miary;typowo
+603;Ile minut trwa set w tenisie stołowym (w przybliżeniu)?;8.0;min;sport;około
+604;Ile dni trwa rok na Ziemi (średnio, w przybliżeniu)?;365.25;dni;czas;około
+605;Ile kilometrów na godzinę może wiać huragan (w przybliżeniu)?;250.0;km/h;natura;około
+606;Ile gramów ma typowa paczka mozzarelli tartej?;150.0;g;kuchnia/jedzenie;typowo
+607;Ile centymetrów ma typowa szerokość drzwi wejściowych?;90.0;cm;dom;typowo
+608;"Ile centymetrów ma standardowa przekątna monitora 24"" (w przybliżeniu)?";61.0;cm;technologia;wyliczone(≈)
+609;Ile znaków ma najdłuższa domena internetowa (maks. długość FQDN, w przybliżeniu)?;253.0;znaków;technologia/internet;fakt
+610;Ile mikrosekund ma jedna sekunda?;1000000.0;µs;czas;fakt
+611;Ile milimetrów ma grubość karty płatniczej (w przybliżeniu)?;0.8;mm;codzienne/przedmioty;około
+612;Ile metrów ma dystans biegu na 1500 metrów?;1500.0;m;sport;fakt
+613;Ile metrów ma wysokość kosza do koszykówki od obręczy do tablicy (w przybliżeniu)?;0.3;m;sport;około
+614;Ile metrów ma odległość rzutu karnego w piłce nożnej?;11.0;m;sport;fakt
+615;Ile lat trwa jedno „stulecie”?;100.0;lat;czas;fakt
+616;Ile procent dwutlenku węgla jest w powietrzu (w przybliżeniu, obecnie)?;0.04;%;nauka;około
+617;Ile metrów ma standardowa rolka folii spożywczej (w przybliżeniu)?;30.0;m;dom/kuchnia;typowo
+618;Ile centymetrów ma średnica patelni „małej” (w przybliżeniu)?;20.0;cm;dom/kuchnia;typowo
+619;Ile kilometrów ma popularny bieg „dycha” (10K)?;10.0;km;sport;fakt
+620;Ile stron ma typowy scenariusz filmu 2‑godzinnego (1 strona ≈ 1 minuta)?;120.0;str.;media/film;wyliczone(≈)
+621;Ile metrów ma 1 mila lądowa?;1609.0;m;jednostki;fakt
+622;Ile centymetrów ma szerokość karty płatniczej (w przybliżeniu)?;5.4;cm;codzienne/przedmioty;około
+623;Ile kilometrów ma dystans Ironman – bieg (maraton)?;42.195;km;sport;fakt
+624;Ile metrów ma wysokość Statuy Wolności (od ziemi do czubka pochodni, w przybliżeniu)?;93.0;m;geografia/budowle;około
+625;Ile pensów jest w 1 funcie?;100.0;pensów;pieniądze;fakt
+626;Ile bitów ma klucz AES‑128?;128.0;bit;technologia/bezpieczeństwo;fakt
+627;Ile gramów ma typowa paczka kiełbasy parówek?;250.0;g;kuchnia/jedzenie;typowo
+628;Ile gramów ma typowa tabliczka czekolady „duża”?;100.0;g;kuchnia/jedzenie;typowo
+629;Ile gramów ma typowa paczka chusteczek higienicznych (w przybliżeniu)?;200.0;g;dom;około
+630;Ile centymetrów ma 1 metr?;100.0;cm;jednostki;fakt
+631;Ile dni trwa doba na Księżycu (w przybliżeniu)?;29.5;dni;kosmos;około
+632;Ile centymetrów ma długość typowego noża kuchennego (w przybliżeniu)?;30.0;cm;dom/kuchnia;typowo
+633;Ile gramów ma typowa paczka batoników (zwykła, w przybliżeniu)?;200.0;g;kuchnia/jedzenie;typowo
+634;Ile procent tlenu jest w powietrzu (w przybliżeniu)?;21.0;%;nauka;około
+635;Ile kilometrów na godzinę wieje umiarkowany wiatr (w przybliżeniu)?;20.0;km/h;natura;około
+636;Ile sezonów ma serial 'Friends'?;10.0;sezonów;popkultura/seriale;fakt
+637;Ile kilometrów na godzinę płynie duży statek wycieczkowy (w przybliżeniu)?;40.0;km/h;transport;około
+638;Ile punktów gra się w tie-breaku w siatkówce (standardowo)?;15.0;pkt;sport;fakt
+639;Ile metrów ma najgłębsze miejsce oceanu (Rów Mariański, w przybliżeniu)?;11000.0;m;geografia;około
+640;Ile metrów ma wysokość Kilimandżaro (w przybliżeniu)?;5895.0;m;geografia;około
+641;Ile gramów waży typowy kubek ceramiczny (w przybliżeniu)?;300.0;g;dom/kuchnia;typowo
+642;Ile mililitrów ma typowy bidon sportowy?;750.0;ml;sport;typowo
+643;Ile kart dostaje każdy gracz na start w UNO?;7.0;kart;gry;fakt
+644;Ile minut trwa typowa reklama na YouTube przed filmem (w przybliżeniu)?;0.5;min;media;około
+645;Ile gramów ma typowa paczka soli kuchennej?;1000.0;g;kuchnia/jedzenie;typowo
+646;Ile sekund trwa typowe zagotowanie czajnika z 1 litrem wody (w przybliżeniu)?;180.0;s;dom/AGD;około
+647;Ile minut trwa mecz hokeja na lodzie (3 tercje po 20 min, bez przerw)?;60.0;min;sport;fakt
+648;Ilu hobbitów wchodzi w skład Drużyny Pierścienia?;4.0;osób;popkultura/film;fakt
+649;Ile kilometrów na godzinę ma prędkość obrotowa Ziemi na równiku (w przybliżeniu)?;1670.0;km/h;geografia/kosmos;około
+650;Ile watów ma szybka ładowarka do telefonu (w przybliżeniu)?;65.0;W;technologia/codzienne;typowo
+651;Ile mililitrów ma 1/3 litra (w przybliżeniu)?;333.0;ml;jednostki;wyliczone(≈)
+652;Ile metrów ma wysokość kosza w NBA/NCAA (standard)?;3.05;m;sport;fakt
+653;Ile kilometrów wynosi 1 rok świetlny (w przybliżeniu)?;9460000000000.0;km;kosmos;około
+654;Ile gramów cukru jest w 1 szklance cukru (w przybliżeniu)?;200.0;g;kuchnia/miary;typowo
+655;Ile woltów ma port USB (standardowo)?;5.0;V;technologia/elektronika;fakt
+656;Ile centymetrów ma typowa wysokość krzesła (od podłogi do siedziska)?;45.0;cm;dom;typowo
+657;Ile minut trwa doba na Merkurym (w przybliżeniu)?;84240.0;min;kosmos;około
+658;Ile stopni Celsjusza ma typowa temperatura pieczenia pizzy w piekarniku domowym?;220.0;°C;kuchnia;typowo
+659;Ile litrów ma typowy kubek miarowy?;1.0;l;dom/kuchnia;typowo
+660;Ile centymetrów ma średnica kubka (w przybliżeniu)?;8.0;cm;dom/kuchnia;typowo
+661;Ile odcinków (w przybliżeniu) ma jeden sezon serialu sitcomowego?;24.0;odcinków;popkultura/seriale;typowo
+662;Ile centymetrów ma długość standardowej linijki szkolnej?;30.0;cm;szkoła;fakt
+663;Ile gramów waży typowy list w kopercie (bez załączników)?;20.0;g;codzienne;typowo
+664;Ile dni ma kwiecień?;30.0;dni;czas;fakt
+665;Ile minut trwa typowy koncert (w przybliżeniu)?;90.0;min;muzyka;typowo
+666;Ile gramów ma typowa paczka rukoli/miksu sałat?;100.0;g;kuchnia/jedzenie;typowo
+667;Ile sekund ma 2,5 godziny?;9000.0;s;czas;wyliczone(≈)
+668;Ile metrów ma dystans biegu na 10 000 metrów?;10000.0;m;sport;fakt
+669;Ile gramów ma typowa paczka popcornu do mikrofalówki?;100.0;g;kuchnia/jedzenie;typowo
+670;Ile metrów ma dystans biegu na 5000 metrów?;5000.0;m;sport;fakt
+671;Ile metrów ma szerokość boiska do squasha (w przybliżeniu)?;6.4;m;sport;fakt
+672;Ile kilometrów na sekundę wynosi prędkość obiegu Ziemi wokół Słońca (w przybliżeniu)?;29.8;km/s;kosmos;około
+673;Ile dni ma lipiec?;31.0;dni;czas;fakt
+674;Ile gramów ma typowa paczka orzechów (w przybliżeniu)?;200.0;g;kuchnia/jedzenie;typowo
+675;Ile osób (w przybliżeniu) pracuje przy dużym filmie (ekipa)?;200.0;osób;media/film;około
+676;Ile rund ma turniej golfowy (standardowo)?;4.0;rundy;sport;fakt
+677;Ile gramów ma typowa paczka kawy mielonej?;250.0;g;kuchnia/napoje;typowo
+678;Ile znaków ma standardowy zestaw kart UNO (w przybliżeniu)?;108.0;kart;gry;fakt
+679;Ile osób liczy „Czterej Jeźdźcy Apokalipsy”?;4.0;osób;popkultura/religia;fakt
+680;Ile centymetrów ma średnica talerza obiadowego (w przybliżeniu)?;27.0;cm;dom/kuchnia;typowo
+681;Ile bajtów ma 1 mebibajt (MiB)?;1048576.0;B;technologia;fakt
+682;Ile minut trwa typowa przerwa szkolna?;10.0;min;szkoła;typowo
+683;Ile centymetrów ma długość ostrza noża kuchennego (w przybliżeniu)?;20.0;cm;dom/kuchnia;typowo
+684;Ile sekund trwa, zanim światło doleci z Ziemi na Księżyc (w przybliżeniu)?;1.3;s;kosmos;około
+685;Ile metrów ma wysokość kosza w koszykówce dziecięcej (typowo, mini-basket)?;2.6;m;sport;typowo
+686;Ile gramów ma typowa paczka kabanosów (w przybliżeniu)?;120.0;g;kuchnia/jedzenie;typowo
+687;Ile sylab ma słowo „superkalifradalistyczny” (w przybliżeniu)?;8.0;sylab;język;około
+688;Ile centymetrów ma typowa szczoteczka do zębów?;19.0;cm;dom/łazienka;typowo
+689;Ile klatek ma minuta filmu w 24 fps?;1440.0;klatek;media;wyliczone(≈)
+690;Ile kilometrów może mieć zasięg samolotu pasażerskiego dalekiego zasięgu (w przybliżeniu)?;14000.0;km;transport;około
+691;Ile gramów ma typowa paczka herbaty liściastej lub ekspresowej?;100.0;g;kuchnia/napoje;typowo
+692;Ile kilogramów to 1 tona?;1000.0;kg;jednostki;fakt
+693;Ile kilogramów waży typowy worek cebuli (w przybliżeniu)?;1.0;kg;zakupy;typowo
+694;Ile bajtów ma adres IPv6?;16.0;B;technologia/sieci;wyliczone(≈)
+695;Ile banknotów po 1 gramie waży 100 gramów?;100.0;banknotów;pieniądze;wyliczone(≈)
+696;Ile kostek lodu (po 20 g) waży 1 kilogram (w przybliżeniu)?;50.0;kostek;kuchnia;wyliczone(≈)
+697;Ile mililitrów ma 1/4 szklanki (umownie 250 ml)?;62.5;ml;kuchnia/miary;wyliczone(≈)
+698;Ile centymetrów ma wysokość typowego bidonu sportowego?;24.0;cm;sport;typowo
+699;Ile sekund trwa 0,5 minuty?;30.0;s;czas;wyliczone(≈)
+700;Ile centymetrów ma długość zapałki (w przybliżeniu)?;4.5;cm;codzienne/przedmioty;typowo
+701;Ile gramów ma typowa paczka mrożonych frytek?;750.0;g;kuchnia/jedzenie;typowo
+702;Ile żyć ma typowo gracz w klasycznych grach arcade (w przybliżeniu)?;3.0;żyć;gry;typowo
+703;Ile kilometrów ma dystans triathlonu olimpijskiego – bieg?;10.0;km;sport;fakt
+704;Ile liter ma alfabet hebrajski?;22.0;liter;język;fakt
+705;Ile sezonów ma serial 'Breaking Bad'?;5.0;sezonów;popkultura/seriale;fakt
+706;Ile znaków ma standardowy adres MAC z dwukropkami (np. AA:BB:...)?;17.0;znaków;technologia/sieci;fakt
+707;Ile pikseli ma rozdzielczość 4K UHD (3840×2160)?;8294400.0;px;technologia;wyliczone(≈)
+708;Ile gramów ma typowa paczka mąki?;1000.0;g;kuchnia/jedzenie;typowo
+709;Ile kilometrów na godzinę może płynąć rekin (w przybliżeniu)?;50.0;km/h;natura/zwierzęta;około
+710;Ile centymetrów ma typowa średnica monety (w przybliżeniu)?;2.3;cm;pieniądze;około
+711;Ile gramów waży typowa moneta obiegowa (w przybliżeniu)?;6.0;g;pieniądze;około
+712;Ile litrów ma typowy dzbanek filtrujący do wody?;2.4;l;dom/kuchnia;typowo
+713;Ile centymetrów ma długość długopisu (w przybliżeniu)?;14.0;cm;codzienne/przedmioty;typowo
+714;Ile sztuk tortilli bywa w typowej paczce?;6.0;szt.;kuchnia/jedzenie;typowo
+715;Ile mililitrów ma typowa śmietanka 30% w kartoniku?;200.0;ml;kuchnia/jedzenie;typowo
+716;Ile minut trwa typowy trailer kinowy (w przybliżeniu)?;2.5;min;media/film;typowo
+717;Ile liter ma słowo „konstantynopolitańczykowianeczka”?;32.0;liter;język;fakt
+718;Ile litrów ma typowy kosz na śmieci kuchenny?;30.0;l;dom;typowo
+719;Ile centymetrów ma średnica patelni „dużej” (w przybliżeniu)?;28.0;cm;dom/kuchnia;typowo
+720;Ile dni ma sierpień?;31.0;dni;czas;fakt
+721;Ile dżuli ma 1 watogodzina (Wh) (w przybliżeniu)?;3600.0;J;technologia/energia;fakt
+722;Ile metrów ma wysokość najwyższego szczytu Europy (Elbrus, w przybliżeniu)?;5642.0;m;geografia;około
+723;Ile bitów ma klucz AES‑256?;256.0;bit;technologia/bezpieczeństwo;fakt
+724;Ile metrów ma wysokość Mont Blanc (w przybliżeniu)?;4808.0;m;geografia;około
+725;Ilu zawodników jest na lodzie w hokeju (jedna drużyna, łącznie z bramkarzem)?;6.0;osób;sport;fakt
+726;Ile postaci jest w tytule 'Trzej Muszkieterowie'?;3.0;osób;popkultura/książki;fakt
+727;Ile centymetrów ma długość łyżki do zupy (w przybliżeniu)?;17.0;cm;dom/kuchnia;typowo
+728;Ile metrów ma dystans triathlonu olimpijskiego – pływanie?;1500.0;m;sport;fakt
+729;Ile metrów ma typowa wysokość człowieka w przeliczeniu na milimetry (175 cm)?;1750.0;mm;jednostki;wyliczone(≈)
+730;Ile stopni Celsjusza ma typowa temperatura pieczenia ciasta?;180.0;°C;kuchnia;typowo
+731;Ile mililitrów ma typowy żel pod prysznic?;400.0;ml;dom/łazienka;typowo
+732;Ile życzeń spełnia dżin w klasycznej bajce (typowo)?;3.0;życzenia;popkultura/bajki;umownie
+733;Ile kilometrów ma 1 mila lądowa (w przybliżeniu)?;1.609;km;jednostki;fakt
+734;Ile herców ma sieć energetyczna w USA?;60.0;Hz;technologia/elektryka;fakt
+735;Ile klatek ma 10 sekund filmu w 24 fps?;240.0;klatek;media;wyliczone(≈)
+736;Ile sekund ma 0,25 godziny?;900.0;s;czas;wyliczone(≈)
+737;Ile metrów ma standardowa wysokość kosza do koszykówki (3,05 m) w centymetrach?;305.0;cm;sport;wyliczone(≈)
+738;Ile metrów ma wysokość wieży Eiffla (w przybliżeniu, z anteną)?;330.0;m;geografia/budowle;około
+739;Ile kilogramów waży typowy worek gipsu (w przybliżeniu)?;20.0;kg;dom/DIY;typowo
+740;Ile mililitrów ma typowa butelka oleju spożywczego?;1000.0;ml;kuchnia/jedzenie;typowo
+741;Ile metrów ma długość stołu do tenisa stołowego?;2.74;m;sport;fakt
+742;Ile dżuli ma 1 kilowatogodzina (kWh)?;3600000.0;J;technologia/energia;fakt
+743;Ile rund ma typowy wyścig kolarski (Tour de France) (w przybliżeniu)?;21.0;etapów;sport;około
+744;Ile milimetrów ma 1 metr?;1000.0;mm;jednostki;fakt
+745;Ile mililitrów ma standardowa miarka do leków (łyżeczka miarowa)?;5.0;ml;zdrowie;typowo
+746;Ile gramów ma typowa paczka ciecierzycy suchej?;400.0;g;kuchnia/jedzenie;typowo
+747;Ile krążków (pucków) jest na rozpoczęciu meczu hokeja (na lodzie)?;1.0;szt.;sport;fakt
+748;Ile wiadomości SMS wysyła przeciętna osoba dziennie (w przybliżeniu)?;10.0;SMS;codzienne;około
+749;Ile kilometrów wynosi średnia odległość Ziemi od Księżyca (w przybliżeniu)?;384400.0;km;kosmos;około
+750;Ile litrów ma typowy dzbanek do herbaty (w przybliżeniu)?;1.0;l;dom/kuchnia;typowo
+751;Ile metrów ma szerokość stołu do tenisa stołowego?;1.525;m;sport;fakt
+752;Ile minut trwa gotowanie ziemniaków (w przybliżeniu)?;20.0;min;kuchnia/jedzenie;typowo
+753;Ile tomów ma klasyczna trylogia 'Millennium' Stiega Larssona?;3.0;tomów;popkultura/książki;fakt
+754;Ile centymetrów ma 2 metry?;200.0;cm;jednostki;fakt
+755;Ile kalorii ma typowe jabłko (w przybliżeniu)?;95.0;kcal;zdrowie/jedzenie;około
+756;Ile punktów potrzeba, by wygrać w UNO (standardowa zasada)?;500.0;pkt;gry;fakt
+757;Ile gramów waży typowa łyżka stołowa?;30.0;g;dom/kuchnia;typowo
+758;Ile gramów to 1 kilogram?;1000.0;g;jednostki;fakt
+759;Ile dni w roku jest słonecznych w typowym śródziemnomorskim kurorcie (w przybliżeniu)?;300.0;dni;podróże;około
+760;Ile gramów ma typowa paczka pieprzu mielonego?;20.0;g;kuchnia/przyprawy;typowo
+761;Ile kilometrów na litrze przejedzie motocykl przy spalaniu 4 l/100 km?;25.0;km;transport;wyliczone(≈)
+762;Ile metrów ma standardowa rolka folii aluminiowej (w przybliżeniu)?;20.0;m;dom/kuchnia;typowo
+763;Ile litrów ma typowa patelnia/wok (pojemność, w przybliżeniu)?;2.0;l;dom/kuchnia;około
+764;Ile centymetrów ma wysokość siatki w tenisie (przy słupkach)?;107.0;cm;sport;fakt
+765;Ile minut trwa gotowanie makaronu al dente (w przybliżeniu)?;9.0;min;kuchnia/jedzenie;typowo
+766;Ile kilogramów waży typowy worek zaprawy klejowej (w przybliżeniu)?;25.0;kg;dom/DIY;typowo
+767;Ile megabajtów na sekundę to 1 gigabit/s (w przybliżeniu)?;125.0;MB/s;technologia;wyliczone(≈)
+768;Ile dBi ma typowa antena routera domowego (w przybliżeniu)?;5.0;dBi;technologia/sieci;typowo
+769;Ile centymetrów ma średnica talerza deserowego (w przybliżeniu)?;20.0;cm;dom/kuchnia;typowo
+770;Ile par ma standardowa skrętka Ethernet?;4.0;par;technologia/sieci;fakt
+771;Ile metrów ma długość boiska do futbolu amerykańskiego (w przybliżeniu, bez pól punktowych)?;91.4;m;sport;około
+772;Ile jest kamieni nieskończoności (Infinity Stones) w uniwersum Marvela?;6.0;szt.;popkultura/film;fakt
+773;Ile mililitrów ma 1/2 szklanki (umownie 250 ml)?;125.0;ml;kuchnia/miary;wyliczone(≈)
+774;Ile gramów ma typowa porcja warzyw do obiadu (w przybliżeniu)?;200.0;g;kuchnia/jedzenie;typowo
+775;Ile gramów ma typowa paczka płatków do panierki (bułka tarta)?;500.0;g;kuchnia/jedzenie;typowo
+776;Ile kilometrów ma długość autostradowego odcinka 100 km w metrach?;100000.0;m;jednostki;wyliczone(≈)
+777;Ile centymetrów ma średnica typowego naleśnika?;22.0;cm;kuchnia/jedzenie;typowo
+778;Ile metrów ma średnica obręczy koszykarskiej (w przybliżeniu)?;0.45;m;sport;około
+779;Ile minut trwa typowe zagotowanie czajnika z 1 litrem wody (w przybliżeniu)?;3.0;min;dom/AGD;około
+780;Ile procent azotu jest w powietrzu (w przybliżeniu)?;78.0;%;nauka;około
+781;Ile gramów ma typowa paczka tortilli (w przybliżeniu)?;370.0;g;kuchnia/jedzenie;typowo
+782;Ile gramów ma typowa paczka przyprawy jednoskładnikowej (np. papryka)?;20.0;g;kuchnia/przyprawy;typowo
+783;Ile minut trwa długa przerwa szkolna (w przybliżeniu)?;20.0;min;szkoła;typowo
+784;Ile baterii AA mieści się w typowym pilocie do TV?;2.0;szt.;dom/technologia;typowo
+785;Ile kilometrów ma najdłuższa rzeka świata (w przybliżeniu)?;6650.0;km;geografia;około
+786;Ile żył ma skrętka Ethernet (pełna, 4 pary)?;8.0;żył;technologia/sieci;fakt
+787;Ile litrów powietrza ma wdech dorosłego w spoczynku (w przybliżeniu)?;0.5;l;człowiek/zdrowie;około
+788;Ile kilometrów na godzinę jedzie pociąg dużych prędkości (w przybliżeniu)?;300.0;km/h;transport;około
+789;Ile gramów waży piłka nożna (w przybliżeniu)?;430.0;g;sport;około
+790;Ile sekund trwa minuta ciszy?;60.0;s;ciekawostki;fakt
+791;Ile gramów ma typowa paczka wafli ryżowych?;130.0;g;kuchnia/jedzenie;typowo
+792;Ile bajtów ma 1 terabajt (TB) w uproszczeniu dziesiętnym?;1000000000000.0;B;technologia;umownie
+793;Ile gramów waży typowa pocztówka?;5.0;g;codzienne/przedmioty;typowo
+794;Ile misiów wchodzi w skład 'Trzech misiów'?;3.0;misie;popkultura/bajki;fakt
+795;Ile książek ma 'Trylogia' Igrzysk Śmierci?;3.0;książki;popkultura/książki;fakt
+796;Ile sekund ma 5 minut?;300.0;s;czas;wyliczone(≈)
+797;Ile gramów ma typowy twaróg w kostce?;250.0;g;kuchnia/jedzenie;typowo
+798;Ile centymetrów ma wysokość siatki w tenisie (na środku)?;91.4;cm;sport;fakt
+799;Ile centymetrów ma długość przeciętnej pszczoły (w przybliżeniu)?;1.5;cm;natura/zwierzęta;około
+800;Ile portów ma zakres portów TCP/UDP (0–65535)?;65536.0;portów;technologia/sieci;fakt
+801;Ile wynosi 75% z 100?;75.0;jedn.;konwersje/procenty;wyliczone(≈)
+802;Jaka liczba występuje w tytule film „2046”?;2046.0;liczba;popkultura/tytuły;fakt
+803;W którym roku powstała gra Tetris (około)?;1984.0;rok;historia;około
+804;Ile minut czeka się w typowej kolejce do kasy (w przybliżeniu)?;5.0;min;świat/społeczeństwo;typowo
+805;W którym roku rozpoczęła się era kosmiczna (Sputnik 1)?;1957.0;rok;historia;fakt
+806;Ile litrów to 500 ml?;0.5;l;konwersje/objętość;wyliczone(≈)
+807;Ile stron ma typowa książka dla dzieci (w przybliżeniu)?;64.0;str.;kultura/książki;typowo
+808;Ile czerwonych bil jest w snookerze na starcie?;15.0;szt.;sport/snooker;fakt
+809;Ile centymetrów to 2 m?;200.0;cm;konwersje/dystans;wyliczone(≈)
+810;Ile odcinków ma typowy sezon serialu w streamingu (w przybliżeniu)?;10.0;odc.;popkultura/seriale;typowo
+811;Ile lat żyje orka (w przybliżeniu)?;50.0;lat;natura/zwierzęta;około
+812;Ile wysp tworzy Hawaje (główne wyspy, w przybliżeniu)?;8.0;wysp;geografia;około
+813;W którym roku zakończyła się II wojna światowa w Europie?;1945.0;rok;historia;fakt
+814;Ile MB to 8 294 400 bajtów (w przybliżeniu dziesiętnym)?;8.2944;MB;technologia/grafika;wyliczone(≈)
+815;Ile minut trwa standardowy mecz rugby league?;80.0;min;sport/rugby;fakt
+816;Ile wynosi 5% z 120?;6.0;jedn.;konwersje/procenty;wyliczone(≈)
+817;W którym roku WHO ogłosiła COVID-19 pandemią?;2020.0;rok;historia;fakt
+818;Ile boków ma dwunastokąt?;12.0;boków;ciekawostki/geometria;fakt
+819;W którym roku rozpoczęła się rewolucja francuska?;1789.0;rok;historia;fakt
+820;Ile wynosi 75% z 500?;375.0;jedn.;konwersje/procenty;wyliczone(≈)
+821;Ile znaków (hex) ma skrót SHA‑1?;40.0;znaków;technologia/bezpieczeństwo;fakt
+822;Ile minut trwa 1.5 godziny?;90.0;min;konwersje/czas;wyliczone(≈)
+823;Ile bajtów ma słowo 16‑bit?;2.0;B;technologia;fakt
+824;Ile godzin ma 2 dni?;48.0;h;konwersje/czas;wyliczone(≈)
+825;Ile punktów zdobywa się za rzut wolny w koszykówce?;1.0;pkt;sport/koszykówka;fakt
+826;W którym roku oddano do użytku Kanał La Manche tunel (Eurotunel)?;1994.0;rok;historia;fakt
+827;Ile kolorów ma standardowy zestaw LEGO (klocki mogą mieć wiele, ale klasyczne podstawowe to kilka)?;6.0;kolorów;popkultura/zabawki;umownie
+828;Ile białych pól ma plansza 8×8?;32.0;pól;gry/logika;wyliczone(≈)
+829;Ile znaków (bitów) ma IPv4 w zapisie kropkowym – ile oktetów?;4.0;oktetów;technologia/sieci;fakt
+830;Ile kilogramów to 200 g?;0.2;kg;konwersje/masa;wyliczone(≈)
+831;Ile litrów to 750 ml?;0.75;l;konwersje/objętość;wyliczone(≈)
+832;Ile milisekund jest w sekundzie?;1000.0;ms;technologia/czas;fakt
+833;Jaka liczba występuje w tytule film „District 9”?;9.0;liczba;popkultura/tytuły;fakt
+834;Ile znaków ma kod QR w małej wersji (w przybliżeniu, bardzo zależy)?;100.0;znaków;technologia;około
+835;Ile metrów to 5 km?;5000.0;m;konwersje/dystans;wyliczone(≈)
+836;Jaka jest maksymalna/przybliżona prędkość wydra?;11.0;km/h;natura/zwierzęta;około
+837;Ile lat żyje pingwin (w przybliżeniu)?;20.0;lat;natura/zwierzęta;około
+838;Ile wynosi 75% z 80?;60.0;jedn.;konwersje/procenty;wyliczone(≈)
+839;Ile krawędzi ma dodekaedr?;30.0;krawędzi;ciekawostki/geometria;fakt
+840;W którym roku powstał pierwszy bankomat (w użyciu, około)?;1967.0;rok;historia;około
+841;Ile godzin ma 2 tygodnie?;336.0;h;konwersje/czas;wyliczone(≈)
+842;Ile części ma klasyczna baśń „Trzy życzenia”?;3.0;szt.;popkultura/bajki;umownie
+843;Ile dni ma miesiąc „typowo” w uproszczeniu kalendarzowym?;30.0;dni;czas;umownie
+844;Ile metrów to 42.195 km?;42195.0;m;konwersje/dystans;wyliczone(≈)
+845;Ile metrów ma 1 kilometr?;1000.0;m;jednostki;fakt
+846;Ile lat żyje kangur (w przybliżeniu)?;20.0;lat;natura/zwierzęta;około
+847;Ile bajtów ma typowy adres MAC?;6.0;B;technologia/sieci;fakt
+848;Ile minut trwa typowe mycie zębów (zalecenie)?;2.0;min;świat/zdrowie;typowo
+849;Ile wynosi 80% z 80?;64.0;jedn.;konwersje/procenty;wyliczone(≈)
+850;Ile metrów ma bieg na 400 m (jedno okrążenie stadionu)?;400.0;m;sport/lekkoatletyka;fakt
+851;Jaka jest maksymalna/przybliżona prędkość lama?;30.0;km/h;natura/zwierzęta;około
+852;Ile miejsc ma typowy wagon metra (w przybliżeniu)?;200.0;osób;transport;typowo
+853;Jaka liczba występuje w tytule film „Szósty zmysł”?;6.0;liczba;popkultura/tytuły;fakt
+854;Ile lat żyje zebra (w przybliżeniu)?;20.0;lat;natura/zwierzęta;około
+855;Ile metrów ma maksymalna zalecana długość kabla Ethernet dla 1000BASE‑T (w przybliżeniu)?;100.0;m;technologia/sieci;fakt
+856;Ile gramów to 0.1 kg?;100.0;g;konwersje/masa;wyliczone(≈)
+857;Ile metrów ma boisko do piłki ręcznej (szerokość)?;20.0;m;sport/piłka ręczna;fakt
+858;Ile kilogramów to 250 g?;0.25;kg;konwersje/masa;wyliczone(≈)
+859;Ile minut trwa jedna tercja w hokeju na lodzie?;20.0;min;sport/hokej;fakt
+860;Ile centymetrów to 1000 m?;100000.0;cm;konwersje/dystans;wyliczone(≈)
+861;W którym roku miał premierę pierwszy film z serii „Szybcy i wściekli”?;2001.0;rok;historia;fakt
+862;Jaka liczba występuje w tytule książka „80 dni dookoła świata”?;80.0;liczba;popkultura/tytuły;fakt
+863;Ile milimetrów to 100 m?;100000.0;mm;konwersje/dystans;wyliczone(≈)
+864;Ile voltów ma standardowe USB (klasyczne)?;5.0;V;technologia/elektryka;fakt
+865;Ile bajtów ma słowo 32‑bit?;4.0;B;technologia;fakt
+866;Ile bil jest w bilardzie „ósemka” (pool) łącznie z białą?;16.0;szt.;sport/bilard;fakt
+867;Ile krawędzi ma sześcian?;12.0;szt.;matematyka;fakt
+868;Ile wynosi 10% z 250?;25.0;jedn.;konwersje/procenty;wyliczone(≈)
+869;Ile utworów ma typowa płyta muzyczna (album) – w przybliżeniu?;12.0;utworów;popkultura/muzyka;typowo
+870;Ile minut trwa dogrywka w hokeju (w przybliżeniu, sezon regularny zależy od ligi)?;5.0;min;sport/hokej;około
+871;Ile wynosi 90% z 20?;18.0;jedn.;konwersje/procenty;wyliczone(≈)
+872;W którym roku odkryto strukturę DNA (publikacja Watson/Crick)?;1953.0;rok;historia;fakt
+873;Ile metrów to 7.5 km?;7500.0;m;konwersje/dystans;wyliczone(≈)
+874;W którym roku wynaleziono telefon (patent Bella)?;1876.0;rok;historia;fakt
+875;W którym roku podpisano Deklarację Praw Człowieka i Obywatela (Francja)?;1789.0;rok;historia;fakt
+876;Ile lat żyje komar (w przybliżeniu)?;0.1;lat;natura/zwierzęta;około
+877;Ile wynosi 75% z 200?;150.0;jedn.;konwersje/procenty;wyliczone(≈)
+878;Ile uczniów jest w typowej grupie przedszkolnej (w przybliżeniu)?;20.0;osób;świat/społeczeństwo;typowo
+879;Jaka liczba występuje w tytule film „Catch-22”?;22.0;liczba;popkultura/tytuły;fakt
+880;W którym roku odbył się pierwszy lot braci Wright?;1903.0;rok;historia;fakt
+881;Ile dni trwa post w Wielkim Poście (tradycyjnie, w przybliżeniu)?;40.0;dni;kultura/religia;umownie
+882;Jaka liczba występuje w tytule książka „20 000 mil podmorskiej żeglugi”?;20000.0;liczba;popkultura/tytuły;fakt
+883;Ile minut ma kwadrans?;15.0;min;czas/ciekawostki;fakt
+884;Jaka liczba występuje w tytule film „1492: Wyprawa do raju”?;1492.0;liczba;popkultura/tytuły;fakt
+885;Jaka liczba występuje w tytule film „Apollo 13”?;13.0;liczba;popkultura/tytuły;fakt
+886;W którym roku rozpoczęła się wyprawa Magellana dookoła świata?;1519.0;rok;historia;fakt
+887;Ile metrów ma rzut karny w piłce nożnej (odległość punktu karnego od bramki)?;11.0;m;sport/piłka nożna;fakt
+888;Ile litrów to 250 ml?;0.25;l;konwersje/objętość;wyliczone(≈)
+889;Ile tygodni to miesiąc (w przybliżeniu)?;4.0;tyg.;czas;około
+890;Jaka liczba występuje w tytule film „300”?;300.0;liczba;popkultura/tytuły;fakt
+891;Ile kręgów ma kręgosłup człowieka (łącznie, w przybliżeniu)?;33.0;szt.;człowiek;około
+892;Ile metrów ma mila morska?;1852.0;m;jednostki;fakt
+893;Ile ścian ma klasyczna kostka do gry?;6.0;ścian;gry/logika;fakt
+894;W którym roku powstał standard USB 1.0 (około)?;1996.0;rok;historia;około
+895;Ile boków ma pięciokąt?;5.0;boków;ciekawostki/geometria;fakt
+896;Jaka jest maksymalna/przybliżona prędkość wiewiórka?;20.0;km/h;natura/zwierzęta;około
+897;Ile cyfr ma liczba w numerze karty płatniczej (typowo)?;16.0;cyfr;technologia/codzienne;typowo
+898;W którym roku zadebiutowała Nintendo Entertainment System (NES) w Japonii (Famicom)?;1983.0;rok;historia;fakt
+899;Ile możliwych kombinacji ma 6‑punktowy Braille (łącznie z pustą)?;64.0;kombinacji;język/ciekawostki;wyliczone(≈)
+900;Ile lat żyje lew (w przybliżeniu)?;14.0;lat;natura/zwierzęta;około
+901;Ile godzin ma 10 dni?;240.0;h;konwersje/czas;wyliczone(≈)
+902;Ile kilometrów ma wyścig kolarski „etap” (w przybliżeniu)?;180.0;km;sport/kolarstwo;około
+903;Ile dni w roku to dni wolne od pracy (weekendy) – w przybliżeniu?;104.0;dni;czas;wyliczone(≈)
+904;Ile razy powtarza się refren w typowej piosence (w przybliżeniu)?;3.0;razy;muzyka;typowo
+905;Jaka liczba występuje w tytule film „60 sekund”?;60.0;liczba;popkultura/tytuły;fakt
+906;Ile milimetrów to 10 m?;10000.0;mm;konwersje/dystans;wyliczone(≈)
+907;W którym roku nastąpił krach giełdowy rozpoczynający Wielki Kryzys?;1929.0;rok;historia;fakt
+908;Ile godzin ma 8 tygodnie?;1344.0;h;konwersje/czas;wyliczone(≈)
+909;Ile sekund trwa 19 minut?;1140.0;s;konwersje/czas;wyliczone(≈)
+910;Ile znaków ma SMS w UCS‑2 (np. z polskimi znakami) – w przybliżeniu?;70.0;znaków;technologia;typowo
+911;Ile lat żyje zając (w przybliżeniu)?;9.0;lat;natura/zwierzęta;około
+912;Ile pól ma jedna kolumna (file) na szachownicy?;8.0;pól;gry/szachy;fakt
+913;Ile portów ma zakres TCP/UDP (0–65535)?;65536.0;portów;technologia/sieci;fakt
+914;Ile lat żyje lis (w przybliżeniu)?;5.0;lat;natura/zwierzęta;około
+915;Ile sekund trwa 45 minut?;2700.0;s;konwersje/czas;wyliczone(≈)
+916;Ile osób mieszka przeciętnie w gospodarstwie domowym (w przybliżeniu)?;2.5;osób;świat/społeczeństwo;około
+917;Ile wynosi 10% z 1000?;100.0;jedn.;konwersje/procenty;wyliczone(≈)
+918;Ile centymetrów to 50 m?;5000.0;cm;konwersje/dystans;wyliczone(≈)
+919;Ile stopni ma temperatura w biurze latem (w przybliżeniu)?;23.0;°C;codzienne;typowo
+920;Ile metrów ma półmaraton w metrach?;21097.5;m;sport;wyliczone(≈)
+921;Ile metrów ma bieg na 800 m?;800.0;m;sport/lekkoatletyka;fakt
+922;Ile bitów ma skrót SHA‑256?;256.0;bit;technologia/bezpieczeństwo;fakt
+923;Ile wynosi 25% z 300?;75.0;jedn.;konwersje/procenty;wyliczone(≈)
+924;Ile metrów ma bieg na 10 000 m?;10000.0;m;sport/lekkoatletyka;fakt
+925;Ile lat żyje lama (w przybliżeniu)?;20.0;lat;natura/zwierzęta;około
+926;Ile litrów ma typowy czajnik elektryczny?;1.7;l;codzienne;typowo
+927;Ile apostołów miał Jezus w tradycji chrześcijańskiej?;12.0;szt.;kultura/religia;fakt
+928;Ile minut trwa typowa lekcja w szkole?;45.0;min;świat/społeczeństwo;fakt
+929;W którym roku miał premierę film „Avatar” (Camerona)?;2009.0;rok;historia;fakt
+930;Ile linijek ma haiku (klasycznie)?;3.0;linijki;kultura/literatura;fakt
+931;Jaka jest maksymalna/przybliżona prędkość koń?;60.0;km/h;natura/zwierzęta;około
+932;W którym roku rozpoczęto produkcję Forda Model T?;1908.0;rok;historia;fakt
+933;Jaka liczba występuje w tytule film „Pierwszy rycerz”?;1.0;liczba;popkultura/tytuły;fakt
+934;Ile królów ma jedna strona w szachach na starcie?;1.0;szt.;gry/szachy;fakt
+935;Ile dołków gra się w jednej rundzie golfa?;18.0;dołków;sport/golf;fakt
+936;Jaka liczba występuje w tytule film „The Hateful Eight”?;8.0;liczba;popkultura/tytuły;fakt
+937;Jaka liczba występuje w tytule film „13. dzielnica”?;13.0;liczba;popkultura/tytuły;fakt
+938;Ile figur ma komplet szachów (obie strony)?;32.0;szt.;gry;fakt
+939;Ile sekund trwa 9.5 godziny?;34200.0;s;konwersje/czas;wyliczone(≈)
+940;Ile znaków ma heksadecymalny zapis 32‑bit (00000000–FFFFFFFF)?;8.0;znaki;technologia;fakt
+941;Ile ksiąg ma Iliada (w klasycznym podziale)?;24.0;księgi;kultura/literatura;fakt
+942;Ile talerzy ma typowy zestaw obiadowy dla 6 osób (w przybliżeniu)?;18.0;szt.;codzienne/dom;typowo
+943;Ile możliwych sum wyrzucisz na dwóch kostkach (od 2 do 12)?;11.0;sum;gry/logika;wyliczone(≈)
+944;Ile nóg ma krzesło?;4.0;szt.;codzienne/ciekawostki;umownie
+945;Ile odcinków ma typowy sezon anime (tzw. cour)?;12.0;odc.;popkultura/anime;typowo
+946;Ile watów to 230V × 10A (w przybliżeniu)?;2300.0;W;technologia/elektryka;wyliczone(≈)
+947;Ile miliardów ludzi to 8,1 miliarda?;8.1;mld;świat/społeczeństwo;wyliczone(≈)
+948;Ile minut trwa 12 godziny?;720.0;min;konwersje/czas;wyliczone(≈)
+949;Ile lat żyje pies (chart) (w przybliżeniu)?;12.0;lat;natura/zwierzęta;około
+950;Ile sonetów ma klasyczny cykl „Sonety krymskie” (w przybliżeniu)?;18.0;sonetów;kultura/literatura;około
+951;Ile wynosi 25% z 1000?;250.0;jedn.;konwersje/procenty;wyliczone(≈)
+952;Jaka jest maksymalna/przybliżona prędkość bóbr?;10.0;km/h;natura/zwierzęta;około
+953;Ile minut trwa typowe gotowanie wody w czajniku (w przybliżeniu)?;3.0;min;codzienne;typowo
+954;Jaka jest maksymalna/przybliżona prędkość żaba?;13.0;km/h;natura/zwierzęta;około
+955;Ile gramów ma 1 kilogram?;1000.0;g;jednostki;fakt
+956;Jaka liczba występuje w tytule film „54”?;54.0;liczba;popkultura/tytuły;fakt
+957;Ile godzin ma 12 tygodnie?;2016.0;h;konwersje/czas;wyliczone(≈)
+958;Ile państw jest w Ameryce Południowej?;12.0;szt.;geografia;fakt
+959;Ile bitów ma standardowy dźwięk CD‑Audio (na próbkę) w przybliżeniu?;16.0;bit;media/technologia;fakt
+960;Ile dni ma kwartał (w przybliżeniu)?;91.0;dni;czas;około
+961;W którym roku miał premierę film „Interstellar”?;2014.0;rok;historia;fakt
+962;Ile minut trwa 6 godziny?;360.0;min;konwersje/czas;wyliczone(≈)
+963;Ile osób liczy typowa klasa w szkole (w przybliżeniu)?;25.0;osób;świat/społeczeństwo;typowo
+964;W którym roku zakończyła się zimna wojna (symbolicznie, około)?;1991.0;rok;historia;około
+965;Ile wierzchołków ma ikozaedr?;12.0;wierzchołków;ciekawostki/geometria;fakt
+966;W którym roku powstała pierwsza gra „The Legend of Zelda”?;1986.0;rok;historia;fakt
+967;Ile minut trwa typowe śniadanie (w przybliżeniu)?;15.0;min;codzienne;typowo
+968;Ile kanałów ma standardowy dźwięk stereo?;2.0;kanały;media/technologia;fakt
+969;Ile sekund trwa 17 minut?;1020.0;s;konwersje/czas;wyliczone(≈)
+970;Ile państw jest w Ameryce Północnej (w przybliżeniu, zależy od definicji)?;23.0;państw;świat/geografia;około
+971;Ile wierzchołków ma tetraedr?;4.0;szt.;matematyka;fakt
+972;Ile kolorowych bil jest w snookerze (bez czerwonych)?;6.0;szt.;sport/snooker;fakt
+973;Ile kolorów ma typowa kostka Rubika (6 ścian)?;6.0;kolorów;gry/logika;fakt
+974;Ile punktów jest w snookerze za wbicie czarnej bili?;7.0;pkt;sport/snooker;fakt
+975;Ile pól ma jeden rząd (rank) na szachownicy?;8.0;pól;gry/szachy;fakt
+976;Ile razy dziennie przeciętnie sprawdza się telefon (w przybliżeniu)?;80.0;razy;świat/społeczeństwo;około
+977;Jaka jest maksymalna/przybliżona prędkość ważka?;55.0;km/h;natura/zwierzęta;około
+978;Ile punktów ma dartowa tarcza w maksymalnym rzucie (triple 20)?;60.0;pkt;sport;fakt
+979;Ile cyfr ma amerykański kod ZIP (podstawowy)?;5.0;cyfr;codzienne;fakt
+980;Ile lat ważny jest dowód osobisty (typowo, zależy od kraju)?;10.0;lat;codzienne;typowo
+981;Jaka liczba występuje w tytule książka „Siedem lat w Tybecie”?;7.0;liczba;popkultura/tytuły;fakt
+982;Ile metrów ma szerokość bramki piłkarskiej?;7.32;m;sport/piłka nożna;fakt
+983;Jaka liczba występuje w tytule film „40-letni prawiczek”?;40.0;liczba;popkultura/tytuły;fakt
+984;Ile stron ma typowa kartka A4 (licząc przód i tył)?;2.0;strony;codzienne;umownie
+985;Ile rund ma standardowy turniej golfowy (zwykle)?;4.0;rundy;sport/golf;typowo
+986;W którym roku powstał pierwszy film dźwiękowy „Śpiewak jazzbandu” (premiera)?;1927.0;rok;historia;fakt
+987;Ile lat trwa typowe studia doktoranckie (w przybliżeniu)?;4.0;lata;świat/społeczeństwo;typowo
+988;Ile centymetrów to 1 m?;100.0;cm;konwersje/dystans;wyliczone(≈)
+989;Jaka jest maksymalna/przybliżona prędkość krokodyl?;24.0;km/h;natura/zwierzęta;około
+990;Ile wynosi 33.3% z 120?;39.96;jedn.;konwersje/procenty;wyliczone(≈)
+991;Ile znaków zodiaku jest w astrologii zachodniej?;12.0;szt.;kultura/ciekawostki;umownie
+992;Ile dni ma „miesiąc miodowy” w potocznym sensie (w przybliżeniu)?;30.0;dni;świat/społeczeństwo;umownie
+993;Ile minut przed odlotem zaleca się być na lotnisku (krótkie loty, w przybliżeniu)?;120.0;min;podróże;typowo
+994;Ile strun ma banjo (typowo) (w przybliżeniu)?;5.0;szt.;muzyka/ciekawostki;typowo
+995;Ile kolorów da się opisać w palecie 8‑bit (indeksowanej)?;256.0;kolorów;technologia/grafika;fakt
+996;Jaka liczba występuje w tytule film „47 Roninów”?;47.0;liczba;popkultura/tytuły;fakt
+997;W którym roku miał premierę film „Obcy – 8. pasażer Nostromo”?;1979.0;rok;historia;fakt
+998;Ile szklanek wody dziennie „zaleca się” w popularnym micie 8×?;8.0;szkl.;świat/zdrowie;umownie
+999;W którym roku miał premierę film „Matrix”?;1999.0;rok;historia;fakt
+1000;Ile przycisków ma typowy pilot do gier (pad) – w przybliżeniu?;14.0;przycisków;technologia/gry;typowo
+1001;Ile ml ma typowy kubek kawy w domu?;250.0;ml;codzienne;typowo
+1002;W którym roku zakończyła się wojna w Wietnamie?;1975.0;rok;historia;fakt
+1003;Jaka liczba występuje w tytule film „12 prac Asteriksa”?;12.0;liczba;popkultura/tytuły;fakt
+1004;Ile minut ma godzina?;60.0;min;czas;fakt
+1005;Ile wynosi 12.5% z 10?;1.25;jedn.;konwersje/procenty;wyliczone(≈)
+1006;Ile godzin dziennie przesypia noworodek (w przybliżeniu)?;16.0;h;człowiek;typowo
+1007;Ile minut trwa standardowy mecz baseballu (bardzo zależy) – w przybliżeniu?;180.0;min;sport/baseball;około
+1008;W którym roku doszło do wielkiego pożaru Londynu?;1666.0;rok;historia;fakt
+1009;Ile bajtów zajmuje jeden piksel w RGB24?;3.0;B;technologia/grafika;fakt
+1010;Ile krawędzi ma ikozaedr?;30.0;krawędzi;ciekawostki/geometria;fakt
+1011;Ile dni trwa rok roboczy (dni pracujące, w przybliżeniu)?;250.0;dni;świat/społeczeństwo;około
+1012;Ile wynosi 50% z 120?;60.0;jedn.;konwersje/procenty;wyliczone(≈)
+1013;Ile złych grzechów głównych wyróżnia się najczęściej?;7.0;szt.;kultura/religia;umownie
+1014;Jaka liczba występuje w tytule książka „Trzej muszkieterowie”?;3.0;liczba;popkultura/tytuły;fakt
+1015;Ile sekund trwa 16 godziny?;57600.0;s;konwersje/czas;wyliczone(≈)
+1016;Ile sekund trwa 50 minut?;3000.0;s;konwersje/czas;wyliczone(≈)
+1017;Ile pinów ma standardowe złącze USB‑A?;4.0;piny;technologia/hardware;fakt
+1018;Ile wynosi 50% z 200?;100.0;jedn.;konwersje/procenty;wyliczone(≈)
+1019;Ile minut trwa typowe gotowanie makaronu (w przybliżeniu)?;10.0;min;kuchnia;typowo
+1020;Ile lat żyje łoś (w przybliżeniu)?;20.0;lat;natura/zwierzęta;około
+1021;Ilu zawodników gra w drużynie piłkarskiej na boisku?;11.0;osób;sport/piłka nożna;fakt
+1022;Jaka liczba występuje w tytule film „28 tygodni później”?;28.0;liczba;popkultura/tytuły;fakt
+1023;Ile metrów to 0.1 km?;100.0;m;konwersje/dystans;wyliczone(≈)
+1024;W którym roku ukazała się powieść „451° Fahrenheita” Bradbury’ego?;1953.0;rok;historia;fakt
+1025;Ile zawodników jest na boisku w hokeju na lodzie w jednej drużynie (łącznie z bramkarzem) podczas gry?;6.0;osób;sport/hokej;fakt
+1026;Ile sekund trwa 15 minut?;900.0;s;konwersje/czas;wyliczone(≈)
+1027;Ile wynosi 20% z 10?;2.0;jedn.;konwersje/procenty;wyliczone(≈)
+1028;Ile znaków (hex) ma zapis adresu MAC bez separatorów?;12.0;znaków;technologia/sieci;wyliczone(≈)
+1029;Ile wynosi 10% z 200?;20.0;jedn.;konwersje/procenty;wyliczone(≈)
+1030;Ile minut trwa typowy teledysk (w przybliżeniu)?;4.0;min;popkultura/muzyka;typowo
+1031;Ile kombinacji ma 6‑cyfrowy kod (000000–999999)?;1000000.0;kombinacji;technologia/bezpieczeństwo;wyliczone(≈)
+1032;Ile sekund trwa limit na serwis w tenisie (w przybliżeniu, zależy od przepisów)?;25.0;s;sport/tenis;około
+1033;Jaka liczba występuje w tytule książka „100 lat samotności”?;100.0;liczba;popkultura/tytuły;fakt
+1034;Ile państw liczy G20 (formalnie)?;20.0;szt.;świat;umownie
+1035;Ile nut ma pentatonika?;5.0;szt.;muzyka;fakt
+1036;Ile pól ma klasyczna plansza Scrabble (15×15)?;225.0;pól;gry/planszowe;wyliczone(≈)
+1037;Ile sekund trwa 4 godziny?;14400.0;s;konwersje/czas;wyliczone(≈)
+1038;Ile minut trwa typowa odprawa bezpieczeństwa na lotnisku (w przybliżeniu)?;15.0;min;podróże;typowo
+1039;Ile par żeber ma człowiek?;12.0;par;człowiek;fakt
+1040;Ile elementów ma układ okresowy (obecnie nazwane)?;118.0;szt.;nauka;stan(2025)
+1041;Ile państw liczy ONZ?;193.0;szt.;świat;fakt
+1042;Ile minut trwa przeciętny lot samolotem na trasie krajowej (w przybliżeniu)?;60.0;min;podróże;typowo
+1043;Ile kilometrów ma przeciętny maraton rowerowy amatorski (w przybliżeniu)?;100.0;km;sport/kolarstwo;około
+1044;Ile mililitrów to 2 l?;2000.0;ml;konwersje/objętość;wyliczone(≈)
+1045;Ile minut trwa 2 godziny?;120.0;min;konwersje/czas;wyliczone(≈)
+1046;Ile bil jest łącznie na stole snookerowym na początku (15 czerwonych + 6 kolorowych + biała)?;22.0;szt.;sport/snooker;wyliczone(≈)
+1047;W którym roku miał premierę pierwszy film „Toy Story”?;1995.0;rok;historia;fakt
+1048;Ile możliwych wyników ma rzut jedną kostką?;6.0;wyników;gry/logika;fakt
+1049;W którym roku miały miejsce zamachy 11 września w USA?;2001.0;rok;historia;fakt
+1050;Ile liter ma hasło „OK”?;2.0;litery;gry/logika;fakt
+1051;Ile godzin ma 30 dni?;720.0;h;konwersje/czas;wyliczone(≈)
+1052;Jaka liczba występuje w tytule film „9”?;9.0;liczba;popkultura/tytuły;fakt
+1053;Ile kolorów (kier, karo, trefl, pik) ma standardowa talia kart?;4.0;szt.;gry/karty;fakt
+1054;Ile cyfr ma numer kierunkowy kraju w formacie +48 (ile cyfr po plusie)?;2.0;cyfr;codzienne;fakt
+1055;Ile muz jest w mitologii greckiej?;9.0;szt.;kultura/mitologia;fakt
+1056;Ile minut trwa 5 godziny?;300.0;min;konwersje/czas;wyliczone(≈)
+1057;Ile wzorów ma flaga Wielkiej Brytanii (krzyże na Union Jack, w przybliżeniu)?;3.0;krzyże;geografia/symbole;umownie
+1058;Ile klawiszy ma standardowe pianino?;88.0;szt.;muzyka;fakt
+1059;Ile sekund trwa 55 minut?;3300.0;s;konwersje/czas;wyliczone(≈)
+1060;Ile stóp ma jard?;3.0;stopy;jednostki;fakt
+1061;Ile miesięcy ma kwartał?;3.0;mies.;czas/biznes;fakt
+1062;Ile minut trwa standardowy mecz koszykówki NBA (bez przerw)?;48.0;min;sport/koszykówka;fakt
+1063;Ile kół ma samochód Formuły 1?;4.0;kół;sport/motorsport;fakt
+1064;W którym roku powstała Wikipedia?;2001.0;rok;historia;fakt
+1065;Ile pól ma klasyczna plansza Monopoly?;40.0;pól;gry/planszowe;fakt
+1066;Jaka liczba występuje w tytule film „Trzynasty wojownik”?;13.0;liczba;popkultura/tytuły;fakt
+1067;W którym roku odbyła się pierwsza nowożytna olimpiada?;1896.0;rok;historia;fakt
+1068;W którym roku ogłoszono Deklarację Niepodległości USA?;1776.0;rok;historia;fakt
+1069;Jaka liczba występuje w tytule książka „Dwanaście prac Herkulesa”?;12.0;liczba;popkultura/tytuły;fakt
+1070;Ile sekund trwa 10 godziny?;36000.0;s;konwersje/czas;wyliczone(≈)
+1071;Ile minut trwa typowe ładowanie telefonu do 80% (w przybliżeniu)?;45.0;min;technologia/codzienne;typowo
+1072;Ile boków ma siedmiokąt?;7.0;boków;ciekawostki/geometria;fakt
+1073;W którym roku wynaleziono papier w Chinach (tradycyjnie)?;105.0;rok;historia;fakt
+1074;W którym roku zakończyła się rewolucja przemysłowa (pierwsza fala, około)?;1840.0;rok;historia;około
+1075;Ile wynosi 33.3% z 20?;6.66;jedn.;konwersje/procenty;wyliczone(≈)
+1076;Ile sekund trwa 12 minut?;720.0;s;konwersje/czas;wyliczone(≈)
+1077;Ile braci ma tytułowa para w bajce „Jaś i Małgosia”?;2.0;osób;popkultura/bajki;fakt
+1078;Ile dni trwa rok szkolny w Polsce (w przybliżeniu)?;180.0;dni;świat/społeczeństwo;około
+1079;W którym roku miał miejsce lądowanie w Normandii (D-Day)?;1944.0;rok;historia;fakt
+1080;W którym roku doszło do ataku na Pearl Harbor?;1941.0;rok;historia;fakt
+1081;Ile pól ma szachownica?;64.0;pól;gry;fakt
+1082;Ile bajtów ma UUID?;16.0;B;technologia;wyliczone(≈)
+1083;Jaka liczba występuje w tytule film „Se7en”?;7.0;liczba;popkultura/tytuły;fakt
+1084;Ile lat trwa typowa studia licencjackie?;3.0;lata;świat/społeczeństwo;typowo
+1085;Ile sekund trwa 41 minut?;2460.0;s;konwersje/czas;wyliczone(≈)
+1086;Ile minut trwa typowe „daily standup” w Scrum (timebox)?;15.0;min;świat/społeczeństwo;typowo
+1087;Ile sekund trwa 180 minut?;10800.0;s;konwersje/czas;wyliczone(≈)
+1088;Jaka jest maksymalna/przybliżona prędkość wielbłąd?;65.0;km/h;natura/zwierzęta;około
+1089;Ile godzin przestoju rocznie oznacza dostępność 99,9% (w przybliżeniu)?;8.76;h;technologia/SLA;wyliczone(≈)
+1090;Ile strun ma wiolonczela (w przybliżeniu)?;4.0;szt.;muzyka/ciekawostki;typowo
+1091;W którym roku zaprezentowano pierwszy iPhone?;2007.0;rok;historia;fakt
+1092;Ile metrów to 2.4 km?;2400.0;m;konwersje/dystans;wyliczone(≈)
+1093;Ile sekund trwa 6 godziny?;21600.0;s;konwersje/czas;wyliczone(≈)
+1094;Jaka liczba występuje w tytule film „Piąty element”?;5.0;liczba;popkultura/tytuły;fakt
+1095;Ile stron ma moneta?;2.0;strony;gry/logika;fakt
+1096;Ile godzin ma doba w UTC?;24.0;h;czas;fakt
+1097;Ile znaków (hex) ma skrót SHA‑256?;64.0;znaków;technologia/bezpieczeństwo;fakt
+1098;Ile minut trwa typowa podróż windą z parteru na 10 piętro (w przybliżeniu)?;1.0;min;codzienne;typowo
+1099;Jaka liczba występuje w tytule film „88 minut”?;88.0;liczba;popkultura/tytuły;fakt
+1100;Jaka liczba występuje w tytule film „42”?;42.0;liczba;popkultura/tytuły;fakt
+1101;Ile minut trwa typowa reklama w radiu (w przybliżeniu)?;0.5;min;media;typowo
+1102;Jaka jest maksymalna/przybliżona prędkość ślimak?;0.05;km/h;natura/zwierzęta;około
+1103;Ile bloków po 4 znaki ma IPv6 w typowym zapisie z dwukropkami?;8.0;bloków;technologia/sieci;fakt
+1104;Ile osób stoi w typowej kolejce do kasy w supermarkecie (w przybliżeniu)?;4.0;osoby;świat/społeczeństwo;typowo
+1105;Ile godzin ma typowy dzień pracy?;8.0;h;świat/społeczeństwo;typowo
+1106;Ile przycisków ma mysz komputerowa (typowo)?;3.0;szt.;technologia;typowo
+1107;Ile lat żyje wieloryb błękitny (w przybliżeniu)?;90.0;lat;natura/zwierzęta;około
+1108;Ile godzin trwa przeciętny lot z Europy do USA (w przybliżeniu)?;9.0;h;podróże;typowo
+1109;Ile bitów ma UUID (w teorii)?;128.0;bit;technologia;fakt
+1110;Ile cudów świata starożytnego wyróżnia się klasycznie?;7.0;szt.;kultura/historia;umownie
+1111;Ilu zawodników gra w futsalu na boisku (jedna drużyna)?;5.0;osób;sport/futsal;fakt
+1112;W którym roku zadebiutował pierwszy komputer Apple (Apple I)?;1976.0;rok;historia;fakt
+1113;Ile państw jest w Afryce (w przybliżeniu)?;54.0;szt.;geografia;około
+1114;Jaka jest maksymalna/przybliżona prędkość pszczoła?;24.0;km/h;natura/zwierzęta;około
+1115;Ile milimetrów to 1 m?;1000.0;mm;konwersje/dystans;wyliczone(≈)
+1116;Ile nóg ma stołek trójnóg?;3.0;szt.;codzienne/ciekawostki;umownie
+1117;Ile wynosi 50% z 10?;5.0;jedn.;konwersje/procenty;wyliczone(≈)
+1118;Ile kart jest w jednym kolorze (suit) w standardowej talii?;13.0;szt.;gry/karty;fakt
+1119;Ile stron ma paszport (w przybliżeniu, licząc strony na stemple)?;32.0;str.;podróże;typowo
+1120;Jaka liczba występuje w tytule serial „7 życzeń”?;7.0;liczba;popkultura/tytuły;fakt
+1121;Ile razy dziennie przeciętnie myje się zęby (zalecenie)?;2.0;razy;świat/zdrowie;typowo
+1122;W którym roku miał premierę film „Ojciec chrzestny”?;1972.0;rok;historia;fakt
+1123;W którym roku rozpoczęła się wojna secesyjna w USA?;1861.0;rok;historia;fakt
+1124;W którym roku rozpoczęła się pandemia COVID-19 (globalnie, 1. przypadki 2019)?;2019.0;rok;historia;fakt
+1125;Jaka liczba występuje w tytule film „8 kobiet”?;8.0;liczba;popkultura/tytuły;fakt
+1126;Ile minut trwa typowa wizyta u dentysty kontrolna (w przybliżeniu)?;20.0;min;świat/zdrowie;typowo
+1127;Ile procent to jedna setna (ile procent to 1/100)?;1.0;%;matematyka;fakt
+1128;Jaka liczba występuje w tytule film „3000 mil do Graceland”?;3000.0;liczba;popkultura/tytuły;fakt
+1129;Ile sekund trwa 33 minut?;1980.0;s;konwersje/czas;wyliczone(≈)
+1130;Ile bitów ma słowo w AES‑256 (klucz)?;256.0;bit;technologia/bezpieczeństwo;fakt
+1131;Ile bitów ma słowo w AES‑128 (klucz)?;128.0;bit;technologia/bezpieczeństwo;fakt
+1132;Ile klawiszy funkcyjnych jest na klawiaturze (F1–F12)?;12.0;szt.;technologia;fakt
+1133;W którym roku powstał pierwszy reaktor jądrowy (Chicago Pile-1)?;1942.0;rok;historia;fakt
+1134;Ile bitów ma liczba w standardowym IPv4?;32.0;bit;technologia/sieci;fakt
+1135;Ile minut trwa typowa wizyta u lekarza rodzinnego (w przybliżeniu)?;10.0;min;świat/zdrowie;typowo
+1136;Ile kanałów ma telewizja naziemna w podstawie (w przybliżeniu)?;20.0;kanałów;media;typowo
+1137;Ile punktów jest za wbicie czerwonej bili w snookerze?;1.0;pkt;sport/snooker;fakt
+1138;Ile wynosi 20% z 1000?;200.0;jedn.;konwersje/procenty;wyliczone(≈)
+1139;Ile lat żyje niedźwiedź brunatny (w przybliżeniu)?;25.0;lat;natura/zwierzęta;około
+1140;Ilu zawodników (w polu) jest na lodzie w hokeju w jednej drużynie podczas gry (bez bramkarza)?;5.0;osób;sport/hokej;fakt
+1141;Ile osób mieści typowy samolot wąskokadłubowy (np. A320, w przybliżeniu)?;180.0;osób;podróże;typowo
+1142;W którym roku powstał pierwszy mikrofala (kuchenka mikrofalowa, około)?;1946.0;rok;historia;około
+1143;Ile boków ma ośmiokąt STOP na znaku drogowym?;8.0;boków;codzienne;fakt
+1144;W którym roku miał premierę film „Władca Pierścieni: Drużyna Pierścienia”?;2001.0;rok;historia;fakt
+1145;Ile pionków ma strona w szachach?;8.0;szt.;gry;fakt
+1146;Ile minut trwa typowy obiad (w przybliżeniu)?;30.0;min;codzienne;typowo
+1147;Ile punktów trzeba zdobyć w tie-breaku (minimum)?;7.0;pkt;sport/tenis;fakt
+1148;Ile razy trzeba „podwoić”, żeby z 1 dojść do 1024?;10.0;razy;gry/logika;fakt
+1149;Ile nut jest w skali chromatycznej?;12.0;szt.;muzyka;fakt
+1150;Ile wynosi 90% z 50?;45.0;jedn.;konwersje/procenty;wyliczone(≈)
+1151;Ile państw należy do strefy euro (w przybliżeniu)?;20.0;państw;świat/gospodarka;stan(2025)
+1152;Jaka liczba występuje w tytule film „2012”?;2012.0;liczba;popkultura/tytuły;fakt
+1153;Ile minut ma jedna kwarta w NFL (czas gry)?;15.0;min;sport/futbol amerykański;fakt
+1154;Jaka liczba występuje w tytule książka „Dwanaście krzeseł”?;12.0;liczba;popkultura/tytuły;fakt
+1155;Ile pór roku wyróżnia się zwykle w strefie umiarkowanej?;4.0;szt.;czas/natura;umownie
+1156;Ile krasnoludków pomaga Królewnie Śnieżce w bajce?;7.0;szt.;popkultura/bajki;fakt
+1157;Ile sekund trwa typowy mem w formie wideo (w przybliżeniu)?;10.0;s;popkultura/internet;typowo
+1158;Ile pierścieni olimpijskich jest w symbolu olimpijskim?;5.0;szt.;kultura/symbole;fakt
+1159;Ilu zawodników gra na boisku w piłce ręcznej (jedna drużyna)?;7.0;osób;sport/piłka ręczna;fakt
+1160;Ile cylindrów ma typowy silnik rzędowy 4?;4.0;szt.;technologia/motoryzacja;fakt
+1161;Ile wynosi 80% z 300?;240.0;jedn.;konwersje/procenty;wyliczone(≈)
+1162;Ile strun ma mandolina (w przybliżeniu)?;8.0;szt.;muzyka/ciekawostki;typowo
+1163;W którym roku odbył się pierwszy Super Bowl?;1967.0;rok;historia;fakt
+1164;W którym roku powstał serwis Spotify (start usługi, około)?;2008.0;rok;historia;około
+1165;Ile klatek na sekundę jest w typowym materiale NTSC (w przybliżeniu)?;30.0;fps;media/technologia;typowo
+1166;Ile godzin ma 7 dni?;168.0;h;konwersje/czas;wyliczone(≈)
+1167;Jaka jest maksymalna/przybliżona prędkość orka?;56.0;km/h;natura/zwierzęta;około
+1168;Ile godzin trwa przeciętny lot z Europy do Azji Wschodniej (w przybliżeniu)?;11.0;h;podróże;typowo
+1169;W którym roku podpisano Powszechną Deklarację Praw Człowieka?;1948.0;rok;historia;fakt
+1170;W którym roku miała miejsce katastrofa w Czarnobylu?;1986.0;rok;historia;fakt
+1171;Ile dni ma rok (w przybliżeniu)?;365.0;dni;czas;fakt
+1172;Ile milimetrów to 20 m?;20000.0;mm;konwersje/dystans;wyliczone(≈)
+1173;Jaka liczba występuje w tytule film „Trzynaście duchów”?;13.0;liczba;popkultura/tytuły;fakt
+1174;W którym roku rozpoczęła się zimna wojna (w przybliżeniu)?;1947.0;rok;historia;około
+1175;Ile centymetrów to 5 m?;500.0;cm;konwersje/dystans;wyliczone(≈)
+1176;Ile lat żyje antylopa (w przybliżeniu)?;15.0;lat;natura/zwierzęta;około
+1177;Ile bitów ma bajt?;8.0;bit;technologia;fakt
+1178;Ile klatek na sekundę ma typowa animacja w grach (w przybliżeniu)?;60.0;fps;popkultura/gry;typowo
+1179;Ile wynosi 80% z 10?;8.0;jedn.;konwersje/procenty;wyliczone(≈)
+1180;Ile warstw ma model OSI?;7.0;szt.;technologia/sieci;fakt
+1181;Ile wynosi 5% z 80?;4.0;jedn.;konwersje/procenty;wyliczone(≈)
+1182;Ile lat żyje delfin (w przybliżeniu)?;25.0;lat;natura/zwierzęta;około
+1183;Ile gramów to 0.2 kg?;200.0;g;konwersje/masa;wyliczone(≈)
+1184;Ile godzin ma 6 tygodnie?;1008.0;h;konwersje/czas;wyliczone(≈)
+1185;W którym roku rozpoczęła się wojna w Wietnamie (eskalacja USA, około)?;1965.0;rok;historia;około
+1186;Ile małych kwadratów 3×3 ma sudoku 9×9?;9.0;kwadratów;gry/logika;fakt
+1187;Ile hobbitów towarzyszyło Drużynie Pierścienia?;4.0;osób;popkultura/fantasy;fakt
+1188;Ile lat żyje bóbr (w przybliżeniu)?;10.0;lat;natura/zwierzęta;około
+1189;Ile to jest par 72 (typowa suma) – ile uderzeń „par” na 18 dołkach (w przybliżeniu)?;72.0;uderzeń;sport/golf;typowo
+1190;Ile gości ma typowe duże wesele (w przybliżeniu)?;100.0;osób;świat/społeczeństwo;typowo
+1191;Ile palców ma człowiek u stóp?;5.0;szt.;człowiek;fakt
+1192;W którym roku wynaleziono penicylinę (odkrycie Fleminga)?;1928.0;rok;historia;fakt
+1193;Ile lat żyje gołąb (w przybliżeniu)?;6.0;lat;natura/zwierzęta;około
+1194;Ile sekund trwa godzina?;3600.0;s;czas;fakt
+1195;Ile krajów jest na świecie (w przybliżeniu)?;195.0;krajów;świat/geografia;około
+1196;W którym roku miał premierę film „Szczęki”?;1975.0;rok;historia;fakt
+1197;Ile lat ma wiek (stulecie)?;100.0;lat;czas;fakt
+1198;Ile prac (zadań) ma Herakles/Herkules?;12.0;szt.;kultura/mitologia;fakt
+1199;Ile państw tworzy Skandynawię (w ścisłym rozumieniu)?;3.0;państwa;geografia;umownie
+1200;Ile lat trwa „wojna stuletnia” z nazwy?;100.0;lat;kultura/historia;umownie
+1201;Ile minut ma półtorej godziny?;90.0;min;czas/ciekawostki;wyliczone(≈)
+1202;Ile metrów ma bieg na 100 m?;100.0;m;sport/lekkoatletyka;fakt
+1203;Ile łap ma kot?;4.0;szt.;natura/zwierzęta;fakt
+1204;W którym roku miała miejsce katastrofa promu Challenger?;1986.0;rok;historia;fakt
+1205;Ile wynosi 90% z 500?;450.0;jedn.;konwersje/procenty;wyliczone(≈)
+1206;Ile aktów ma typowa sztuka teatralna (w przybliżeniu)?;3.0;akty;kultura/teatr;typowo
+1207;Ile kanałów ma typowe Wi‑Fi 2.4 GHz (liczba kanałów w standardzie, w przybliżeniu)?;13.0;kanałów;technologia/sieci;stan(2025)
+1208;Ile litrów ma typowa butelka szampana?;0.75;l;kuchnia/napoje;typowo
+1209;Ile minut trwa typowy odcinek serialu komediowego (bez reklam, w przybliżeniu)?;22.0;min;popkultura/seriale;typowo
+1210;Ile lat żyje jeż (w przybliżeniu)?;7.0;lat;natura/zwierzęta;około
+1211;Ile cyfr ma system szesnastkowy (ile symboli)?;16.0;szt.;technologia;fakt
+1212;Ile razy dziennie przeciętnie je się posiłki (w przybliżeniu)?;3.0;razy;codzienne;typowo
+1213;W którym roku zrzucono bomby atomowe na Hiroszimę i Nagasaki?;1945.0;rok;historia;fakt
+1214;Ile nocy jest w opowieści „Tysiąc i jedna noc”?;1001.0;nocy;popkultura/tytuły;fakt
+1215;Ile wynosi 25% z 500?;125.0;jedn.;konwersje/procenty;wyliczone(≈)
+1216;Jaka liczba występuje w tytule film „Ósma mila”?;8.0;liczba;popkultura/tytuły;fakt
+1217;Ile płuc ma człowiek?;2.0;szt.;człowiek;fakt
+1218;Ile minut trwa typowe słuchowisko/podcast (odcinek, w przybliżeniu)?;40.0;min;popkultura/podcasty;typowo
+1219;Ile wynosi 66.7% z 120?;80.04;jedn.;konwersje/procenty;wyliczone(≈)
+1220;Ile minut trwa 13 godziny?;780.0;min;konwersje/czas;wyliczone(≈)
+1221;Ile lat żyje koliber (w przybliżeniu)?;5.0;lat;natura/zwierzęta;około
+1222;Ile sekund trwa 1.5 godziny?;5400.0;s;konwersje/czas;wyliczone(≈)
+1223;Ile kilogramów to 500 g?;0.5;kg;konwersje/masa;wyliczone(≈)
+1224;Ile bitów ma standardowy kolor w RGBA8888?;32.0;bit;technologia/grafika;fakt
+1225;Ile kolorów ma flaga USA?;3.0;szt.;geografia/symbole;fakt
+1226;Jaka jest maksymalna/przybliżona prędkość komar?;2.0;km/h;natura/zwierzęta;około
+1227;Ile dni ma standardowy urlop wypoczynkowy w wielu krajach (w przybliżeniu)?;20.0;dni;świat/społeczeństwo;około
+1228;Ile ewangelii jest w Nowym Testamencie?;4.0;szt.;kultura/religia;fakt
+1229;Ile sezonów ma typowy serial, który doczekał się syndykacji (w przybliżeniu)?;7.0;sezonów;popkultura/seriale;typowo
+1230;Ile minut trwa 7.5 godziny?;450.0;min;konwersje/czas;wyliczone(≈)
+1231;Ile minut trwa typowe przemówienie na weselu (w przybliżeniu)?;5.0;min;świat/społeczeństwo;typowo
+1232;Ile minut trwa typowa sesja grania w grę planszową (w przybliżeniu)?;60.0;min;popkultura/gry;typowo
+1233;Ile wynosi 25% z 120?;30.0;jedn.;konwersje/procenty;wyliczone(≈)
+1234;Ile części ma saga Skywalkerów (epizody I–IX)?;9.0;szt.;popkultura/film;fakt
+1235;Ile wynosi 5% z 20?;1.0;jedn.;konwersje/procenty;wyliczone(≈)
+1236;W którym roku wydano pierwszą konsolę Atari 2600?;1977.0;rok;historia;fakt
+1237;Jaka jest maksymalna/przybliżona prędkość tuńczyk?;75.0;km/h;natura/zwierzęta;około
+1238;Ile metrów ma długość typowego przejścia dla pieszych (w przybliżeniu)?;8.0;m;miasto;typowo
+1239;Ile dni trwa tydzień roboczy (pon–pt)?;5.0;dni;codzienne/praca;umownie
+1240;Ile bajtów ma słowo 64‑bit?;8.0;B;technologia;fakt
+1241;Ile gońców ma jedna strona w szachach na starcie?;2.0;szt.;gry/szachy;fakt
+1242;Ile litrów to 200 ml?;0.2;l;konwersje/objętość;wyliczone(≈)
+1243;Ile sekund trwa 7.5 godziny?;27000.0;s;konwersje/czas;wyliczone(≈)
+1244;Jaka liczba występuje w tytule serial „24”?;24.0;liczba;popkultura/tytuły;fakt
+1245;Ile metrow ma maksymalna długość kabla USB 2.0 bez aktywnego przedłużania (w przybliżeniu)?;5.0;m;technologia/hardware;typowo
+1246;Ile godzin ma doba?;24.0;h;czas;fakt
+1247;Ile minut trwa standardowy mecz hokeja (czas gry, bez przerw)?;60.0;min;sport/hokej;fakt
+1248;Ile stron ma typowy regulamin aplikacji (w przybliżeniu)?;20.0;str.;świat/społeczeństwo;typowo
+1249;Ile pytań pada w typowej ankiecie internetowej (w przybliżeniu)?;10.0;pytań;świat/społeczeństwo;typowo
+1250;Ile kół ma samochód osobowy?;4.0;szt.;codzienne/ciekawostki;umownie
+1251;W którym roku zadebiutował Android?;2008.0;rok;historia;fakt
+1252;Ile boków ma prostokąt?;4.0;boków;ciekawostki/geometria;fakt
+1253;Ile minut przestoju rocznie oznacza dostępność 99,99% (w przybliżeniu)?;52.56;min;technologia/SLA;wyliczone(≈)
+1254;Ile dni trwa weekend?;2.0;dni;codzienne;umownie
+1255;Ile wynosi 33.3% z 100?;33.3;jedn.;konwersje/procenty;wyliczone(≈)
+1256;W którym roku ukazała się powieść „1984” Orwella?;1949.0;rok;historia;fakt
+1257;W którym roku upadł Związek Radziecki (rozpad ZSRR)?;1991.0;rok;historia;fakt
+1258;Ile minut trwa 8 godziny?;480.0;min;konwersje/czas;wyliczone(≈)
+1259;Ile osób mieści typowa winda w biurowcu (w przybliżeniu)?;10.0;osób;świat/społeczeństwo;typowo
+1260;Ilu zawodników gra na boisku w siatkówce (jedna drużyna)?;6.0;osób;sport/siatkówka;fakt
+1261;Ile sekund trwa 23 minut?;1380.0;s;konwersje/czas;wyliczone(≈)
+1262;Ile wierzchołków ma dodekaedr?;20.0;wierzchołków;ciekawostki/geometria;fakt
+1263;W którym roku zadebiutował iPad?;2010.0;rok;historia;fakt
+1264;Jaka liczba występuje w tytule książka „Trzech panów w łódce (nie licząc psa)”?;3.0;liczba;popkultura/tytuły;fakt
+1265;Ile dni ma 3 tygodnie?;21.0;dni;konwersje/czas;wyliczone(≈)
+1266;Jaka liczba występuje w tytule film „12”?;12.0;liczba;popkultura/tytuły;fakt
+1267;Ile godzin dziennie przesypia typowy nastolatek (w przybliżeniu)?;9.0;h;człowiek;typowo
+1268;Ile kolorów można zapisać w 24-bitowym RGB?;16777216.0;kolorów;technologia/grafika;wyliczone(≈)
+1269;Jaka jest maksymalna/przybliżona prędkość słoń afrykański?;40.0;km/h;natura/zwierzęta;około
+1270;Ile lat żyje nosorożec (w przybliżeniu)?;40.0;lat;natura/zwierzęta;około
+1271;W którym roku miała miejsce bitwa pod Waterloo?;1815.0;rok;historia;fakt
+1272;Ile zmysłów wymienia się klasycznie u człowieka?;5.0;szt.;człowiek;umownie
+1273;Ile zapalonych świec jest na torcie 18-latka?;18.0;szt.;kultura/codzienne;umownie
+1274;Ile mililitrów ma łyżeczka (umownie)?;5.0;ml;kuchnia/miary;umownie
+1275;Jaka jest maksymalna/przybliżona prędkość koliber?;50.0;km/h;natura/zwierzęta;około
+1276;Ile dni ustawowo ma tydzień pracy w standardzie (pon–pt)?;5.0;dni;świat/społeczeństwo;umownie
+1277;Ile minut trwa typowa przerwa obiadowa w szkole (w przybliżeniu)?;20.0;min;świat/społeczeństwo;typowo
+1278;Ile bajtów ma gibibajt (GiB)?;1073741824.0;B;technologia;fakt
+1279;Ile punktów zdobywa się za rzut za 3 w koszykówce?;3.0;pkt;sport/koszykówka;fakt
+1280;Ile pierścieni (Wielkich Pierścieni) jest w legendarium Tolkiena?;20.0;szt.;popkultura/fantasy;fakt
+1281;W którym roku odbył się pierwszy lot człowieka balonem (około)?;1783.0;rok;historia;około
+1282;Ile liczb jest w popularnym lotto (6 z 49) — ile kul łącznie??;49.0;liczb;gry;umownie
+1283;Jaka liczba występuje w tytule film „127”?;127.0;liczba;popkultura/tytuły;fakt
+1284;Ile łap ma owad?;6.0;szt.;natura/zwierzęta;fakt
+1285;Ile metrów ma wysokość siatki w tenisie (na środku)?;0.914;m;sport/tenis;fakt
+1286;Ile punktów zdobywa się za asa serwisowego w tenisie?;1.0;pkt;sport/tenis;umownie
+1287;W którym roku człowiek po raz pierwszy poleciał w kosmos (Gagarin)?;1961.0;rok;historia;fakt
+1288;Ile pierścieni obiecuje tytuł „Władca Pierścieni” (jeden)?;1.0;szt.;popkultura/fantasy;żart(umownie)
+1289;Jaka liczba występuje w tytule film „22 Jump Street”?;22.0;liczba;popkultura/tytuły;fakt
+1290;W którym roku rozpoczęła się budowa Kanału Panamskiego (amerykańska faza, około)?;1904.0;rok;historia;około
+1291;W którym roku powstała pierwsza linia metra (Londyn)?;1863.0;rok;historia;fakt
+1292;Ile kół ma rower?;2.0;szt.;codzienne/ciekawostki;umownie
+1293;Ile mililitrów ma 1 litr?;1000.0;ml;jednostki;fakt
+1294;Ile lat żyje wiewiórka (w przybliżeniu)?;6.0;lat;natura/zwierzęta;około
+1295;Ile lat żyje ślimak (w przybliżeniu)?;3.0;lat;natura/zwierzęta;około
+1296;Ile sekund ma miesiąc 30‑dniowy?;2592000.0;s;czas/ciekawostki;wyliczone(≈)
+1297;Ile stron ma typowa powieść kryminalna (w przybliżeniu)?;350.0;str.;kultura/książki;typowo
+1298;Ile sektorów ma tarcza do darta?;20.0;sektorów;sport/dart;fakt
+1299;W którym roku ukazał się „Hobbit” (wydanie, około)?;1937.0;rok;historia;około
+1300;W którym roku miał premierę film „Blade Runner”?;1982.0;rok;historia;fakt
+1301;Ile minut trwa boarding samolotu (w przybliżeniu)?;30.0;min;podróże;typowo
+1302;Ile sekund trwa typowy fragment „intro” w serialu (w przybliżeniu)?;30.0;s;popkultura/seriale;typowo
+1303;Jaka jest maksymalna/przybliżona prędkość delfin?;35.0;km/h;natura/zwierzęta;około
+1304;Ile minut trwa jedna kwarta w NBA?;12.0;min;sport/koszykówka;fakt
+1305;Ile sekund trwa 120 minut?;7200.0;s;konwersje/czas;wyliczone(≈)
+1306;Ile gramów to 5 kg?;5000.0;g;konwersje/masa;wyliczone(≈)
+1307;Jaka liczba występuje w tytule film „9½ tygodnia”?;9.5;liczba;popkultura/tytuły;fakt
+1308;Ile oceanów zwykle wyróżnia się na Ziemi?;5.0;szt.;geografia;umownie
+1309;Ile miesięcy ma rok podatkowy (typowo)?;12.0;mies.;świat/społeczeństwo;typowo
+1310;Ile bajtów zajmuje jedno zdjęcie 1920×1080 w RGBA (bez kompresji)?;8294400.0;B;technologia/grafika;wyliczone(≈)
+1311;Ile sekund trwa 25 minut?;1500.0;s;konwersje/czas;wyliczone(≈)
+1312;W którym roku miała miejsce rewolucja przemysłowa (początek, około)?;1760.0;rok;historia;około
+1313;W którym roku otwarto wieżę Eiffla?;1889.0;rok;historia;fakt
+1314;Jaka liczba występuje w tytule film „1408”?;1408.0;liczba;popkultura/tytuły;fakt
+1315;Ile sekund trwa 10 minut?;600.0;s;konwersje/czas;wyliczone(≈)
+1316;Ile cyfr ma liczba 1 000 000?;7.0;cyfr;matematyka;fakt
+1317;Ile pierścieni ma legenda o „Trzech Pierścieniach” w bajkach (zwykle)?;3.0;szt.;popkultura/bajki;umownie
+1318;Ile sekund trwa 2 godziny?;7200.0;s;konwersje/czas;wyliczone(≈)
+1319;Ile części ma typowa „trylogia” książkowa?;3.0;szt.;popkultura/książki;umownie
+1320;W którym roku rozpoczęła się Igrzyska Olimpijskie w Atenach (pierwsze nowożytne)?;1896.0;rok;historia;fakt
+1321;Ile wynosi 66.7% z 20?;13.34;jedn.;konwersje/procenty;wyliczone(≈)
+1322;Ile dni ma 8 tygodnie?;56.0;dni;konwersje/czas;wyliczone(≈)
+1323;Ile pór dnia (rano, południe, popołudnie, wieczór, noc) wyróżnia się potocznie?;5.0;szt.;kultura/codzienne;umownie
+1324;Ile małych świnek występuje w bajce o trzech świnkach?;3.0;szt.;popkultura/bajki;fakt
+1325;Ile lat żyje koń (w przybliżeniu)?;25.0;lat;natura/zwierzęta;około
+1326;Ile liter ma alfabet hebrajski (w przybliżeniu)?;22.0;szt.;język;fakt
+1327;Ile pól ma klasyczne sudoku 9×9?;81.0;pól;gry/logika;wyliczone(≈)
+1328;Ile lat trwa typowa studia magisterskie (po licencjacie)?;2.0;lata;świat/społeczeństwo;typowo
+1329;Ile sekund trwa 5 godziny?;18000.0;s;konwersje/czas;wyliczone(≈)
+1330;Ile wynosi 50% z 100?;50.0;jedn.;konwersje/procenty;wyliczone(≈)
+1331;Ile minut trwa standardowy mecz hokeja na trawie (w przybliżeniu)?;60.0;min;sport;około
+1332;Jaka liczba występuje w tytule film „96 godzin”?;96.0;liczba;popkultura/tytuły;fakt
+1333;Jaka liczba występuje w tytule film „24”?;24.0;liczba;popkultura/tytuły;fakt
+1334;Ile minut ma 5 dni?;7200.0;min;konwersje/czas;wyliczone(≈)
+1335;Ile wynosi 80% z 120?;96.0;jedn.;konwersje/procenty;wyliczone(≈)
+1336;Ile lat żyje tuńczyk (w przybliżeniu)?;15.0;lat;natura/zwierzęta;około
+1337;Jaka liczba występuje w tytule film „102 dalmatyńczyki”?;102.0;liczba;popkultura/tytuły;fakt
+1338;Jaka liczba występuje w tytule film „Fahrenheit 451”?;451.0;liczba;popkultura/tytuły;fakt
+1339;Ile lat żyje kameleon (w przybliżeniu)?;5.0;lat;natura/zwierzęta;około
+1340;Ile sekund trwa 2.5 godziny?;9000.0;s;konwersje/czas;wyliczone(≈)
+1341;Ile miejsc ma standardowy zestaw do gry w bingo (75 lub 90) — ile w wersji 90??;90.0;liczb;gry;umownie
+1342;Ile bajtów ma kilobajt w systemie dziesiętnym (kB)?;1000.0;B;technologia;umownie
+1343;W którym roku wystartował Netflix jako wypożyczalnia DVD (około)?;1997.0;rok;historia;około
+1344;Ile mililitrów to 5 l?;5000.0;ml;konwersje/objętość;wyliczone(≈)
+1345;W którym roku miał premierę pierwszy film „Gwiezdne wojny” (A New Hope)?;1977.0;rok;historia;fakt
+1346;Jaka jest maksymalna/przybliżona prędkość jeż?;10.0;km/h;natura/zwierzęta;około
+1347;Ile metrów to 1 km?;1000.0;m;konwersje/dystans;wyliczone(≈)
+1348;Ile krajów tworzy Beneluks?;3.0;szt.;geografia;fakt
+1349;W którym roku zadebiutował pierwszy Macintosh?;1984.0;rok;historia;fakt
+1350;Jaka jest maksymalna/przybliżona prędkość pies (chart)?;70.0;km/h;natura/zwierzęta;około
+1351;W którym roku wybuchła I wojna światowa?;1914.0;rok;historia;fakt
+1352;Ile miesięcy ma ciąża człowieka (w przybliżeniu)?;9.0;mies.;człowiek;około
+1353;Ile ścian ma oktaedr?;8.0;ścian;ciekawostki/geometria;fakt
+1354;Ile cyfr ma system ósemkowy (ile symboli)?;8.0;szt.;technologia;fakt
+1355;Ile wynosi 20% z 120?;24.0;jedn.;konwersje/procenty;wyliczone(≈)
+1356;Ile wynosi 12.5% z 100?;12.5;jedn.;konwersje/procenty;wyliczone(≈)
+1357;Jaka liczba występuje w tytule film „Trzeci człowiek”?;3.0;liczba;popkultura/tytuły;fakt
+1358;Ile mililitrów ma „szklanka” w tym micie (w przybliżeniu)?;250.0;ml;świat/zdrowie;umownie
+1359;W którym roku powstał pierwszy laser (działający)?;1960.0;rok;historia;fakt
+1360;Jaka liczba występuje w tytule film „13 duchów”?;13.0;liczba;popkultura/tytuły;fakt
+1361;Ile metrów to 1.2 km?;1200.0;m;konwersje/dystans;wyliczone(≈)
+1362;Jaka jest maksymalna/przybliżona prędkość mysz?;13.0;km/h;natura/zwierzęta;około
+1363;Ile wynosi 5% z 200?;10.0;jedn.;konwersje/procenty;wyliczone(≈)
+1364;Ile filmów obejmuje główna seria filmów „Harry Potter”?;8.0;szt.;popkultura/film;fakt
+1365;W którym roku powstał system Git (pierwsze wydanie)?;2005.0;rok;historia;fakt
+1366;W którym roku miał premierę pierwszy film „Harry Potter”?;2001.0;rok;historia;fakt
+1367;Ile setów gra się w meczu siatkówki maksymalnie?;5.0;setów;sport/siatkówka;fakt
+1368;Jaka liczba występuje w tytule film „16 przecznic”?;16.0;liczba;popkultura/tytuły;fakt
+1369;Ile milimetrów to 5 m?;5000.0;mm;konwersje/dystans;wyliczone(≈)
+1370;Ile minut trwa typowy blok reklamowy w TV (w przybliżeniu)?;5.0;min;media;typowo
+1371;W którym roku wprowadzono euro jako walutę (w obiegu gotówkowym)?;2002.0;rok;historia;fakt
+1372;Ile rozdziałów ma typowa powieść (w przybliżeniu)?;30.0;rozdz.;kultura/książki;typowo
+1373;Ile minut ma 1 godzina?;60.0;min;technologia/czas;fakt
+1374;Ile minut trwa standardowa przerwa na reklamy w godzinie TV (w przybliżeniu)?;12.0;min;media;typowo
+1375;Ilu zawodników jest na boisku w baseballu (jedna drużyna)?;9.0;osób;sport/baseball;fakt
+1376;Jaka jest maksymalna/przybliżona prędkość strus?;70.0;km/h;natura/zwierzęta;około
+1377;Ile minut trwa 2.5 godziny?;150.0;min;konwersje/czas;wyliczone(≈)
+1378;Ile metrów to 21.0975 km?;21097.5;m;konwersje/dystans;wyliczone(≈)
+1379;W którym roku wynaleziono druk (Gutenberg, około)?;1450.0;rok;historia;około
+1380;W którym roku miał premierę film „Gladiator”?;2000.0;rok;historia;fakt
+1381;Ile pipsów (oczek) jest łącznie na wszystkich 6 ściankach kostki?;21.0;oczek;gry/logika;fakt
+1382;Ile minut ma 7 dni?;10080.0;min;konwersje/czas;wyliczone(≈)
+1383;Ile wynosi 10% z 10?;1.0;jedn.;konwersje/procenty;wyliczone(≈)
+1384;Jaka liczba występuje w tytule film „21 Jump Street”?;21.0;liczba;popkultura/tytuły;fakt
+1385;W którym roku ukazała się powieść „Drakula” Brama Stokera?;1897.0;rok;historia;fakt
+1386;Ile litrów to 1000 ml?;1.0;l;konwersje/objętość;wyliczone(≈)
+1387;Ile języków urzędowych ma Unia Europejska (w przybliżeniu)?;24.0;szt.;świat/język;stan(2025)
+1388;Jaka liczba występuje w tytule film „13 dni”?;13.0;liczba;popkultura/tytuły;fakt
+1389;Ile znaków (hex) ma skrót MD5?;32.0;znaków;technologia/bezpieczeństwo;fakt
+1390;Ile bajtów ma 64‑bitowa liczba całkowita (int64)?;8.0;B;technologia;wyliczone(≈)
+1391;Ile metrów to 1.6 km?;1600.0;m;konwersje/dystans;wyliczone(≈)
+1392;Jaka jest maksymalna/przybliżona prędkość rekin biały?;56.0;km/h;natura/zwierzęta;około
+1393;W którym roku ukazała się gra „The Witcher 3”?;2015.0;rok;historia;fakt
+1394;Ile procent filmu zajmują napisy końcowe (w przybliżeniu)?;5.0;%;popkultura/film;około
+1395;Ile strun ma altówka (w przybliżeniu)?;4.0;szt.;muzyka/ciekawostki;typowo
+1396;Ile znaków ma alfabet Morse’a (litery A–Z)?;26.0;szt.;technologia/język;fakt
+1397;Ile oczek ma suma ścian standardowej kostki do gry?;21.0;oczka;gry;fakt
+1398;W którym roku zbudowano Stonehenge (główna faza, około)?;2500.0;rok p.n.e. (≈);historia;około
+1399;Ile kierunków ma wiatr na klasycznej róży wiatrów (8 głównych)?;8.0;szt.;geografia;umownie
+1400;Ile figur dworskich (walet, dama, król) jest w jednym kolorze kart?;3.0;szt.;gry/karty;fakt
+1401;Ile wynosi 66.7% z 100?;66.7;jedn.;konwersje/procenty;wyliczone(≈)
+1402;Ile minut ma 1 dni?;1440.0;min;konwersje/czas;wyliczone(≈)
+1403;Ile milimetrów to 400 m?;400000.0;mm;konwersje/dystans;wyliczone(≈)
+1404;Ile boków ma ośmiokąt?;8.0;boków;ciekawostki/geometria;fakt
+1405;Ile metrów ma mila (w przybliżeniu)?;1609.34;m;jednostki;fakt
+1406;Ile lat ważny jest paszport (typowo dla dorosłych, zależy od kraju)?;10.0;lat;podróże;typowo
+1407;Ile wynosi 80% z 1000?;800.0;jedn.;konwersje/procenty;wyliczone(≈)
+1408;Ile metrów to 0.5 km?;500.0;m;konwersje/dystans;wyliczone(≈)
+1409;Jaka liczba występuje w tytule książka „Trzynaście bajek z królestwa Lailonii”?;13.0;liczba;popkultura/tytuły;fakt
+1410;Ile bitów na sekundę ma 1 Mb/s (megabit na sekundę)?;1000000.0;bit/s;technologia/sieci;umownie
+1411;W którym roku uruchomiono YouTube?;2005.0;rok;historia;fakt
+1412;Ile sekund trwa 75 minut?;4500.0;s;konwersje/czas;wyliczone(≈)
+1413;Ile osób w typowej wideokonferencji firmowej (w przybliżeniu)?;6.0;osób;technologia/praca;typowo
+1414;Ile kanałów ma standardowy dźwięk 7.1?;8.0;kanałów;media/technologia;wyliczone(≈)
+1415;Ile osób liczy G7?;7.0;państw;świat;fakt
+1416;Ile komór ma serce człowieka?;4.0;szt.;człowiek;fakt
+1417;Ile komór ma przeciętny mózg? (żart: bardzo dużo)?;86000000000.0;neurony;człowiek;około
+1418;Ile wynosi 33.3% z 10?;3.33;jedn.;konwersje/procenty;wyliczone(≈)
+1419;Ile ksiąg ma Odyseja (w klasycznym podziale)?;24.0;księgi;kultura/literatura;fakt
+1420;Ile metrów ma dystans 100 metrów?;100.0;m;sport;fakt
+1421;Ile cyfr ma kod PIN do karty (typowo)?;4.0;cyfry;technologia/codzienne;typowo
+1422;Ile sekund trwa 30 minut?;1800.0;s;konwersje/czas;wyliczone(≈)
+1423;Ile pikseli ma obraz 3840×2160 (4K UHD)?;8294400.0;pikseli;technologia/grafika;wyliczone(≈)
+1424;Ile bitów ma kod koloru w RGB 8‑bit na kanał (łącznie)?;24.0;bit;technologia/grafika;fakt
+1425;Ile gramów to 1.5 kg?;1500.0;g;konwersje/masa;wyliczone(≈)
+1426;W którym roku odbyła się bitwa pod Grunwaldem?;1410.0;rok;historia;fakt
+1427;Ile sekund trwa 12 godziny?;43200.0;s;konwersje/czas;wyliczone(≈)
+1428;Ile stopni ma przybliżony kąt nachylenia bankingu w owalach? (żart: zależy, ok. 30);30.0;°;sport/motorsport;około
+1429;Ile godzin ma 5 dni?;120.0;h;konwersje/czas;wyliczone(≈)
+1430;Ile sekund trwa 3 minut?;180.0;s;konwersje/czas;wyliczone(≈)
+1431;Ile terytoriów ma Kanada?;3.0;szt.;geografia;fakt
+1432;Ile sekund trwa typowa animacja „GIF” w memach (w przybliżeniu)?;3.0;s;media;typowo
+1433;Ile dwunastu miesięcy ma rok w kalendarzu gregoriańskim?;12.0;szt.;czas;fakt
+1434;Ile lat ma „okrągłe” ćwierć wieku?;25.0;lat;czas;fakt
+1435;Ile wynosi 12.5% z 20?;2.5;jedn.;konwersje/procenty;wyliczone(≈)
+1436;Ile minut ma 10 dni?;14400.0;min;konwersje/czas;wyliczone(≈)
+1437;Ile bitów ma nibble (półbajt)?;4.0;bit;technologia;fakt
+1438;Ile kHz ma częstotliwość próbkowania CD‑Audio?;44.1;kHz;media/technologia;fakt
+1439;Ile dni ma miesiąc z „30 dniami” (np. kwiecień)?;30.0;dni;czas;fakt
+1440;Ile boków ma dziesięciokąt?;10.0;boków;ciekawostki/geometria;fakt
+1441;Ile sekund trwa 13 godziny?;46800.0;s;konwersje/czas;wyliczone(≈)
+1442;Ile minut trwa typowa przerwa na kawę („coffee break”) na konferencji?;15.0;min;świat/społeczeństwo;typowo
+1443;Jaka liczba występuje w tytule film „1917”?;1917.0;liczba;popkultura/tytuły;fakt
+1444;Ile boków ma kwadrat?;4.0;boków;ciekawostki/geometria;fakt
+1445;Ile sylab ma haiku (w układzie 5-7-5)?;17.0;sylab;kultura/literatura;fakt
+1446;Ile sekund trwa 27 minut?;1620.0;s;konwersje/czas;wyliczone(≈)
+1447;Ile znaków ma heksadecymalny zapis bajtu (00–FF)?;2.0;znaki;technologia;fakt
+1448;Ile minut trwa 9.5 godziny?;570.0;min;konwersje/czas;wyliczone(≈)
+1449;Ile wierzchołków ma sześcian?;8.0;szt.;matematyka;fakt
+1450;Ile zawodników jest na boisku w baseballu łącznie w danym momencie (obie drużyny)?;10.0;osób;sport/baseball;umownie
+1451;Ile ścian ma kostka Rubika?;6.0;szt.;codzienne/ciekawostki;umownie
+1452;Ile bitów ma liczba w standardowym IPv6?;128.0;bit;technologia/sieci;fakt
+1453;Ile sekund trwa 3.5 godziny?;12600.0;s;konwersje/czas;wyliczone(≈)
+1454;Ile sekund trwa 8 minut?;480.0;s;konwersje/czas;wyliczone(≈)
+1455;Ile metrów ma standardowa długość boiska do koszykówki (FIBA)?;28.0;m;sport/koszykówka;fakt
+1456;Ile znaków ma typowy hashtag # (bez #) w mediach społecznościowych (w przybliżeniu)?;10.0;znaków;media/technologia;typowo
+1457;Ile sekund trwa żółte światło na sygnalizacji (w przybliżeniu)?;3.0;s;miasto;typowo
+1458;Jaka liczba występuje w tytule film „30 dni mroku”?;30.0;liczba;popkultura/tytuły;fakt
+1459;Ile kaw wypija się dziennie w Polsce/Europie na osobę (w przybliżeniu)?;2.0;kawy;świat/społeczeństwo;około
+1460;Ile pionków ma gracz w warcabach na starcie?;12.0;szt.;gry;fakt
+1461;Ile ścian ma tetraedr?;4.0;szt.;matematyka;fakt
+1462;Ile bitów ma adres IPv4?;32.0;bit;technologia/sieci;fakt
+1463;W którym roku wysłano pierwszego satelitę na orbitę (Sputnik 1)?;1957.0;rok;historia;fakt
+1464;Ile sekund trwa 8 godziny?;28800.0;s;konwersje/czas;wyliczone(≈)
+1465;Ile centymetrów to 100 m?;10000.0;cm;konwersje/dystans;wyliczone(≈)
+1466;W którym roku ukazała się pierwsza książka o Harrym Potterze (tom 1)?;1997.0;rok;historia;fakt
+1467;Ile minut trwa 3 godziny?;180.0;min;konwersje/czas;wyliczone(≈)
+1468;Ile klatek na sekundę ma „filmowe” 24 fps?;24.0;fps;popkultura/film;fakt
+1469;Ile cyfr ma typowy numer telefonu w formacie krajowym (bez prefiksu, w przybliżeniu)?;9.0;cyfr;codzienne;typowo
+1470;W którym roku otwarto Kanał Sueski?;1869.0;rok;historia;fakt
+1471;Jaka liczba występuje w tytule film „Czwarty protokół”?;4.0;liczba;popkultura/tytuły;fakt
+1472;Ile domów ma Hogwarts w uniwersum Harry’ego Pottera?;4.0;szt.;popkultura/fantasy;fakt
+1473;Ile znaków ma adres IPv6 w zapisie pełnym hex (bez skracania)?;32.0;znaków;technologia/sieci;fakt
+1474;Jaka jest maksymalna/przybliżona prędkość nosorożec?;50.0;km/h;natura/zwierzęta;około
+1475;Ile minut trwa typowe zakupy spożywcze w sklepie (w przybliżeniu)?;20.0;min;codzienne;typowo
+1476;Ile wynosi 20% z 80?;16.0;jedn.;konwersje/procenty;wyliczone(≈)
+1477;Ile minut trwa przerwa na reklamy w transmisji sportowej (w przybliżeniu)?;3.0;min;media;typowo
+1478;Ile minut trwa 0.5 godziny?;30.0;min;konwersje/czas;wyliczone(≈)
+1479;W którym roku powstała pierwsza fotografia (Daguerreotyp, około)?;1839.0;rok;historia;około
+1480;Ile lat żyje gepard (w przybliżeniu)?;12.0;lat;natura/zwierzęta;około
+1481;Ile metrów ma standardowa bieżnia na lodowisku do łyżwiarstwa szybkiego (okrążenie)?;400.0;m;sport/łyżwiarstwo;fakt
+1482;Ile dni ma 2 tygodnie?;14.0;dni;konwersje/czas;wyliczone(≈)
+1483;Ile dni ma 12 tygodnie?;84.0;dni;konwersje/czas;wyliczone(≈)
+1484;Ile dni ma „tydzień” w potocznym sensie?;7.0;dni;czas;fakt
+1485;W którym roku podpisano Magna Carta (tradycyjnie)?;1215.0;rok;historia;fakt
+1486;W którym roku powstał IBM PC?;1981.0;rok;historia;fakt
+1487;Jaka liczba występuje w tytule film „12 gniewnych ludzi”?;12.0;liczba;popkultura/tytuły;fakt
+1488;Ile tercji ma mecz hokeja na lodzie?;3.0;tercje;sport/hokej;fakt
+1489;W którym roku miała miejsce pierwsza konferencja TED (pierwsza)?;1984.0;rok;historia;fakt
+1490;W którym roku podpisano Traktat Rzymski (EWWiS/EWG w skrócie)?;1957.0;rok;historia;fakt
+1491;Ile metrów ma linia rzutów wolnych od kosza (FIBA, w przybliżeniu)?;4.6;m;sport/koszykówka;około
+1492;Ile minut trwa typowa kreskówka dla dzieci (odcinek, w przybliżeniu)?;11.0;min;popkultura/kreskówki;typowo
+1493;Ile miesięcy ma 5 lat?;60.0;mies.;czas;wyliczone(≈)
+1494;Ile metrów to 100 km?;100000.0;m;konwersje/dystans;wyliczone(≈)
+1495;Ile lat żyje rekin biały (w przybliżeniu)?;70.0;lat;natura/zwierzęta;około
+1496;Ile portów obejmuje pełny zakres TCP/UDP (0–65535)?;65536.0;portów;technologia/sieci;fakt
+1497;Ile mililitrów to 0.33 l?;330.0;ml;konwersje/objętość;wyliczone(≈)
+1498;Ile litrów wody zużywa się na osobę dziennie w domu (w przybliżeniu)?;150.0;l;świat/społeczeństwo;około
+1499;Ile centymetrów to 400 m?;40000.0;cm;konwersje/dystans;wyliczone(≈)
+1500;W którym roku odbył się pierwszy Festiwal Woodstock?;1969.0;rok;historia;fakt
+1501;Ile krawędzi ma oktaedr?;12.0;krawędzi;ciekawostki/geometria;fakt
+1502;Ile skoczków (koni) ma jedna strona w szachach na starcie?;2.0;szt.;gry/szachy;fakt
+1503;W którym roku powstał serwis Instagram?;2010.0;rok;historia;fakt
+1504;Ile lat ma „okrągłe” pół wieku?;50.0;lat;czas;fakt
+1505;W którym roku uruchomiono Twitter/X?;2006.0;rok;historia;fakt
+1506;Ile znaków ma domena najwyższego poziomu „.com” (bez kropki)?;3.0;znaki;technologia/web;fakt
+1507;Ile pól ma plansza do kółka i krzyżyka 3×3?;9.0;pól;gry/logika;wyliczone(≈)
+1508;Ile sekund ma minuta?;60.0;s;czas;fakt
+1509;Ile osób uczestniczy w typowym spotkaniu statusowym (w przybliżeniu)?;6.0;osób;świat/społeczeństwo;typowo
+1510;Ile lat żyje hipopotam (w przybliżeniu)?;40.0;lat;natura/zwierzęta;około
+1511;Ile wynosi 50% z 20?;10.0;jedn.;konwersje/procenty;wyliczone(≈)
+1512;Ile wynosi 66.7% z 200?;133.4;jedn.;konwersje/procenty;wyliczone(≈)
+1513;Ile lat żyje żyrafa (w przybliżeniu)?;25.0;lat;natura/zwierzęta;około
+1514;Ile państw jest w Europie (w przybliżeniu)?;44.0;państw;świat/geografia;około
+1515;Ile nanosekund jest w sekundzie?;1000000000.0;ns;technologia/czas;fakt
+1516;W którym roku zadebiutowała pierwsza gra „Super Mario Bros.”?;1985.0;rok;historia;fakt
+1517;Ile ścian ma sześcian?;6.0;szt.;matematyka;fakt
+1518;Ile lat żyje wilk (w przybliżeniu)?;13.0;lat;natura/zwierzęta;około
+1519;Ile minut trwa typowy postój na przystanku końcowym autobusu (w przybliżeniu)?;5.0;min;transport;typowo
+1520;Ile metrów ma boisko do siatkówki (długość)?;18.0;m;sport/siatkówka;fakt
+1521;Ile kanałów ma standardowy dźwięk 5.1?;6.0;kanałów;media/technologia;wyliczone(≈)
+1522;Ile wynosi 90% z 120?;108.0;jedn.;konwersje/procenty;wyliczone(≈)
+1523;Jaka jest maksymalna/przybliżona prędkość hipopotam?;30.0;km/h;natura/zwierzęta;około
+1524;Ile gramów to 1 kg?;1000.0;g;konwersje/masa;wyliczone(≈)
+1525;Ile kości ma ręka człowieka (łącznie, w przybliżeniu)?;27.0;szt.;człowiek;fakt
+1526;Ile pól ma przekątna szachownicy (od rogu do rogu)?;8.0;pól;gry/szachy;fakt
+1527;Ile baz jest w baseballu (licząc home)?;4.0;bazy;sport/baseball;fakt
+1528;W którym roku ukazała się pierwsza część „Władcy Pierścieni” (wydanie, około)?;1954.0;rok;historia;około
+1529;Ile lat żyje kura (w przybliżeniu)?;6.0;lat;natura/zwierzęta;około
+1530;Ile minut przestoju rocznie oznacza dostępność 99,999% (w przybliżeniu)?;5.256;min;technologia/SLA;wyliczone(≈)
+1531;Ile kilometrów ma wyścig Formuły 1 (dystans, w przybliżeniu)?;305.0;km;sport/motorsport;fakt
+1532;Ile pinów ma standardowe złącze HDMI (typ A)?;19.0;pinów;technologia/hardware;fakt
+1533;Ile wynosi 33.3% z 250?;83.25;jedn.;konwersje/procenty;wyliczone(≈)
+1534;W którym roku miał premierę film „Park Jurajski”?;1993.0;rok;historia;fakt
+1535;Ile bitów ma adres MAC?;48.0;bit;technologia/sieci;fakt
+1536;Ile punktów gra się w secie w tenisie stołowym (standardowo)?;11.0;pkt;sport/tenis stołowy;fakt
+1537;Ile mililitrów to 0.75 l?;750.0;ml;konwersje/objętość;wyliczone(≈)
+1538;Ile razy w roku obchodzi się urodziny?;1.0;raz;codzienne;fakt
+1539;Ile gramów to 0.25 kg?;250.0;g;konwersje/masa;wyliczone(≈)
+1540;Ile piłek jest w standardowym zestawie nowych piłek tenisowych w puszce (typowo)?;3.0;szt.;sport/tenis;typowo
+1541;Ile dni ma luty w roku nieprzestępnym?;28.0;dni;czas;fakt
+1542;Ile minut trwa 1 godziny?;60.0;min;konwersje/czas;wyliczone(≈)
+1543;Ile minut trwa typowa prezentacja na konferencji (w przybliżeniu)?;20.0;min;świat/społeczeństwo;typowo
+1544;Jaka liczba występuje w tytule film „28 dni później”?;28.0;liczba;popkultura/tytuły;fakt
+1545;W którym roku uruchomiono pierwszą stronę WWW (pierwszy serwer WWW)?;1991.0;rok;historia;fakt
+1546;Ile kilogramów to 1000 g?;1.0;kg;konwersje/masa;wyliczone(≈)
+1547;Jaka jest maksymalna/przybliżona prędkość kot domowy?;48.0;km/h;natura/zwierzęta;około
+1548;W którym roku miała miejsce bitwa pod Hastings?;1066.0;rok;historia;fakt
+1549;Ile minut przestoju rocznie oznacza dostępność 99,9% (w przybliżeniu)?;525.6;min;technologia/SLA;wyliczone(≈)
+1550;Ile opowieści zawiera „Dekameron” z tytułu?;100.0;opowieści;kultura/literatura;fakt
+1551;W którym roku miał premierę film „Pulp Fiction”?;1994.0;rok;historia;fakt
+1552;Ile godzin ma 1 tygodnie?;168.0;h;konwersje/czas;wyliczone(≈)
+1553;Jaka liczba występuje w tytule książka „1984”?;1984.0;liczba;popkultura/tytuły;fakt
+1554;Ile kilogramów to 100 g?;0.1;kg;konwersje/masa;wyliczone(≈)
+1555;W którym roku zadebiutował pierwszy procesor Intel 4004?;1971.0;rok;historia;fakt
+1556;W którym roku odkryto Amerykę (Kolumb)?;1492.0;rok;historia;fakt
+1557;Ile liczb rzymskich podstawowych symboli jest (I,V,X,L,C,D,M)?;7.0;szt.;język/kultura;fakt
+1558;Jaka jest maksymalna/przybliżona prędkość tygrys?;65.0;km/h;natura/zwierzęta;około
+1559;Jaka liczba występuje w tytule film „10 rzeczy, których w tobie nienawidzę”?;10.0;liczba;popkultura/tytuły;fakt
+1560;Ile możliwych wyników ma rzut dwiema kostkami (uporządkowane pary)?;36.0;wyników;gry/logika;wyliczone(≈)
+1561;Ile warstw ma model TCP/IP (klasycznie)?;4.0;szt.;technologia/sieci;umownie
+1562;W którym roku uruchomiono system operacyjny Windows 95?;1995.0;rok;historia;fakt
+1563;W którym roku miał premierę film „Forrest Gump”?;1994.0;rok;historia;fakt
+1564;Ile wynosi 25% z 200?;50.0;jedn.;konwersje/procenty;wyliczone(≈)
+1565;Ile krawędzi ma tetraedr?;6.0;szt.;matematyka;fakt
+1566;Ile przycisków ma pilot TV (w przybliżeniu)?;40.0;szt.;technologia;typowo
+1567;Ile bajtów zajmuje jeden piksel w RGBA32?;4.0;B;technologia/grafika;fakt
+1568;Ile wynosi 80% z 200?;160.0;jedn.;konwersje/procenty;wyliczone(≈)
+1569;W którym roku upadły bliźniacze wieże WTC (9/11)?;2001.0;rok;historia;fakt
+1570;Ile filarów ma islam?;5.0;szt.;kultura/religia;fakt
+1571;Ile lat żyje krokodyl (w przybliżeniu)?;70.0;lat;natura/zwierzęta;około
+1572;Ile sekund trwa 0.5 godziny?;1800.0;s;konwersje/czas;wyliczone(≈)
+1573;W którym roku zatopiono Titanica?;1912.0;rok;historia;fakt
+1574;Ile mililitrów to 0.5 l?;500.0;ml;konwersje/objętość;wyliczone(≈)
+1575;Ile lat żyje pszczoła (w przybliżeniu)?;0.1;lat;natura/zwierzęta;około
+1576;Ile sekund trwa 150 minut?;9000.0;s;konwersje/czas;wyliczone(≈)
+1577;Ile znaków ma kod ASCII (7-bitowy) – ile różnych wartości?;128.0;wartości;technologia;fakt
+1578;W którym roku zaproponowano World Wide Web (projekt, około)?;1989.0;rok;historia;około
+1579;Ile lat żyje mrówka (w przybliżeniu)?;1.0;lat;natura/zwierzęta;około
+1580;Ile sekund ma tydzień?;604800.0;s;czas;fakt
+1581;Jaka liczba występuje w tytule film „101 dalmatyńczyków”?;101.0;liczba;popkultura/tytuły;fakt
+1582;Ile znaków ma rozszerzony ASCII (8-bit) – ile różnych wartości?;256.0;wartości;technologia;fakt
+1583;Ile dni ma miesiąc z „31 dniami” (np. lipiec)?;31.0;dni;czas;fakt
+1584;Ile drużyn gra na boisku w typowym meczu sportowym (zwykle)?;2.0;drużyny;sport;umownie
+1585;Ile centymetrów to 20 m?;2000.0;cm;konwersje/dystans;wyliczone(≈)
+1586;Ile godzin ma 4 tygodnie?;672.0;h;konwersje/czas;wyliczone(≈)
+1587;Ile ludzi mieszka obecnie na Ziemi (w przybliżeniu)?;8100000000.0;osób;świat/społeczeństwo;stan(2025)≈
+1588;Ile sekund trwa typowy dzwonek telefonu (w przybliżeniu)?;20.0;s;popkultura/codzienne;typowo
+1589;Ile wynosi 66.7% z 300?;200.1;jedn.;konwersje/procenty;wyliczone(≈)
+1590;Ile minut trwa standardowy mecz piłki ręcznej (czas gry)?;60.0;min;sport/piłka ręczna;fakt
+1591;W którym roku miał premierę film „Incepcja”?;2010.0;rok;historia;fakt
+1592;Ile cnót głównych wymienia się najczęściej?;7.0;szt.;kultura/religia;umownie
+1593;Ile lat żyje słoń afrykański (w przybliżeniu)?;60.0;lat;natura/zwierzęta;około
+1594;Ile mililitrów ma łyżka stołowa (umownie)?;15.0;ml;kuchnia/miary;umownie
+1595;Ile lat żyje mysz (w przybliżeniu)?;2.0;lat;natura/zwierzęta;około
+1596;Ile minut trwa typowa kolacja (w przybliżeniu)?;20.0;min;codzienne;typowo
+1597;W którym roku doszło do lądowania na Marsie łazika Curiosity?;2012.0;rok;historia;fakt
+1598;Ile sekund trwa 3 godziny?;10800.0;s;konwersje/czas;wyliczone(≈)
+1599;W którym roku zadebiutował Windows XP?;2001.0;rok;historia;fakt
+1600;W którym roku powstał Google (założenie firmy)?;1998.0;rok;historia;fakt
+1601;Jaka liczba występuje w tytule serial „The 100”?;100.0;liczba;popkultura/tytuły;fakt
+1602;Ile boków ma sześciokąt?;6.0;boków;ciekawostki/geometria;fakt
+1603;Ile klawiszy ma typowa klawiatura fortepianu?;88.0;szt.;muzyka;fakt
+1604;Ile kręgli jest w bowlingu?;10.0;szt.;sport;fakt
+1605;Ile minut trwa standardowy mecz rugby union?;80.0;min;sport/rugby;fakt
+1606;Ile punktów maksymalnie można zdobyć w jednym rzucie w kręgle (strike)?;10.0;pkt;sport/bowling;fakt
+1607;Ile godzin ma 1 dni?;24.0;h;konwersje/czas;wyliczone(≈)
+1608;Jaka liczba występuje w tytule film „7 samurajów”?;7.0;liczba;popkultura/tytuły;fakt
+1609;Ile inningów ma standardowy mecz baseballu?;9.0;inningów;sport/baseball;fakt
+1610;Ile kart ma standardowa talia bez jokerów?;52.0;szt.;gry/karty;fakt
+1611;Jaka jest maksymalna/przybliżona prędkość pingwin?;10.0;km/h;natura/zwierzęta;około
+1612;Ile gramów to 2 kg?;2000.0;g;konwersje/masa;wyliczone(≈)
+1613;Ile tłoki ma trąbka (w przybliżeniu)?;3.0;szt.;muzyka/ciekawostki;typowo
+1614;Ile centymetrów to 3 m?;300.0;cm;konwersje/dystans;wyliczone(≈)
+1615;Ile minut trwa jedna połowa w piłce ręcznej?;30.0;min;sport/piłka ręczna;fakt
+1616;Ile pikseli ma obraz 1280×720 (HD)?;921600.0;pikseli;technologia/grafika;wyliczone(≈)
+1617;Ile lat żyje wielbłąd (w przybliżeniu)?;40.0;lat;natura/zwierzęta;około
+1618;Ile rund ma typowa walka o tytuł w boksie (maksymalnie)?;12.0;rund;sport/boks;typowo
+1619;Ile klatek na sekundę ma typowy film kinowy?;24.0;fps;media/technologia;fakt
+1620;Jaka jest maksymalna/przybliżona prędkość ryba miecznik?;100.0;km/h;natura/zwierzęta;około
+1621;Ile metrów ma maraton w metrach?;42195.0;m;sport;wyliczone(≈)
+1622;W którym roku wybuchła II wojna światowa?;1939.0;rok;historia;fakt
+1623;Ile minut trwają napisy końcowe w typowym filmie (w przybliżeniu)?;8.0;min;popkultura/film;typowo
+1624;Ile pasów (pasków) ma flaga USA?;13.0;szt.;geografia/symbole;fakt
+1625;Ile godzin dziennie przesypia przeciętny dorosły (w przybliżeniu)?;8.0;h;człowiek;typowo
+1626;W którym roku wysłano pierwszy e‑mail (około)?;1971.0;rok;historia;około
+1627;Jaka liczba występuje w tytule film „127 godzin”?;127.0;liczba;popkultura/tytuły;fakt
+1628;Jaka liczba występuje w tytule film „13 zabójców”?;13.0;liczba;popkultura/tytuły;fakt
+1629;Ile sekund ma kwadrans?;900.0;s;czas/ciekawostki;wyliczone(≈)
+1630;Ile metrów to 0.2 km?;200.0;m;konwersje/dystans;wyliczone(≈)
+1631;Ile minut trwa typowy przejazd metrem między stacjami (w przybliżeniu)?;2.0;min;transport;typowo
+1632;Jaka liczba występuje w tytule książka „Czwarta małpa”?;4.0;liczba;popkultura/tytuły;fakt
+1633;Jaka liczba występuje w tytule film „99 francuskich franków”?;99.0;liczba;popkultura/tytuły;fakt
+1634;Ile wynosi 66.7% z 80?;53.36;jedn.;konwersje/procenty;wyliczone(≈)
+1635;Ile godzin ma 1 doba?;24.0;h;technologia/czas;fakt
+1636;Ile znaków ma typowy kod błędu HTTP (np. 404)?;3.0;znaki;technologia/web;fakt
+1637;Ile minut trwa typowa rozmowa kwalifikacyjna (w przybliżeniu)?;60.0;min;świat/społeczeństwo;typowo
+1638;Ile minut trwa typowy stand‑up (występ, w przybliżeniu)?;60.0;min;kultura/standup;typowo
+1639;Jaka jest maksymalna/przybliżona prędkość żółw lądowy?;0.3;km/h;natura/zwierzęta;około
+1640;Ile państw liczy Unia Europejska (stan po Brexicie)?;27.0;szt.;świat/polityka;stan(2025)
+1641;W którym roku miał premierę film „Shrek”?;2001.0;rok;historia;fakt
+1642;Ile lat żyje sarna (w przybliżeniu)?;12.0;lat;natura/zwierzęta;około
+1643;Ile państw ma strefa Schengen (w przybliżeniu)?;27.0;szt.;świat;stan(2025)
+1644;Ile kółek ma typowy wyścig Formuły 1 (w przybliżeniu)?;60.0;okrążeń;sport/motorsport;około
+1645;W którym roku powstał pierwszy silnik wysokoprężny (Diesla, około)?;1897.0;rok;historia;około
+1646;W którym roku Kolumb dotarł do Ameryki?;1492.0;rok;historia;fakt
+1647;Ile hoteli maksymalnie można postawić na polu w Monopoly?;1.0;szt.;gry/planszowe;fakt
+1648;Ilu zawodników gra w rugby union (jedna drużyna)?;15.0;osób;sport/rugby;fakt
+1649;Ile lat żyje ryba miecznik (w przybliżeniu)?;9.0;lat;natura/zwierzęta;około
+1650;Ile sakramentów uznaje Kościół katolicki?;7.0;szt.;kultura/religia;fakt
+1651;Ile wynosi 75% z 300?;225.0;jedn.;konwersje/procenty;wyliczone(≈)
+1652;Ile wynosi 12.5% z 120?;15.0;jedn.;konwersje/procenty;wyliczone(≈)
+1653;Ile członków ma zespół The Beatles?;4.0;osób;popkultura/muzyka;fakt
+1654;Ile przykazań jest w Dekalogu?;10.0;szt.;kultura/religia;fakt
+1655;Jaka jest maksymalna/przybliżona prędkość żyrafa?;60.0;km/h;natura/zwierzęta;około
+1656;W którym roku powstała pierwsza książka wydrukowana Biblią Gutenberga (około)?;1455.0;rok;historia;około
+1657;Ile kwart ma mecz futbolu amerykańskiego?;4.0;kwarty;sport/futbol amerykański;fakt
+1658;Ile przystanków ma typowa trasa autobusu w mieście (w przybliżeniu)?;20.0;przystanków;transport;typowo
+1659;Jaka jest maksymalna/przybliżona prędkość niedźwiedź brunatny?;50.0;km/h;natura/zwierzęta;około
+1660;Jaka liczba występuje w tytule film „2001: Odyseja kosmiczna”?;2001.0;liczba;popkultura/tytuły;fakt
+1661;Ile metrów to 3.3 km?;3300.0;m;konwersje/dystans;wyliczone(≈)
+1662;Ile litrów to 330 ml?;0.33;l;konwersje/objętość;wyliczone(≈)
+1663;Ile miesięcy trwa kadencja prezydenta USA (4 lata) w miesiącach?;48.0;mies.;świat/polityka;wyliczone(≈)
+1664;Ile metrów ma standardowa szerokość boiska do koszykówki (FIBA)?;15.0;m;sport/koszykówka;fakt
+1665;W którym roku rozpoczęto budowę Muru Berlińskiego?;1961.0;rok;historia;fakt
+1666;Ile lat żyje strus (w przybliżeniu)?;45.0;lat;natura/zwierzęta;około
+1667;Ile gemów trzeba wygrać, aby wygrać set w tenisie (bez tie-breaków, minimum)?;6.0;gemy;sport/tenis;fakt
+1668;Ile minut trwa typowe spotkanie statusowe w pracy (w przybliżeniu)?;30.0;min;świat/społeczeństwo;typowo
+1669;Ile żył ma kabel Ethernet w skrętce (4 pary)?;8.0;żył;technologia/sieci;fakt
+1670;Ile pól ma plansza do chińczyka (typowo, w przybliżeniu)?;72.0;pól;gry/planszowe;około
+1671;W którym roku otwarto Kanał Panamski?;1914.0;rok;historia;fakt
+1672;W którym roku ustanowiono pierwsze Nagrody Nobla (pierwsze wręczenie)?;1901.0;rok;historia;stan(2025)
+1673;Ile palców ma koń na jednej nodze (kopyto jako 1)?;1.0;szt.;natura/zwierzęta;umownie
+1674;Ile minut trwa 24 godziny?;1440.0;min;konwersje/czas;wyliczone(≈)
+1675;W którym roku miał premierę film „E.T.”?;1982.0;rok;historia;fakt
+1676;Ile strun ma ukulele (w przybliżeniu)?;4.0;szt.;muzyka/ciekawostki;typowo
+1677;Ile gramów to 10 kg?;10000.0;g;konwersje/masa;wyliczone(≈)
+1678;Jaki numer ma błąd „Not Found” w HTTP?;404.0;kod;technologia/web;fakt
+1679;Ile milimetrów to 3 m?;3000.0;mm;konwersje/dystans;wyliczone(≈)
+1680;Ilu zawodników gra na boisku w koszykówce (jedna drużyna)?;5.0;osób;sport/koszykówka;fakt
+1681;Jaka liczba występuje w tytule film „12 zadań Asteriksa”?;12.0;liczba;popkultura/tytuły;fakt
+1682;Ile stron świata ma kompas (podstawowe)?;4.0;szt.;geografia;fakt
+1683;Ile metrów ma boisko do piłki ręcznej (długość)?;40.0;m;sport/piłka ręczna;fakt
+1684;Ile poziomów ma typowa gra logiczna na telefon (w przybliżeniu)?;100.0;poziomów;popkultura/gry;typowo
+1685;Ile strun ma kontrabas (w przybliżeniu)?;4.0;szt.;muzyka/ciekawostki;typowo
+1686;Jaka liczba występuje w tytule film „8 Mila”?;8.0;liczba;popkultura/tytuły;fakt
+1687;Jaka liczba występuje w tytule film „300 Spartan”?;300.0;liczba;popkultura/tytuły;fakt
+1688;Ile języków istnieje na świecie (w przybliżeniu)?;7000.0;języków;świat/język;około
+1689;Ile sekund trwa 1 godziny?;3600.0;s;konwersje/czas;wyliczone(≈)
+1690;Ile wynosi 20% z 50?;10.0;jedn.;konwersje/procenty;wyliczone(≈)
+1691;W którym roku powstała organizacja ONZ?;1945.0;rok;historia;fakt
+1692;Ile państw jest na Półwyspie Iberyjskim?;2.0;państwa;geografia;fakt
+1693;Jaka jest maksymalna/przybliżona prędkość lis?;50.0;km/h;natura/zwierzęta;około
+1694;Ile stanów ma USA?;50.0;szt.;geografia;fakt
+1695;W którym roku powstała organizacja NATO?;1949.0;rok;historia;fakt
+1696;Ile metrów to 10 km?;10000.0;m;konwersje/dystans;wyliczone(≈)
+1697;Ile litery ma hasło CAPTCHA (w przybliżeniu)?;6.0;znaków;technologia;typowo
+1698;Ile minut ma 14 dni?;20160.0;min;konwersje/czas;wyliczone(≈)
+1699;Jaka jest maksymalna/przybliżona prędkość sarna?;60.0;km/h;natura/zwierzęta;około
+1700;Jaka jest maksymalna/przybliżona prędkość wilk?;60.0;km/h;natura/zwierzęta;około
+1701;Ile dni ma styczeń?;31.0;dni;czas;fakt
+1702;W którym roku zakończyła się I wojna światowa?;1918.0;rok;historia;fakt
+1703;Ile wież ma jedna strona w szachach na starcie?;2.0;szt.;gry/szachy;fakt
+1704;Ile metrów ma bieg na 200 m?;200.0;m;sport/lekkoatletyka;fakt
+1705;Ile minut trwa standardowy mecz futsalu?;40.0;min;sport/futsal;fakt
+1706;Ile rund ma standardowy mecz boksu amatorskiego (w przybliżeniu)?;3.0;rundy;sport/boks;typowo
+1707;Jaka jest maksymalna/przybliżona prędkość lew?;80.0;km/h;natura/zwierzęta;około
+1708;Ile sekund trwa 13 minut?;780.0;s;konwersje/czas;wyliczone(≈)
+1709;Jaka liczba występuje w tytule film „Siódmy syn”?;7.0;liczba;popkultura/tytuły;fakt
+1710;Ile minut ma typowy album muzyczny (w przybliżeniu)?;45.0;min;popkultura/muzyka;typowo
+1711;Jaka liczba występuje w tytule film „21”?;21.0;liczba;popkultura/tytuły;fakt
+1712;Ile punktów gra się w secie w badmintonie (standardowo)?;21.0;pkt;sport/badminton;fakt
+1713;Ile minut trwa 3.5 godziny?;210.0;min;konwersje/czas;wyliczone(≈)
+1714;Ile łap ma pies?;4.0;szt.;natura/zwierzęta;fakt
+1715;Ile metrów ma linia za 3 w koszykówce FIBA (w przybliżeniu)?;6.75;m;sport/koszykówka;fakt
+1716;Ile minut trwa 4 godziny?;240.0;min;konwersje/czas;wyliczone(≈)
+1717;Ile lat trwały „Sto lat samotności” z tytułu powieści?;100.0;lat;popkultura/tytuły;fakt
+1718;W którym roku powstał Linux (pierwsze wydanie jądra, około)?;1991.0;rok;historia;około
+1719;Ile miesięcy ma pół roku?;6.0;mies.;czas;fakt
+1720;Ile gramów to 0.5 kg?;500.0;g;konwersje/masa;wyliczone(≈)
+1721;Jaka jest maksymalna/przybliżona prędkość królik?;45.0;km/h;natura/zwierzęta;około
+1722;Jaka liczba występuje w tytule książka „1000 i jedna noc”?;1001.0;liczba;popkultura/tytuły;fakt
+1723;Ile setów gra się w badmintonie (zwykle do 2 wygranych)?;3.0;sety;sport/badminton;typowo
+1724;Jaka liczba występuje w tytule książka „451° Fahrenheita”?;451.0;liczba;popkultura/tytuły;fakt
+1725;Ile serc ma ośmiornica?;3.0;szt.;natura/zwierzęta;fakt
+1726;Ile sekund świeci zielone światło na przejściu dla pieszych (w przybliżeniu)?;20.0;s;miasto;typowo
+1727;Jaka liczba występuje w tytule film „Siódma pieczęć”?;7.0;liczba;popkultura/tytuły;fakt
+1728;Ile znaków ma domena „.pl” (bez kropki)?;2.0;znaki;technologia/web;fakt
+1729;Ile godzin ma 14 dni?;336.0;h;konwersje/czas;wyliczone(≈)
+1730;Ile wynosi 75% z 10?;7.5;jedn.;konwersje/procenty;wyliczone(≈)
+1731;Ile minut trwa przerwa w meczu piłki nożnej (maksymalnie)?;15.0;min;sport/piłka nożna;fakt
+1732;Ile minut trwa typowy przejazd autobusem przez miasto (w przybliżeniu)?;20.0;min;miasto;typowo
+1733;Ile „liter” ma alfabet Morse’a dla cyfr 0–9?;10.0;znaków;gry/logika;fakt
+1734;Ile watów pobiera ładowarka USB 5V/2A (moc)?;10.0;W;technologia/elektryka;wyliczone(≈)
+1735;Ile minut trwa runda w boksie amatorskim (w przybliżeniu)?;3.0;min;sport/boks;typowo
+1736;Ile milimetrów to 1000 m?;1000000.0;mm;konwersje/dystans;wyliczone(≈)
+1737;Jaka liczba występuje w tytule film „61*”?;61.0;liczba;popkultura/tytuły;fakt
+1738;W którym roku powstała Liga Narodów?;1920.0;rok;historia;fakt
+1739;Ile wynosi 90% z 1000?;900.0;jedn.;konwersje/procenty;wyliczone(≈)
+1740;Ile litrów to 100 ml?;0.1;l;konwersje/objętość;wyliczone(≈)
+1741;Ile setów trzeba wygrać, aby wygrać mecz tenisowy w formacie do 2 wygranych setów?;2.0;sety;sport/tenis;fakt
+1742;Jaka jest maksymalna/przybliżona prędkość mrówka?;1.0;km/h;natura/zwierzęta;około
+1743;Ile punktów trzeba wygrać w gemie tenisowym od zera (minimum)?;4.0;pkt;sport/tenis;fakt
+1744;Jaka liczba występuje w tytule film „71”?;71.0;liczba;popkultura/tytuły;fakt
+1745;Ile chlebów i ryb jest w biblijnej opowieści o rozmnożeniu (w wersji 5/2)?;7.0;szt.;kultura/religia;umownie
+1746;W którym roku rozpoczęła się reformacja (95 tez Lutra)?;1517.0;rok;historia;fakt
+1747;Ile mililitrów to 0.25 l?;250.0;ml;konwersje/objętość;wyliczone(≈)
+1748;Ile domków maksymalnie można postawić na polu w Monopoly?;4.0;szt.;gry/planszowe;fakt
+1749;Ile sekund ma 1 godzina?;3600.0;s;technologia/czas;fakt
+1750;Ile metrów to 12.5 km?;12500.0;m;konwersje/dystans;wyliczone(≈)
+1751;Jaka jest maksymalna/przybliżona prędkość zebra?;65.0;km/h;natura/zwierzęta;około
+1752;Ile sekund trwa 37 minut?;2220.0;s;konwersje/czas;wyliczone(≈)
+1753;Ile metrów to 3 km?;3000.0;m;konwersje/dystans;wyliczone(≈)
+1754;Ile lat żyje orzeł (w przybliżeniu)?;20.0;lat;natura/zwierzęta;około
+1755;Jaka jest maksymalna/przybliżona prędkość wieloryb błękitny?;50.0;km/h;natura/zwierzęta;około
+1756;Ile nogi ma typowy stół?;4.0;szt.;codzienne/ciekawostki;umownie
+1757;Ile kółek ma wózek sklepowy?;4.0;szt.;codzienne/ciekawostki;umownie
+1758;Ile bitów ma jeden oktet?;8.0;bit;technologia;fakt
+1759;Ile procent ludności świata mieszka w miastach (w przybliżeniu)?;56.0;%;świat/społeczeństwo;około
+1760;Ile ton śmieci produkuje się na świecie rocznie (w przybliżeniu)?;2000000000.0;t;świat/społeczeństwo;około
+1761;Ile milimetrów to 50 m?;50000.0;mm;konwersje/dystans;wyliczone(≈)
+1762;W którym roku odbyło się pierwsze lądowanie człowieka na Księżycu?;1969.0;rok;historia;fakt
+1763;W którym roku ukazała się powieść „Frankenstein” Mary Shelley (pierwsze wydanie)?;1818.0;rok;historia;fakt
+1764;Jaka liczba występuje w tytule film „12 lat niewolnikiem”?;12.0;liczba;popkultura/tytuły;fakt
+1765;W którym roku zakończyła się wyprawa Magellana (powrót, około)?;1522.0;rok;historia;około
+1766;Ile książek liczy główny cykl „Harry Potter”?;7.0;szt.;popkultura/książki;fakt
+1767;Jaka liczba występuje w tytule film „1776”?;1776.0;liczba;popkultura/tytuły;fakt
+1768;Ile wynosi 33.3% z 300?;99.9;jedn.;konwersje/procenty;wyliczone(≈)
+1769;W którym roku rozpoczęła się dynastia Jagiellonów w Polsce (objęcie tronu przez Jagiełłę)?;1386.0;rok;historia;fakt
+1770;Ile sekund trwa 7 minut?;420.0;s;konwersje/czas;wyliczone(≈)
+1771;Ile litery ma alfabet rosyjski (cyrylica)?;33.0;szt.;język;fakt
+1772;Ile herców ma standardowa sieć energetyczna w Europie?;50.0;Hz;technologia/elektryka;fakt
+1773;Ile wynosi 10% z 500?;50.0;jedn.;konwersje/procenty;wyliczone(≈)
+1774;W którym roku miała premierę pierwsza książka „Wiedźmin” (tom opowiadań w książce, około)?;1993.0;rok;historia;około
+1775;Ile części ma trylogia filmowa?;3.0;szt.;popkultura/film;fakt
+1776;Ile nut ma gama durowa (w jednym przebiegu)?;7.0;szt.;muzyka;umownie
+1777;Ile stopni ma temperatura w biurze zimą (w przybliżeniu)?;21.0;°C;codzienne;typowo
+1778;Ile państw jest w Unii Europejskiej (po Brexicie)?;27.0;państw;świat/społeczeństwo;stan(2025)
+1779;Ile dni ma 6 tygodnie?;42.0;dni;konwersje/czas;wyliczone(≈)
+1780;Jaka liczba występuje w tytule serial „Siedem życzeń”?;7.0;liczba;popkultura/tytuły;fakt
+1781;Jaka liczba występuje w tytule film „Ocean's Thirteen”?;13.0;liczba;popkultura/tytuły;fakt
+1782;Ile minut trwa typowa przerwa między lekcjami w szkole?;10.0;min;świat/społeczeństwo;typowo
+1783;Do ilu punktów gra się set w siatkówce (zwykle)?;25.0;pkt;sport/siatkówka;fakt
+1784;Ile sekund trwa minuta?;60.0;s;czas;fakt
+1785;Ile kwartałów ma rok?;4.0;szt.;czas/biznes;fakt
+1786;Ile litrów to 150 ml?;0.15;l;konwersje/objętość;wyliczone(≈)
+1787;Ile razy na minutę mruga człowiek (w przybliżeniu)?;15.0;razy/min;człowiek;typowo
+1788;Ile minut trwa typowe przygotowanie kawy z ekspresu (w przybliżeniu)?;2.0;min;codzienne;typowo
+1789;Ile mililitrów to 1 l?;1000.0;ml;konwersje/objętość;wyliczone(≈)
+1790;Ile lat trwa kadencja prezydenta USA?;4.0;lata;świat/polityka;fakt
+1791;Ile klatek na sekundę ma typowy sygnał TV w Europie (w przybliżeniu)?;25.0;fps;media/technologia;typowo
+1792;Jaka liczba występuje w tytule piosenka „99 Luftballons”?;99.0;liczba;popkultura/tytuły;fakt
+1793;Ile godzin ma 3 tygodnie?;504.0;h;konwersje/czas;wyliczone(≈)
+1794;Ile sekund trwa 60 minut?;3600.0;s;konwersje/czas;wyliczone(≈)
+1795;Ile metrów to 0.75 km?;750.0;m;konwersje/dystans;wyliczone(≈)
+1796;Ile cyfr ma system dziesiętny (ile symboli)?;10.0;szt.;technologia;fakt
+1797;Ile kół ma motocykl?;2.0;szt.;codzienne/ciekawostki;umownie
+1798;Ile palców ma człowiek u dłoni?;5.0;szt.;człowiek;fakt
+1799;Ile miesięcy ma kalendarz?;12.0;szt.;codzienne/ciekawostki;umownie
+1800;Ile cylindrów ma typowy silnik V6?;6.0;szt.;technologia/motoryzacja;fakt
+1801;Ile cyfr ma kod pocztowy w Polsce?;5.0;cyfr;codzienne;fakt
+1802;Na jakiej wysokości jest obręcz kosza (standard)?;3.05;m;sport/koszykówka;fakt
+1803;Ile pasm (stripes) ma flaga USA?;13.0;szt.;geografia/symbole;fakt
+1804;Ile liter ma słowo „supercalifragilisticexpialidocious”?;34.0;liter;język/popkultura;fakt
+1805;Ile komór ma serce ryby (w przybliżeniu)?;2.0;szt.;natura/zwierzęta;około
+1806;Ile jeźdźców apokalipsy jest w tradycji chrześcijańskiej?;4.0;szt.;kultura/religia;fakt
+1807;Ile wynosi 5% z 1000?;50.0;jedn.;konwersje/procenty;wyliczone(≈)
+1808;Ile stron ma typowa umowa najmu mieszkania (w przybliżeniu)?;10.0;str.;świat/społeczeństwo;typowo
+1809;W którym roku miał premierę film „Titanic” (Camerona)?;1997.0;rok;historia;fakt
+1810;Jaka jest maksymalna/przybliżona prędkość sokół wędrowny (w locie nurkowym)?;320.0;km/h;natura/zwierzęta;około
+1811;W którym roku odbył się pierwszy lot w kosmos wahadłowca (Columbia STS-1)?;1981.0;rok;historia;fakt
+1812;Jaka liczba występuje w tytule film „10 000 BC”?;10000.0;liczba;popkultura/tytuły;fakt
+1813;Ile kontynentów zwykle wyróżnia się na Ziemi?;7.0;szt.;geografia;umownie
+1814;Ile oceanów ma Ziemia (umownie)?;5.0;oceanów;geografia;umownie
+1815;Ile mililitrów to 1.5 l?;1500.0;ml;konwersje/objętość;wyliczone(≈)
+1816;Jaka jest maksymalna/przybliżona prędkość gepard?;110.0;km/h;natura/zwierzęta;około
+1817;Ile dni ma listopad?;30.0;dni;czas;fakt
+1818;Jaka liczba występuje w tytule film „2001 maniaków”?;2001.0;liczba;popkultura/tytuły;fakt
+1819;Ile lat żyje sokół wędrowny (w locie nurkowym) (w przybliżeniu)?;15.0;lat;natura/zwierzęta;około
+1820;Ile sekund trwa 5 minut?;300.0;s;konwersje/czas;wyliczone(≈)
+1821;Ile bitów ma standardowy kolor w RGB565?;16.0;bit;technologia/grafika;fakt
+1822;W którym roku powstała firma SpaceX?;2002.0;rok;historia;fakt
+1823;Ile wynosi 50% z 50?;25.0;jedn.;konwersje/procenty;wyliczone(≈)
+1824;Jaka jest maksymalna/przybliżona prędkość kangur?;70.0;km/h;natura/zwierzęta;około
+1825;Ile sekund trwa 2 minut?;120.0;s;konwersje/czas;wyliczone(≈)
+1826;Ile metrów to 15.5 km?;15500.0;m;konwersje/dystans;wyliczone(≈)
+1827;Ile nut ma oktawa w skali diatonicznej (do–do)?;8.0;szt.;muzyka;umownie
+1828;W którym roku miało miejsce trzęsienie ziemi i tsunami w Japonii (Fukushima)?;2011.0;rok;historia;fakt
+1829;Ile minut przed odlotem zwykle zamyka się bramkę (w przybliżeniu)?;15.0;min;podróże;typowo
+1830;Ile wynosi 12.5% z 250?;31.25;jedn.;konwersje/procenty;wyliczone(≈)
+1831;Ile milisekund ma 1 sekunda?;1000.0;ms;technologia/czas;fakt
+1832;Ile milimetrów to 2 m?;2000.0;mm;konwersje/dystans;wyliczone(≈)
+1833;W którym roku runął Mur Berliński?;1989.0;rok;historia;fakt
+1834;Ile sekund to jedna minuta (dla komputera i człowieka)?;60.0;s;technologia/czas;fakt
+1835;Ile gramów to 20 kg?;20000.0;g;konwersje/masa;wyliczone(≈)
+1836;Ile overów ma typowy mecz krykieta T20 (na drużynę)?;20.0;overów;sport/cricket;fakt
+1837;Ile znaków ma limit tweeta na Twitter/X (obecnie klasycznie)?;280.0;znaków;media/technologia;stan(2025)
+1838;Ile wierzchołków ma oktaedr?;6.0;wierzchołków;ciekawostki/geometria;fakt
+1839;Ile lat żyje tygrys (w przybliżeniu)?;15.0;lat;natura/zwierzęta;około
+1840;Jaka liczba występuje w tytule film „47 metrów”?;47.0;liczba;popkultura/tytuły;fakt
+1841;Ile strun ma standardowy bas?;4.0;strun;muzyka;fakt
+1842;Ile znaków ma hasło 8‑znakowe?;8.0;znaków;technologia/bezpieczeństwo;fakt
+1843;Ile królów (mędrców) jest w tradycji bożonarodzeniowej?;3.0;szt.;kultura/religia;umownie
+1844;Ile okien ma standardowa kostka Rubika 3x3 (małych „kostek” na zewnątrz)?;54.0;szt.;gry;wyliczone(≈)
+1845;Jaka liczba występuje w tytule film „Ocean's Twelve”?;12.0;liczba;popkultura/tytuły;fakt
+1846;Ile minut ma pół godziny?;30.0;min;czas/ciekawostki;fakt
+1847;Ile cyfr ma system binarny (ile symboli)?;2.0;szt.;technologia;fakt
+1848;Jaka liczba występuje w tytule serial „13 powodów”?;13.0;liczba;popkultura/tytuły;fakt
+1849;Ile lat żyje królik (w przybliżeniu)?;8.0;lat;natura/zwierzęta;około
+1850;Ile ludzi chodziło po Księżycu?;12.0;osób;kosmos;fakt
+1851;Ile znaków ma format UUID (z myślnikami)?;36.0;znaków;technologia;fakt
+1852;Ile znaków ma heksadecymalny zapis słowa 16‑bit (0000–FFFF)?;4.0;znaki;technologia;fakt
+1853;Ile wersów ma sonet (klasycznie)?;14.0;wersów;kultura/literatura;fakt
+1854;Ile sekund trwa 24 godziny?;86400.0;s;konwersje/czas;wyliczone(≈)
+1855;Ile sekund trwa 90 minut?;5400.0;s;konwersje/czas;wyliczone(≈)
+1856;Ile lat żyje żaba (w przybliżeniu)?;10.0;lat;natura/zwierzęta;około
+1857;Ile ścian ma ikozaedr?;20.0;ścian;ciekawostki/geometria;fakt
+1858;Ile stron ma typowy rozdział w powieści (w przybliżeniu)?;15.0;str.;kultura/książki;typowo
+1859;W którym roku powstała pierwsza drukowana gazeta (około)?;1605.0;rok;historia;około
+1860;Ile bajtów ma mebibajt (MiB)?;1048576.0;B;technologia;fakt
+1861;Ile godzin ma rok (365 dni) w przybliżeniu?;8760.0;h;czas;wyliczone(≈)
+1862;Ile kół ma trójkołowiec?;3.0;szt.;codzienne/ciekawostki;umownie
+1863;W którym roku powstał standard Wi‑Fi 802.11 (pierwszy, około)?;1997.0;rok;historia;około
+1864;Ile centymetrów to 10 m?;1000.0;cm;konwersje/dystans;wyliczone(≈)
+1865;Ile żeber ma człowiek (łącznie)?;24.0;szt.;człowiek;fakt
+1866;Ile dzieci miał król/królowa w bajce „Królewna Śnieżka” (zwykle jedna)?;1.0;dziecko;popkultura/bajki;umownie
+1867;Ile półtonów jest w oktawie?;12.0;szt.;muzyka;fakt
+1868;Ile kilogramów to 50 g?;0.05;kg;konwersje/masa;wyliczone(≈)
+1869;Ile członków miała klasyczna Drużyna Pierścienia?;9.0;osób;popkultura/fantasy;fakt
+1870;Ile minut trwa 16 godziny?;960.0;min;konwersje/czas;wyliczone(≈)
+1871;Ile herców ma standardowa sieć energetyczna w USA?;60.0;Hz;technologia/elektryka;fakt
+1872;Ile życzeń spełnia zwykle dżin w klasycznej opowieści?;3.0;szt.;popkultura/bajki;umownie
+1873;Ile amperów ma ładowarka 5V/2A?;2.0;A;technologia/elektryka;fakt
+1874;Ile minut trwa typowy odcinek serialu dramatycznego (bez reklam, w przybliżeniu)?;45.0;min;popkultura/seriale;typowo
+1875;Jaka jest maksymalna/przybliżona prędkość gołąb?;90.0;km/h;natura/zwierzęta;około
+1876;Ile symboli ma system szesnastkowy (0–9 i A–F)?;16.0;szt.;technologia;fakt
+1877;Jaka liczba występuje w tytule film „17 Again”?;17.0;liczba;popkultura/tytuły;fakt
+1878;Ile kilogramów to 750 g?;0.75;kg;konwersje/masa;wyliczone(≈)
+1879;Ile cali ma stopa?;12.0;cale;jednostki;fakt
+1880;Jaka liczba występuje w tytule film „12 małp”?;12.0;liczba;popkultura/tytuły;fakt
+1881;W którym roku powstał telegraf (Morse, około)?;1837.0;rok;historia;około
+1882;Jaka jest maksymalna/przybliżona prędkość kameleon?;2.0;km/h;natura/zwierzęta;około
+1883;Ile boków ma dziewięciokąt?;9.0;boków;ciekawostki/geometria;fakt
+1884;Ile sekund ma pół godziny?;1800.0;s;czas/ciekawostki;wyliczone(≈)
+1885;Ile różnych cyfr używa sudoku 9×9?;9.0;cyfr;gry/logika;fakt
+1886;Ile setów gra się w meczu tenisa stołowego w turniejach (często do 4 wygranych)?;7.0;setów;sport/tenis stołowy;typowo
+1887;Ile litery ma alfabet polski (zwykle licząc ą, ć, …)?;32.0;szt.;język;umownie
+1888;Ile wynosi 20% z 200?;40.0;jedn.;konwersje/procenty;wyliczone(≈)
+1889;W którym roku miała miejsce katastrofa promu Columbia?;2003.0;rok;historia;fakt
+1890;Ile wynosi 10% z 20?;2.0;jedn.;konwersje/procenty;wyliczone(≈)
+1891;Ile metrów ma bieg na 5000 m?;5000.0;m;sport/lekkoatletyka;fakt
+1892;Jaka liczba występuje w tytule film „1984”?;1984.0;liczba;popkultura/tytuły;fakt
+1893;Ile godzin ma 3 dni?;72.0;h;konwersje/czas;wyliczone(≈)
+1894;W którym roku zakończyła się wojna secesyjna w USA?;1865.0;rok;historia;fakt
+1895;Ile sekund trwa 20 minut?;1200.0;s;konwersje/czas;wyliczone(≈)
+1896;Ile punktów ma maksymalny wynik z trzech lotek (trzy razy 60)?;180.0;pkt;sport/dart;wyliczone(≈)
+1897;Ile tygodni ma kwartał (w przybliżeniu)?;13.0;tyg.;czas/biznes;około
+1898;Ile razy trzeba rzucić monetą, żeby oczekiwać około 1 orła? (w przybliżeniu);2.0;rzuty;gry/logika;około
+1899;Ile sekund trwa 11 minut?;660.0;s;konwersje/czas;wyliczone(≈)
+1900;Ile czarnych pól ma plansza 8×8?;32.0;pól;gry/logika;wyliczone(≈)
+1901;Ile bitów ma kolor w trybie RGB (8 bitów na kanał, 3 kanały)?;24.0;bit;technologia/grafika;wyliczone(≈)
+1902;Jaka liczba występuje w tytule film „50 pierwszych randek”?;50.0;liczba;popkultura/tytuły;fakt
+1903;Ile klawiszy ma typowy blok numeryczny (numpad) na klawiaturze PC?;17.0;szt.;technologia;typowo
+1904;Ile wynosi 90% z 300?;270.0;jedn.;konwersje/procenty;wyliczone(≈)
+1905;Ile metrów to 2 km?;2000.0;m;konwersje/dystans;wyliczone(≈)
+1906;Ile papierosów jest w standardowej paczce?;20.0;szt.;świat/codzienne;typowo
+1907;Ile tygodni trwa ciąża człowieka (w przybliżeniu)?;40.0;tyg.;człowiek;około
+1908;Ile księżyców ma Ziemia?;1.0;szt.;kosmos;fakt
+1909;Ile miesięcy ma 2 lata?;24.0;mies.;czas;wyliczone(≈)
+1910;W którym roku wynaleziono proch strzelniczy w Chinach (około)?;900.0;rok;historia;około
+1911;W którym roku zaprezentowano pierwsze PlayStation (premiera w Japonii)?;1994.0;rok;historia;fakt
+1912;Ile strun ma typowa harfa koncertowa?;47.0;strun;muzyka;typowo
+1913;Jaka liczba występuje w tytule film „Dziewiąte wrota”?;9.0;liczba;popkultura/tytuły;fakt
+1914;Ile kości ma dorosły człowiek (w przybliżeniu)?;206.0;szt.;człowiek;fakt
+1915;Ile litrów to 50 ml?;0.05;l;konwersje/objętość;wyliczone(≈)
+1916;Ile wynosi 25% z 100?;25.0;jedn.;konwersje/procenty;wyliczone(≈)
+1917;W którym roku powstał Facebook (uruchomienie serwisu)?;2004.0;rok;historia;fakt
+1918;Ile kropek ma podstawowa komórka pisma Braille’a?;6.0;kropek;język/ciekawostki;fakt
+1919;Jaka jest maksymalna/przybliżona prędkość kura?;14.0;km/h;natura/zwierzęta;około
+1920;Ile sekund trwa typowa reklama w TV?;30.0;s;media;typowo
+1921;Ile sekund trwa typowe odblokowanie telefonu (w przybliżeniu)?;2.0;s;codzienne;typowo
+1922;Ile metrów ma bieg na 1500 m?;1500.0;m;sport/lekkoatletyka;fakt
+1923;Ile boków ma trójkąt?;3.0;boków;ciekawostki/geometria;fakt
+1924;Ile kanałów ma Wi‑Fi 5 GHz (bardzo zależy od kraju) – w przybliżeniu?;24.0;kanałów;technologia/sieci;około
+1925;Ile mililitrów ma typowy kufel piwa?;500.0;ml;kuchnia/napoje;typowo
+1926;Ile metrów ma basen „krótki” (standard)?;25.0;m;sport/pływanie;fakt
+1927;W którym roku upadło Cesarstwo Zachodniorzymskie (tradycyjnie)?;476.0;rok;historia;fakt
+1928;Ile minut ma 30 dni?;43200.0;min;konwersje/czas;wyliczone(≈)
+1929;Ile minut trwa typowa przerwa obiadowa w pracy (w przybliżeniu)?;30.0;min;świat/społeczeństwo;typowo
+1930;Ile wynosi 5% z 100?;5.0;jedn.;konwersje/procenty;wyliczone(≈)
+1931;Ile pikseli ma zdjęcie 1920×1080 (Full HD)?;2073600.0;pikseli;technologia/grafika;wyliczone(≈)
+1932;Ile znaków ma typowa nazwa użytkownika w serwisach (w przybliżeniu)?;8.0;znaków;popkultura/internet;typowo
+1933;Ile bajtów ma kibibajt (KiB)?;1024.0;B;technologia;fakt
+1934;Ile prowincji ma Kanada?;10.0;szt.;geografia;fakt
+1935;Ile sekund trwa limit czasu na akcję w koszykówce (shot clock)?;24.0;s;sport/koszykówka;fakt
+1936;Ile paragrafów ma typowy regulamin (w przybliżeniu)?;50.0;par.;świat/społeczeństwo;typowo
+1937;Ile odcinków ma typowy dłuższy sezon anime (2 cour)?;24.0;odc.;popkultura/anime;typowo
+1938;Ile sekund trwa 1 milisekunda? (w sekundach);0.001;s;jednostki;fakt
+1939;Ile kombinacji ma 4‑cyfrowy PIN (0000–9999)?;10000.0;kombinacji;technologia/bezpieczeństwo;wyliczone(≈)
+1940;Ile wzgórz ma „siedmiowzgórzowy Rzym”?;7.0;szt.;kultura/historia;umownie
+1941;Ile jardów ma mila (angielska)?;1760.0;jardów;jednostki;fakt
+1942;Ile par skrętek ma kabel Ethernet?;4.0;pary;technologia/sieci;fakt
+1943;Ile klap ma saksofon (w przybliżeniu)?;20.0;szt.;muzyka/ciekawostki;typowo
+1944;Ile metrów ma boisko do siatkówki (szerokość)?;9.0;m;sport/siatkówka;fakt
+1945;Ile tygodni ma typowy rok szkolny (w przybliżeniu)?;36.0;tyg.;świat/społeczeństwo;około
+1946;Ile dni ma 4 tygodnie?;28.0;dni;konwersje/czas;wyliczone(≈)
+1947;W którym roku powstała firma Microsoft?;1975.0;rok;historia;fakt
+1948;Ile sekund trwa typowe „mrugnięcie okiem” (w przybliżeniu)?;0.3;s;człowiek;typowo
+1949;Ile pionków ma gracz w chińczyku (typowo)?;4.0;pionki;gry/planszowe;typowo
+1950;W którym roku miał premierę film „Król Lew” (animacja Disneya)?;1994.0;rok;historia;fakt
+1951;Ile małych kostek (cubies) ma kostka Rubika 3x3?;26.0;szt.;gry;fakt
+1952;Ile metrów ma wysokość bramki piłkarskiej?;2.44;m;sport/piłka nożna;fakt
+1953;Ile bitów ma skrót SHA‑1?;160.0;bit;technologia/bezpieczeństwo;fakt
+1954;Jaka jest maksymalna/przybliżona prędkość antylopa?;80.0;km/h;natura/zwierzęta;około
+1955;Ile lat żyje ważka (w przybliżeniu)?;0.5;lat;natura/zwierzęta;około
+1956;W którym roku wydano pierwszą wersję Minecraft (pełne wydanie)?;2011.0;rok;historia;fakt
+1957;Jaka jest maksymalna/przybliżona prędkość orzeł?;160.0;km/h;natura/zwierzęta;około
+1958;Ile minut ma 2 dni?;2880.0;min;konwersje/czas;wyliczone(≈)
+1959;Ile zer ma liczba 1 000 000?;6.0;zer;matematyka;fakt
+1960;Ile łap ma pająk?;8.0;szt.;natura/zwierzęta;fakt
+1961;Ile lat ma dekada?;10.0;lat;czas;fakt
+1962;Ile milimetrów ma 1 centymetr?;10.0;mm;jednostki;fakt
+1963;Ile metrów ma bieżnia na jedno okrążenie (tor 1)?;400.0;m;sport;fakt
+1964;Ile metrów ma wysokość siatki w tenisie (przy słupkach)?;1.07;m;sport/tenis;fakt
+1965;Ile bajtów ma jeden oktet?;1.0;B;technologia;fakt
+1966;Jaka liczba występuje w tytule książka „Trzecia fala”?;3.0;liczba;popkultura/tytuły;fakt
+1967;Ile cylindrów ma typowy silnik V8?;8.0;szt.;technologia/motoryzacja;fakt
+1968;W którym roku rozpoczęto budowę Wielkiego Muru Chińskiego (najstarsze odcinki, około)?;700.0;rok p.n.e. (≈);historia;około
+1969;Ile lat żyje wydra (w przybliżeniu)?;10.0;lat;natura/zwierzęta;około
+1970;Ile punktów ma maksymalny rzut w darcie (3×20)?;60.0;pkt;sport/dart;fakt
+1971;Ile strony ma moneta?;2.0;szt.;codzienne/ciekawostki;umownie
+1972;Ile rzutów potrzeba na perfekcyjne 501 w darcie (9-darter)?;9.0;rzutów;sport;fakt
+1973;Ile lat ma osoba pełnoletnia w większości krajów (typowo)?;18.0;lat;świat/społeczeństwo;typowo
+1974;Ile komór ma serce płaza (w przybliżeniu)?;3.0;szt.;natura/zwierzęta;około
+1975;Ile pól ma standardowa plansza do warcabów (8×8)?;64.0;pól;gry/logika;fakt
+1976;Ile dni ma 1 tygodnie?;7.0;dni;konwersje/czas;wyliczone(≈)
+1977;Jaka liczba występuje w tytule film „Drugi obieg”?;2.0;liczba;popkultura/tytuły;fakt
+1978;Ile metrów ma basen olimpijski?;50.0;m;sport/pływanie;fakt
+1979;Ile lat żyje żółw lądowy (w przybliżeniu)?;80.0;lat;natura/zwierzęta;około
+1980;Jaka jest maksymalna/przybliżona prędkość łoś?;55.0;km/h;natura/zwierzęta;około
+1981;Ile stopni ma kąt półpełny?;180.0;°;matematyka;fakt
+1982;Ile godzin dziennie spędza przeciętny człowiek w internecie (w przybliżeniu)?;6.0;h;świat/społeczeństwo;około
+1983;Ile chromosomów ma człowiek (w komórkach somatycznych)?;46.0;szt.;człowiek/biologia;fakt
+1984;Ile gramów ma jedna łyżka cukru (w przybliżeniu)?;12.0;g;kuchnia;typowo
+1985;Jaka jest maksymalna/przybliżona prędkość zając?;70.0;km/h;natura/zwierzęta;około
+1986;Ile mikrosekund jest w sekundzie?;1000000.0;µs;technologia/czas;fakt
+1987;W którym roku odbył się pierwszy lot Concorde (pierwszy lot próbny)?;1969.0;rok;historia;fakt
+1988;Ile litrów ma typowa butelka mleka w sklepie?;1.0;l;kuchnia;typowo
+1989;Ile lat żyje kot domowy (w przybliżeniu)?;15.0;lat;natura/zwierzęta;około
+1990;Ile godzin ma miesiąc 30‑dniowy (w przybliżeniu)?;720.0;h;czas;wyliczone(≈)
+1991;W którym roku miała miejsce rewolucja październikowa (wg kalendarza gregoriańskiego)?;1917.0;rok;historia;fakt
+1992;Jaka liczba występuje w tytule film „Ocean's Eleven”?;11.0;liczba;popkultura/tytuły;fakt
+1993;Ilu zawodników jest na boisku w futbolu amerykańskim (jedna drużyna naraz)?;11.0;osób;sport/futbol amerykański;fakt
+1994;Ile minut trwa 10 godziny?;600.0;min;konwersje/czas;wyliczone(≈)
+1995;Ile bajtów na sekundę to 1 MB/s (w uproszczeniu dziesiętnym)?;1000000.0;B/s;technologia/sieci;umownie
+1996;Ile dni trwa tydzień kalendarzowy?;7.0;dni;czas;fakt
+1997;Ile centymetrów ma cal?;2.54;cm;jednostki;fakt
+1998;W którym roku wynaleziono żarówkę (Edison, około)?;1879.0;rok;historia;około
+1999;Ile hetmanów ma jedna strona w szachach na starcie?;1.0;szt.;gry/szachy;fakt
+2000;Jaka liczba występuje w tytule film „300: Początek imperium”?;300.0;liczba;popkultura/tytuły;fakt
