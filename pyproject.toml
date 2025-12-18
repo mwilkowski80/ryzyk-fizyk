@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "number-questions"
+version = "0.1.0"
+description = "CLI generator pytań liczbowych do gry towarzyskiej"
+requires-python = ">=3.10"
+dependencies = [
+  "python-dotenv>=1.0.0",
+]
+
+[project.scripts]
+number-questions = "number_questions.cli:main"
+number-questions-web = "number_questions.web:main"
+
+[tool.setuptools]
+packages = ["number_questions"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
